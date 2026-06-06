@@ -195,6 +195,24 @@ get_emoji() {
   esac
 }
 
+get_category_display_name() {
+  local category="$1"
+  case "$category" in
+    engineering-laws)       echo "Engineering Laws" ;;
+    mental-models)          echo "Mental Models" ;;
+    cognitive-biases)       echo "Cognitive Biases" ;;
+    paradoxes)              echo "Paradoxes" ;;
+    design-principles)      echo "Design Principles" ;;
+    heuristics)             echo "Heuristics" ;;
+    fallacies)              echo "Logical Fallacies" ;;
+    economic-principles)    echo "Economic Principles" ;;
+    scientific-laws)        echo "Scientific Laws" ;;
+    decision-frameworks)    echo "Decision Frameworks" ;;
+    programming-wisdom)     echo "Programming Wisdom" ;;
+    *)                      echo "$category" ;;
+  esac
+}
+
 display_box() {
   local concept_file="$1"
   if [[ ! -f "$concept_file" ]]; then
@@ -215,6 +233,8 @@ display_box() {
   local width=72
   local emoji
   emoji="$(get_emoji "$category")"
+  local category_display
+  category_display="$(get_category_display_name "$category")"
 
   local pad=$(( width - 3 ))
 
@@ -257,7 +277,7 @@ display_box() {
   }
 
   print_top_border
-  print_line "$emoji  $name"
+  print_line "$emoji  [$category_display] \"$name\""
   print_separator
   print_wrapped "$description" 0
 
