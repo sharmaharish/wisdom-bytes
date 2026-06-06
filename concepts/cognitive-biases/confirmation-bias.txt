@@ -1,0 +1,9 @@
+Name: Confirmation Bias
+Category: cognitive-biases
+Tags: reasoning, perception, decision-making
+
+The tendency to search for, interpret, and recall information that confirms one's preexisting beliefs while giving disproportionately less attention to information that contradicts them.
+
+Example: A developer who believes a certain framework is superior will notice every article praising it but scroll past benchmarks showing its competitors perform better.
+
+Source: https://en.wikipedia.org/wiki/Confirmation_bias

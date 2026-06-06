@@ -1,0 +1,9 @@
+Name: Occam's Razor
+Category: mental-models
+Tags: reasoning, simplicity, problem-solving
+
+Entities should not be multiplied without necessity. Among competing hypotheses, the one with the fewest assumptions should be selected.
+
+Example: If you hear hoofbeats outside your window, think horses, not zebras. The simplest explanation — a horse — is more likely than an exotic alternative.
+
+Source: https://fs.blog/mental-models/

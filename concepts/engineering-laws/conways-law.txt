@@ -1,0 +1,9 @@
+Name: Conway's Law
+Category: engineering-laws
+Tags: systems, organization, architecture
+
+Organizations design systems that mirror their own communication structure.
+
+Example: A company with three frontend teams and two backend teams will produce a system with three frontend services and two backend services, regardless of what the actual architecture should be.
+
+Source: https://lawsofsoftwareengineering.com/laws/conways-law/

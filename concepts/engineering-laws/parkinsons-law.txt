@@ -1,0 +1,9 @@
+Name: Parkinson's Law
+Category: engineering-laws
+Tags: time, management, productivity, work
+
+Work expands so as to fill the time available for its completion.
+
+Example: If you give yourself a week to write a 1-hour presentation, it'll take a week. If you give yourself a day, you'll find a way to finish it in a day.
+
+Source: https://lawsofsoftwareengineering.com/laws/parkinsons-law/
