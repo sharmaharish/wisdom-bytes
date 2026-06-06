@@ -1,0 +1,9 @@
+Name: Paradox of Choice
+Category: paradoxes
+Tags: decision-making, psychology, ux, product-design
+
+The Paradox of Choice posits that while some choice is better than none, too many options can lead to anxiety, decision paralysis, and lower satisfaction with the chosen option. In software design, every new feature, configuration option, or library alternative adds cognitive overhead. Users and developers alike face diminishing returns—beyond a certain threshold, more choice reduces rather than improves the experience.
+
+Example: A CI/CD tool with 200 configuration options causes developers to spend hours choosing settings instead of shipping code, unlike a simpler tool with sensible defaults and 10 key options.
+
+Source: https://en.wikipedia.org/wiki/The_Paradox_of_Choice

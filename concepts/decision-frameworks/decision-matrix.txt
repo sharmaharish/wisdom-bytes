@@ -1,0 +1,9 @@
+Name: Decision Matrix
+Category: decision-frameworks
+Tags: decision-making, analysis, evaluation
+
+A Decision Matrix (also known as Pugh Matrix or weighted scoring) evaluates multiple options against a set of weighted criteria. Each option is scored per criterion, multiplied by the criterion's weight, and summed. It forces explicit quantification of trade-offs and reduces cognitive biases like recency or anchoring. It's most useful when the decision involves multiple stakeholders with different priorities.
+
+Example: A team choosing a database for a new service lists options (PostgreSQL, MongoDB, DynamoDB) and criteria (consistency — weight 5, scalability — weight 4, operational familiarity — weight 3, cost — weight 2). Scoring each option per criterion, multiplying by weights, and summing gives an objective ranking that depersonalizes the debate.
+
+Source: https://en.wikipedia.org/wiki/Decision_matrix

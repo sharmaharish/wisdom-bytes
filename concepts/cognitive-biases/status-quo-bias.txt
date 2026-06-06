@@ -1,0 +1,9 @@
+Name: Status Quo Bias
+Category: cognitive-biases
+Tags: change-resistance, decision-making, inertia
+
+Status Quo Bias is an emotional preference for the current state of affairs. People tend to view any change from the baseline as a loss, even when the change offers clear benefits. This bias is amplified by loss aversion and the mere exposure effect. In technology organizations, it explains why teams stick with outdated tools, legacy codebases, and inefficient processes long after better alternatives exist.
+
+Example: An engineering team continues using a slow, expensive CI/CD platform because "that's what we've always used." When a teammate proposes switching to a faster, cheaper alternative, the team resists with reasons like "we'd need to retrain everyone" and "there might be compatibility issues." The costs of switching are concrete and immediate, while the benefits are abstract and future — so the status quo wins, even when the ROI of switching is obviously positive.
+
+Source: https://en.wikipedia.org/wiki/Status_quo_bias

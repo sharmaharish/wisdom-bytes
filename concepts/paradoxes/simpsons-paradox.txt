@@ -1,0 +1,9 @@
+Name: Simpson's Paradox
+Category: paradoxes
+Tags: statistics, data-analysis, metrics, bias
+
+Simpson's Paradox occurs when a trend appears in several different groups of data but disappears or reverses when these groups are combined. In software engineering, aggregate metrics can mask important subgroup patterns. A feature may improve overall response time while actually degrading performance for every individual user segment—the aggregation conceals the truth. Proper slicing of metrics by relevant dimensions is essential to avoid misinterpretation.
+
+Example: Deployment frequency appears to increase after adopting a new process when looking at company-wide data, but every individual team actually deploys less frequently—the overall number rose only because more teams were created.
+
+Source: https://en.wikipedia.org/wiki/Simpson%27s_paradox

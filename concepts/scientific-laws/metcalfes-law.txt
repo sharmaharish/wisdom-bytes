@@ -1,0 +1,9 @@
+Name: Metcalfe's Law
+Category: scientific-laws
+Tags: networks, value, connectivity
+
+The value of a telecommunications network grows proportionally to the square of the number of connected users. Mathematically, if a network has n users, it has n(n−1)/2 possible connections, and each new user increases the value for all existing users. This law explains why network-based businesses scale superlinearly.
+
+Example: A fax machine is worthless by itself. The second fax machine creates one connection. The 100th fax machine creates 4,950 possible connections. The 10,000th creates nearly 50 million — the value of the network explodes as it grows.
+
+Source: https://en.wikipedia.org/wiki/Metcalfe%27s_law

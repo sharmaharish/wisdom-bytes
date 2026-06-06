@@ -1,0 +1,9 @@
+Name: Probabilistic Thinking
+Category: mental-models
+Tags: decision-making, statistics, uncertainty
+
+Probabilistic thinking is the practice of estimating the likelihood of different outcomes and making decisions based on expected value rather than certainty. The future is inherently uncertain, and binary thinking (something will or won't happen) ignores the rich spectrum of probabilities. By assigning rough probabilities to outcomes and updating them with new evidence, you can make better decisions even when you can't predict the future with precision. It is the foundation of Bayesian reasoning.
+
+Example: A venture capitalist knows that most startups fail. Instead of trying to pick a single certain winner (which is impossible), they build a portfolio of investments, each assigned a probability of success. A fund might expect 80% of investments to fail, 10% to return 5x, 5% to return 10x, and 1% to return 100x. The expected value of the portfolio can be positive even though most individual bets lose money.
+
+Source: https://fs.blog/probabilistic-thinking/

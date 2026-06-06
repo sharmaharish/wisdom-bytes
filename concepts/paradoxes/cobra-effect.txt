@@ -1,0 +1,9 @@
+Name: Cobra Effect
+Category: paradoxes
+Tags: perverse-incentives, unintended-consequences, metrics, gaming
+
+The Cobra Effect occurs when an attempted solution to a problem actually makes the problem worse, typically because of perverse incentives embedded in the solution's design. In software engineering, metrics-based management frequently triggers this: measuring developers by lines of code produces bloated codebases, measuring by bug fixes encourages introducing bugs, and measuring by story points leads to point inflation. The act of measuring changes the behavior being measured, often destructively.
+
+Example: To reduce server costs, a team is measured on infrastructure spend. They respond by merging fewer deployments, delaying releases, and hoarding reserved instances—ultimately increasing organizational cost through lost feature velocity and wasted capacity.
+
+Source: https://en.wikipedia.org/wiki/Cobra_effect

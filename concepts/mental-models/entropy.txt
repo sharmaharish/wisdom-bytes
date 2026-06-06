@@ -1,0 +1,9 @@
+Name: Entropy (Mental Model)
+Category: mental-models
+Tags: physics, systems, disorder
+
+Entropy is a concept from thermodynamics that describes the tendency of systems to move from order toward disorder. In any closed system, without the input of energy, things naturally degrade, become chaotic, and lose structure. As a mental model, entropy reminds us that maintaining order — in organizations, relationships, codebases, or habits — requires continuous effort. Left to their own devices, things fall apart. This is not pessimistic; it is a law of nature that informs where to invest energy.
+
+Example: A codebase starts clean and well-organized. Without deliberate effort — code reviews, refactoring, documentation — it naturally accumulates technical debt, duplicated logic, and inconsistent patterns. The team must continuously invest energy (cleanup sprints, architectural reviews) just to keep the code from degrading into an unmaintainable mess.
+
+Source: https://fs.blog/entropy/

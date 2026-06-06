@@ -1,0 +1,9 @@
+Name: Hofstadter's Law
+Category: engineering-laws
+Tags: estimation, project-management, psychology
+
+It always takes longer than you expect, even when you take into account Hofstadter's Law. This recursive self-referential law captures the fundamental difficulty of software estimation: our predictions are systematically optimistic, and even accounting for this bias is insufficient. Unknown unknowns, cascading delays, and the inherent unpredictability of complex work ensure deadlines are routinely missed.
+
+Example: A team estimates a feature will take 3 weeks. The tech lead, familiar with Hofstadter's Law, doubles it to 6 weeks. It still takes 8 weeks because an unforeseen third-party API deprecation forces a major refactor. The doubling adjustment helped but was still not enough — the recursive nature of the law means no adjustment fully compensates.
+
+Source: https://en.wikipedia.org/wiki/Hofstadter%27s_law

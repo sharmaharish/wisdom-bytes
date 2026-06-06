@@ -1,0 +1,9 @@
+Name: Comparative Advantage
+Category: economic-principles
+Tags: trade, specialization, efficiency
+
+Even if one party is better at producing everything, both parties still benefit from specializing in what they are relatively most efficient at and trading. The key insight is that opportunity costs differ, so focusing on the activity with the lowest opportunity cost maximizes total output for everyone involved.
+
+Example: A senior engineer is better than an intern at both coding and writing documentation. But the engineer's time is best spent coding (high-value work), while the intern handles documentation (lower relative opportunity cost). Both produce more total value by specializing.
+
+Source: https://en.wikipedia.org/wiki/Comparative_advantage

@@ -1,0 +1,9 @@
+Name: Diminishing Returns
+Category: economic-principles
+Tags: production, marginal-analysis, efficiency
+
+Adding more of one input while holding others constant will eventually yield progressively smaller increases in output. The first unit of an additional resource provides the biggest gain; subsequent units contribute less and less. This principle sets a natural limit on how much scaling a single factor can achieve.
+
+Example: Adding one more engineer to a late-stage software project might increase output slightly, but adding a tenth engineer to the same team could cause coordination overhead that actually reduces net productivity.
+
+Source: https://en.wikipedia.org/wiki/Diminishing_returns

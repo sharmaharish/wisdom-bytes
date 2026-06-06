@@ -1,0 +1,9 @@
+Name: Dunbar's Number
+Category: engineering-laws
+Tags: team-size, organizations, psychology
+
+The cognitive limit to the number of stable social relationships a person can maintain is approximately 150 people. Beyond this threshold, group cohesion breaks down and formal rules, hierarchies, and structures are needed to maintain order. In software engineering, this affects team sizing, organizational structure, and communication patterns — teams larger than ~150 cannot rely on informal communication and shared context.
+
+Example: A startup grows from 20 to 200 engineers. At 20, everyone knows each other, decisions are made in hallway conversations, and cross-team coordination is effortless. At 200, engineers don't recognize half the people at all-hands meetings, information silos form, and coordination requires formal processes, documentation, and dedicated cross-team liaisons. The company must restructure into smaller autonomous teams to regain efficiency.
+
+Source: https://en.wikipedia.org/wiki/Dunbar%27s_number

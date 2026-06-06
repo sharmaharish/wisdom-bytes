@@ -1,0 +1,9 @@
+Name: Dunning-Kruger Effect
+Category: cognitive-biases
+Tags: metacognition, competence, self-awareness
+
+The Dunning-Kruger Effect describes a cognitive bias where people with low ability at a task overestimate their ability, while those with high ability underestimate their competence. This occurs because unskilled individuals lack the metacognitive skills to accurately assess their own performance, while experts assume tasks are easy for everyone. In software engineering, junior developers fresh out of bootcamps often overestimate their skills, while senior engineers with decades of experience frequently doubt their own expertise.
+
+Example: A new developer who just learned React builds a simple todo app and believes they're ready to architect a large-scale application, dismissing code reviews as unnecessary. Meanwhile, a staff engineer who has shipped production systems for 15 years hesitates to estimate a task because they're acutely aware of edge cases, failure modes, and unknowns.
+
+Source: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect

@@ -1,0 +1,9 @@
+Name: Moore's Law
+Category: scientific-laws
+Tags: computing, transistors, scaling
+
+The number of transistors on a microchip doubles approximately every two years, leading to exponential growth in computational power and a corresponding decrease in cost per transistor. Observed by Gordon Moore in 1965, this empirical trend drove the entire semiconductor industry for decades and enabled the modern computing revolution.
+
+Example: A 2024 smartphone has more computing power than a supercomputer from the 1990s. This exponential scaling made possible innovations like deep learning, real-time video processing, and cloud computing at massive scale.
+
+Source: https://en.wikipedia.org/wiki/Moore%27s_law

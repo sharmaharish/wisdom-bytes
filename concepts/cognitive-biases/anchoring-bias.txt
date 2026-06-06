@@ -1,0 +1,9 @@
+Name: Anchoring Bias
+Category: cognitive-biases
+Tags: decision-making, negotiation, estimation
+
+Anchoring Bias is the tendency to rely too heavily on the first piece of information encountered (the "anchor") when making decisions. Subsequent judgments are adjusted from that anchor rather than made independently, often resulting in insufficient adjustment. In software estimation, the first number mentioned in a planning meeting anchors the entire discussion, skewing timelines even when the initial estimate was pulled from thin air.
+
+Example: During sprint planning, a product manager says "This feature should take about 3 weeks." Even though the engineering team hasn't analyzed the requirements, all subsequent estimates cluster around 3 weeks. The team might argue for 4 or 5 weeks, but nobody suggests 2 days or 3 months — the 3-week anchor has already set the range of acceptable answers.
+
+Source: https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)

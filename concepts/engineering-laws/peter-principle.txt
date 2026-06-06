@@ -1,0 +1,9 @@
+Name: Peter Principle
+Category: engineering-laws
+Tags: management, career, organizations
+
+People in a hierarchy tend to rise to their level of incompetence. In organizations, employees who perform well are promoted until they reach a role where they are no longer competent, and there they remain. This means that over time, every position tends to be filled by someone who is not competent enough to be promoted further. In software engineering, this often manifests as excellent individual contributors being promoted to management roles they are ill-suited for.
+
+Example: A brilliant senior engineer consistently delivers high-quality code and is promoted to Engineering Manager. The new role requires staffing, budgeting, conflict resolution, and stakeholder management — skills quite different from writing software. The engineer struggles, morale on the team declines, and both the individual and the organization suffer from a promotion that removed a great IC and created a poor manager.
+
+Source: https://en.wikipedia.org/wiki/Peter_principle

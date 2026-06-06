@@ -1,0 +1,9 @@
+Name: Hanlon's Razor
+Category: engineering-laws
+Tags: communication, psychology, collaboration
+
+Never attribute to malice that which is adequately explained by ignorance, incompetence, or misunderstanding. In software engineering, most failures, bugs, and design decisions that seem malicious are actually the result of miscommunication, lack of context, or honest mistakes. Assuming good intent reduces conflict and leads to more productive debugging of the real problem.
+
+Example: A developer discovers that a coworker committed code with no error handling that deletes user data on failure. Rather than assuming malice ("they wanted to sabotage the system"), they assume ignorance. Upon asking, they learn the coworker was unaware of the data-criticality and was following an older pattern used elsewhere. A quick conversation resolves it — no malice involved.
+
+Source: https://en.wikipedia.org/wiki/Hanlon%27s_razor

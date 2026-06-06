@@ -1,0 +1,9 @@
+Name: Postel's Law (Robustness Principle)
+Category: engineering-laws
+Tags: api-design, protocols, robustness
+
+Be conservative in what you send, be liberal in what you accept. When designing protocols, APIs, and interfaces, you should strictly adhere to specifications for your own output while tolerating minor variations and errors in input from others. This principle increases interoperability and system resilience by ensuring that well-formed senders can communicate with tolerant receivers even as implementations vary.
+
+Example: An HTTP client library always sends perfectly formatted headers according to RFC 7230, but when parsing server responses, it gracefully handles servers that send extra whitespace, non-standard header ordering, or missing optional fields. This liberal acceptance means the client works with more servers in practice, even those with imperfect implementations.
+
+Source: https://en.wikipedia.org/wiki/Robustness_principle

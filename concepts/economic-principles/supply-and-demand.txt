@@ -1,0 +1,9 @@
+Name: Supply and Demand
+Category: economic-principles
+Tags: markets, pricing, equilibrium
+
+Prices in a market economy are determined by the interplay of supply (how much producers are willing to sell at a given price) and demand (how much consumers are willing to buy). When demand exceeds supply, prices rise, incentivizing more production and reducing consumption until balance is restored. Conversely, oversupply relative to demand pushes prices down.
+
+Example: When a new iPhone launches, high demand and limited initial supply drive up resale prices. After a few months, production catches up and prices settle at the standard retail level.
+
+Source: https://en.wikipedia.org/wiki/Supply_and_demand

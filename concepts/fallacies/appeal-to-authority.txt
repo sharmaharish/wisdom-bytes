@@ -1,0 +1,9 @@
+Name: Appeal to Authority
+Category: fallacies
+Tags: authority, argumentation, credibility
+
+The appeal to authority fallacy (argumentum ab auctoritate) occurs when someone claims a proposition is true simply because an authority figure says it is, without providing substantive evidence. While expert opinions can be valuable evidence, the fallacy arises when the authority is not an expert in the relevant domain, when experts disagree, or when authority is used as the sole basis for belief. Proper use of authority involves citing qualified experts whose consensus aligns with the available evidence.
+
+Example: "A famous actor says this diet pill works, so it must be effective." The actor is an authority on entertainment, not nutrition or medicine. Their endorsement carries no scientific weight.
+
+Source: https://en.wikipedia.org/wiki/Argument_from_authority

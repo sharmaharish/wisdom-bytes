@@ -1,0 +1,9 @@
+Name: It Works on My Machine
+Category: programming-wisdom
+Tags: debugging, devops, environment
+
+"It works on my machine" is the classic retort when a developer's code fails outside their local environment. It highlights the gap between development and production environments — different OS versions, dependency sets, configurations, data, or timing. The phrase exposes a lack of environment reproducibility. Containers, infrastructure-as-code, and CI/CD pipelines are the modern solutions: make every environment reproducible from the same definition.
+
+Example: A developer writes a file upload feature on macOS with a case-insensitive filesystem. In production (Linux, case-sensitive), the file `/Uploads/photo.jpg` fails because the code references `/uploads/photo.jpg`. The developer's tests passed locally. A Docker setup would have caught this earlier by matching the production filesystem behavior.
+
+Source: https://en.wikipedia.org/wiki/Debugging

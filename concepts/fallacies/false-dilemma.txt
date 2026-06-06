@@ -1,0 +1,9 @@
+Name: False Dilemma
+Category: fallacies
+Tags: binary-thinking, oversimplification, logic
+
+The false dilemma (also called false dichotomy or black-and-white thinking) is a fallacy that presents only two options or outcomes as if they are the only possibilities, when in fact more options exist. It artificially restricts the choice space, forcing a decision between extremes and ignoring middle ground, compromises, or alternative approaches. This fallacy is effective because it simplifies complex issues into an "us vs. them" or "this or that" narrative, making it difficult for people to see beyond the presented alternatives.
+
+Example: "You're either with us or against us." This statement ignores the possibility of being neutral, having nuanced views, disagreeing on some points and agreeing on others, or supporting a third option entirely.
+
+Source: https://en.wikipedia.org/wiki/False_dilemma

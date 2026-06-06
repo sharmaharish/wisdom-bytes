@@ -1,0 +1,9 @@
+Name: Gresham's Law
+Category: economic-principles
+Tags: currency, quality, adverse-selection
+
+Bad money drives good money out of circulation. When two forms of money circulate with the same face value but different intrinsic value, people hoard the valuable one and spend the debased one. The principle extends beyond currency to any situation where lower-quality options displace higher-quality ones.
+
+Example: In cryptocurrency markets, when multiple tokens with different fundamentals trade on the same exchange, poor-quality meme coins can crowd out investment in more technically sound projects because speculators chase short-term volatility rather than long-term value.
+
+Source: https://en.wikipedia.org/wiki/Gresham%27s_law

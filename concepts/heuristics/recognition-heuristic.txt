@@ -1,0 +1,9 @@
+Name: Recognition Heuristic
+Category: heuristics
+Tags: recognition, memory, choice
+
+The recognition heuristic states that if one of two objects is recognized and the other is not, people infer that the recognized object has the higher value on the criterion being judged. It operates on the principle that recognition is a valid cue in many real-world environments—things that are more famous or widely known often correlate with greater significance. This heuristic works well in domains where recognition correlates with the criterion (retrieving from an environment where memorable things stand out) but can mislead when recognition is manipulated or uncorrelated with actual value.
+
+Example: When asked which city has a larger population—San Diego or a randomly named unfamiliar city like "Mönchengladbach"—most people correctly choose San Diego simply because they recognize the name, even knowing nothing about San Diego's actual population.
+
+Source: https://en.wikipedia.org/wiki/Recognition_heuristic

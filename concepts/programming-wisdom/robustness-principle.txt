@@ -1,0 +1,9 @@
+Name: Robustness Principle
+Category: programming-wisdom
+Tags: design, reliability, protocols
+
+The Robustness Principle (Postel's Law) states: "Be conservative in what you send, be liberal in what you accept." Servers should reject malformed data but accept reasonable variations in inputs to maximize interoperability. In practice, strict sending prevents ambiguity while lenient receiving improves compatibility. The principle is strongest in protocol design; applying it to security-critical parsing requires care, as overly liberal acceptance can be exploited.
+
+Example: An HTTP server that accepts both `\r\n` and `\n` line endings in request headers (liberal acceptance) while always emitting RFC-compliant `\r\n` in responses (conservative sending) will interoperate with buggy clients that use bare `\n`. The server handles real-world diversity without compromising its own output standards.
+
+Source: https://en.wikipedia.org/wiki/Robustness_principle

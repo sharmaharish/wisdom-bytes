@@ -1,0 +1,9 @@
+Name: Law of Demeter
+Category: design-principles
+Tags: coupling, encapsulation, object-oriented-design, modularity
+
+The Law of Demeter, also known as the principle of least knowledge, states that a unit should only talk to its immediate friends and should not have knowledge of the internal structure of objects it interacts with. In practical terms, this discourages chains of method calls like a.b().c().d()—such chains indicate tight coupling to deep object hierarchies. Violations make code brittle because changes anywhere in the chain can break callers. The principle is sometimes summarized as "Don't talk to strangers."
+
+Example: Instead of writing order.getCustomer().getAddress().getCity(), the Order class should provide order.getCustomerCity() directly, or the caller should receive what it needs without navigating the object graph.
+
+Source: https://en.wikipedia.org/wiki/Law_of_Demeter

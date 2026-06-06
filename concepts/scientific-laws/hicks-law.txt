@@ -1,0 +1,9 @@
+Name: Hick's Law
+Category: scientific-laws
+Tags: cognition, decision-making, design
+
+The time it takes to make a decision increases logarithmically with the number of available choices. More options mean longer deliberation, though the relationship is not linear — each additional option adds less incremental delay than the previous one. This law guides interface design to reduce cognitive load.
+
+Example: A dropdown menu with 50 font sizes forces the user to read and compare each option. A well-designed UI presents the 5 most common sizes upfront and hides the rest under "Custom." This reduces decision time from seconds to a fraction of a second.
+
+Source: https://en.wikipedia.org/wiki/Hick%27s_law

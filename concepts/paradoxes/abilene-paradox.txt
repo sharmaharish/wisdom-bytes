@@ -1,0 +1,9 @@
+Name: Abilene Paradox
+Category: paradoxes
+Tags: group-decision-making, communication, management, consensus
+
+The Abilene Paradox describes how groups collectively decide on a course of action that no individual member actually wants, because each member assumes their concerns are unique and goes along with perceived group consensus. In software teams, this manifests when everyone privately recognizes a flawed architecture decision but no one speaks up, assuming everyone else supports it. The result is organizational alignment on a decision nobody actually endorses.
+
+Example: A team agrees to adopt a microservices architecture during a meeting, but afterward each engineer privately admits they thought it was overkill—they only agreed because they thought everyone else wanted it.
+
+Source: https://en.wikipedia.org/wiki/Abilene_paradox

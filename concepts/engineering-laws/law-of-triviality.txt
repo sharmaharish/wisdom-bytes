@@ -1,0 +1,9 @@
+Name: The Law of Triviality (Bike-Shedding)
+Category: engineering-laws
+Tags: decision-making, meetings, management
+
+Groups give disproportionate time and attention to trivial issues while neglecting more important but complex ones, because everyone feels qualified to have an opinion on simple matters. In meetings, the color of a bike shed or the formatting of code generates hours of debate, while critical architectural decisions with far-reaching consequences receive minimal scrutiny. The simpler the topic, the more people engage.
+
+Example: A team has one hour to discuss a new service architecture (affecting scalability, cost, and reliability for the next 3 years) and decide on a CSS framework for the admin panel. The architecture discussion wraps in 10 minutes with minimal input, but the CSS framework debate consumes 50 minutes as every engineer has strong opinions about indentation, naming conventions, and utility classes.
+
+Source: https://en.wikipedia.org/wiki/Law_of_triviality

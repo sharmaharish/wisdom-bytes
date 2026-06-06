@@ -1,0 +1,9 @@
+Name: Principle of Least Astonishment
+Category: design-principles
+Tags: ux, api-design, usability, predictability
+
+The Principle of Least Astonishment states that a system should behave in the way users or developers most expect it to, minimizing surprise. In API design, function names should match their behavior, errors should be predictable, and side effects should be documented and minimal. Users build mental models based on conventions and past experience—violating those expectations creates bugs and erodes trust. The principle applies at every level from UI labels to library interfaces to database schema design.
+
+Example: A method called deleteUser() that soft-deletes by setting a flag rather than removing the row violates least astonishment. Most callers expect actual deletion. Either name it deactivateUser() or truly delete the record.
+
+Source: https://en.wikipedia.org/wiki/Principle_of_least_astonishment

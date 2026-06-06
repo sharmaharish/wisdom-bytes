@@ -1,0 +1,9 @@
+Name: Circle of Competence
+Category: mental-models
+Tags: decision-making, investing, self-awareness
+
+The circle of competence is the boundary within which an individual has deep, validated knowledge and experience. Operating inside this circle allows for confident, high-quality decisions; operating outside it invites mistakes. The size of the circle matters less than knowing its boundaries. Intellectual honesty about what you don't know is a competitive advantage — it prevents you from making bets where luck, not skill, determines the outcome.
+
+Example: Warren Buffett invests almost exclusively in businesses he can understand deeply — simple, predictable companies with durable competitive advantages. He avoids tech stocks not because they can't be good investments, but because they fall outside his circle of competence. When he did invest in Apple, it was after understanding it as a consumer brand, not a tech company.
+
+Source: https://fs.blog/circle-of-competence/

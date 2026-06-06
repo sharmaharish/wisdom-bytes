@@ -1,0 +1,9 @@
+Name: The Bus Factor
+Category: programming-wisdom
+Tags: team-management, risk, bus-factor
+
+The Bus Factor (or Truck Factor) is the minimum number of team members who, if suddenly unavailable, would stall the project — typically because they hold critical, undocumented knowledge. A bus factor of 1 is a single point of failure. Good engineering practices — code reviews, pair programming, thorough documentation, cross-training, and rotating responsibilities — increase the bus factor and make a project more resilient.
+
+Example: A team has one senior engineer who understands the deployment pipeline, the database schema, and the legacy authentication module. When they go on leave, no one can deploy. The bus factor is 1. Mitigations include documenting the deployment process, setting up CI/CD automation, and having a second engineer shadow the pipeline work over several sprints.
+
+Source: https://en.wikipedia.org/wiki/Bus_factor

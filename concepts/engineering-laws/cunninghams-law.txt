@@ -1,0 +1,9 @@
+Name: Cunningham's Law
+Category: engineering-laws
+Tags: communication, community, psychology
+
+The best way to get the right answer on the Internet is to post the wrong answer. People are more motivated to correct an error than to provide an answer from scratch. This principle leverages the human tendency to assert expertise and demonstrate knowledge by correcting others. In practice, asking a question framed as a confident but incorrect statement often gets faster and more detailed corrections than a straightforward request for help.
+
+Example: A developer needs to understand how Kubernetes ingress controllers handle SSL termination. Instead of asking "How does ingress handle SSL?", they post "Kubernetes ingress controllers can't terminate SSL — that's handled at the load balancer level only." Within hours, multiple engineers provide detailed explanations with configuration examples, showing exactly how it works and where the misconception lies.
+
+Source: https://en.wikipedia.org/wiki/Ward_Cunningham#Cunningham%27s_Law

@@ -1,0 +1,9 @@
+Name: Sunk Cost Fallacy
+Category: cognitive-biases
+Tags: economics, decision-making, escalation
+
+The Sunk Cost Fallacy is the tendency to continue an endeavor once an investment in money, effort, or time has been made, even when continuing is no longer rational. The fallacy arises because people are loss-averse and want to avoid feeling that their past investment was wasted. In engineering, this manifests as projects that drag on for years despite clear evidence they should be abandoned or rewritten.
+
+Example: A team has spent 18 months building a custom CMS using an obscure framework. The framework is now unmaintained, hiring developers who know it is nearly impossible, and the product doesn't meet user needs. Despite all evidence, the team argues against rewriting in a mainstream framework because "we've already invested 18 months of work." Those 18 months are sunk — the rational choice depends only on future costs and benefits.
+
+Source: https://en.wikipedia.org/wiki/Sunk_cost

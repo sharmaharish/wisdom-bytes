@@ -1,0 +1,9 @@
+Name: First Principles
+Category: mental-models
+Tags: problem-solving, reasoning, physics
+
+First principles thinking is the practice of breaking down complex problems into their most basic, foundational elements — the truths that cannot be deduced from anything else — and then rebuilding a solution from the ground up. It avoids reasoning by analogy, which can perpetuate hidden assumptions and flawed premises. By stripping away conventions and asking "what do we know to be true?", you arrive at novel solutions that were invisible when working from existing frameworks.
+
+Example: Elon Musk wanted to reduce the cost of space rockets. Instead of accepting that rockets are expensive (reasoning by analogy), he broke down a rocket into raw materials — aluminum alloys, copper, titanium — and found the material cost was only ~2% of the market price. He then founded SpaceX to build rockets from first principles, dramatically cutting costs.
+
+Source: https://fs.blog/first-principles/

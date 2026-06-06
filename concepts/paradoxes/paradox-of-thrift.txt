@@ -1,0 +1,9 @@
+Name: Paradox of Thrift
+Category: paradoxes
+Tags: economics, resource-management, optimization, trade-offs
+
+The Paradox of Thrift states that if everyone tries to save more money during a recession, total savings in the economy may actually decrease because reduced consumption lowers aggregate demand, income, and employment. In software, individual teams hoarding resources, optimizing locally, or refusing to share infrastructure to "save" can harm the overall system. Optimal system performance often requires individual teams to spend more or accept trade-offs for the common good.
+
+Example: Every team optimizes its own service for maximum standalone efficiency by running dedicated databases, resulting in 30 underutilized database clusters instead of 3 shared ones—wasting total organizational resources.
+
+Source: https://en.wikipedia.org/wiki/Paradox_of_thrift

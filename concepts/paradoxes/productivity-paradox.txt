@@ -1,0 +1,9 @@
+Name: Productivity Paradox
+Category: paradoxes
+Tags: productivity, it-investment, measurement, solow-paradox
+
+The Productivity Paradox, also known as Solow's Paradox, observes that the relationship between investment in information technology and productivity gains is not straightforward—massive IT spending does not reliably produce proportional improvements in measured productivity. In software, adopting the latest tools, frameworks, and automation does not guarantee faster delivery. Productivity depends more on organizational factors, skill, and process maturity than on the quantity of technology deployed.
+
+Example: A team that adopts Kubernetes, microservices, event sourcing, and a half-dozen databases may see development velocity drop for months, while a competitor using a monolith on a single server ships features faster.
+
+Source: https://en.wikipedia.org/wiki/Productivity_paradox

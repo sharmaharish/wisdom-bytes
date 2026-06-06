@@ -1,0 +1,9 @@
+Name: Affect Heuristic
+Category: heuristics
+Tags: emotion, decision-making, intuition
+
+The affect heuristic describes the human tendency to make decisions based on immediate emotional reactions—likes and dislikes—rather than through deliberate analytical reasoning. When faced with a complex judgment, people substitute the question "What do I think about this?" with the simpler question "How do I feel about this?" This can lead to rapid, intuitive decisions that feel right but may systematically misjudge risks and benefits. For example, something that evokes positive feelings (like a new technology) is often judged as having high benefits and low risks, while something that evokes fear (like nuclear power) is judged as having low benefits and high risks, regardless of the actual evidence.
+
+Example: A person who feels afraid of flying might overestimate the risk of a plane crash and underestimate the risk of a car crash, despite statistics showing flying is far safer per mile traveled.
+
+Source: https://en.wikipedia.org/wiki/Affect_heuristic

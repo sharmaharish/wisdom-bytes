@@ -1,0 +1,9 @@
+Name: The Two Hard Things
+Category: programming-wisdom
+Tags: humor, naming, caching
+
+Phil Karlton's famous quip — "There are only two hard things in Computer Science: cache invalidation and naming things" — has spawned many variants (including "off-by-one errors"). Cache invalidation is hard because caches introduce stale data, timing windows, and distributed consistency problems that resist clean solutions. Naming is hard because a good name must communicate intent, type, scope, and usage while fitting the codebase's conventions.
+
+Example: A function called `processData()` tells readers nothing — is it cleaning, transforming, validating, or sending? A better name like `sanitizeUserInput()` or `transformToApiFormat()` makes the code self-documenting. Meanwhile, a cached user profile that isn't invalidated when the user updates their avatar leaves stale data visible for hours — a cache invalidation bug that's notoriously hard to trace.
+
+Source: https://en.wikipedia.org/wiki/Naming_thing_(programming)

@@ -1,0 +1,9 @@
+Name: Brooks' Law
+Category: engineering-laws
+Tags: project-management, software-engineering, estimation
+
+Adding manpower to a late software project makes it later, because the overhead of communication, training, and coordination grows quadratically with team size while the work done grows only linearly. The time required for new members to become productive often exceeds the time saved, especially when tasks are highly interconnected.
+
+Example: A project is 6 months behind schedule with 4 developers. Management adds 4 more developers hoping to catch up in 3 months. The existing developers must now spend significant time ramping up the newcomers — explaining architecture, reviewing their code, and answering questions. The integration and communication overhead surges, and the project falls even further behind.
+
+Source: https://en.wikipedia.org/wiki/Brooks%27s_law

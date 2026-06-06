@@ -1,0 +1,9 @@
+Name: KISS (Keep It Simple, Stupid)
+Category: design-principles
+Tags: simplicity, maintainability, code-quality, design
+
+KISS advocates that simplicity should be a key goal in design, and unnecessary complexity should be avoided. Simple systems are easier to understand, debug, modify, and test than complex ones. Complexity often arises from over-engineering, anticipating future needs that never materialize, or choosing fashionable but unnecessary abstractions. The principle does not mean avoiding essential complexity inherent to the problem, but rather not adding accidental complexity on top of it.
+
+Example: A developer implements a rules engine with a plugin architecture, a DSL, and runtime reloading to handle three conditional discount codes. A simple if-else chain would be clearer, faster, and trivially maintainable.
+
+Source: https://en.wikipedia.org/wiki/KISS_principle

@@ -1,0 +1,9 @@
+Name: Law of Large Numbers
+Category: scientific-laws
+Tags: statistics, probability, convergence
+
+As the size of a sample increases, the sample average converges toward the expected value of the population. Small samples exhibit high variance and can be misleading, but with enough observations, random fluctuations cancel out and the true underlying pattern emerges.
+
+Example: A startup with 10 beta users might see a 90% retention rate — encouraging but not statistically reliable. Once the same product has 100,000 users, a 60% retention rate is far more trustworthy. The larger sample size washes out the noise of early adopter bias.
+
+Source: https://en.wikipedia.org/wiki/Law_of_large_numbers

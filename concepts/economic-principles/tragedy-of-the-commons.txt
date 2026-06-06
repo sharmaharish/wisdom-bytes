@@ -1,0 +1,9 @@
+Name: Tragedy of the Commons
+Category: economic-principles
+Tags: shared-resources, externalities, governance
+
+When individuals acting independently and rationally pursue their own self-interest, they can deplete a shared resource even when it is clear that doing so is not in anyone's long-term interest. Without regulation, common-pool resources — grazing land, fisheries, clean air — become overused and degraded.
+
+Example: An open AWS S3 bucket with no access controls is a digital commons. Any engineer can store data there, but without cleanup policies and ownership, storage costs balloon and sensitive data accumulates until someone is forced to regulate access.
+
+Source: https://en.wikipedia.org/wiki/Tragedy_of_the_commons

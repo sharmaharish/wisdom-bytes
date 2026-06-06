@@ -1,0 +1,9 @@
+Name: Single Responsibility Principle
+Category: design-principles
+Tags: solid, cohesion, modularity, object-oriented-design
+
+The Single Responsibility Principle states that a module, class, or function should have one, and only one, reason to change. When a component is responsible for multiple concerns, a change to any one of them risks breaking the others. This principle drives high cohesion and loose coupling: each unit of code should be focused on a single task and have clear, minimal dependencies. SRP is the first of the SOLID principles and is foundational to maintainable software architecture.
+
+Example: A class called ReportGenerator that fetches data, formats it as HTML, and sends it via email violates SRP. Three separate classes—DataFetcher, HtmlFormatter, and EmailSender—each have a single responsibility and can be changed independently.
+
+Source: https://en.wikipedia.org/wiki/Single_responsibility_principle

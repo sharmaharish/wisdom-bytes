@@ -1,0 +1,9 @@
+Name: Circle of Concern vs Influence
+Category: decision-frameworks
+Tags: stoicism, productivity, mindset
+
+From Stephen Covey's "The 7 Habits of Highly Effective People," this framework divides everything into two circles: the Circle of Concern (things you care about but can't control — economy, company layoffs, other people's opinions) and the Circle of Influence (things you can directly affect — your skills, your responses, your work output). Proactive people focus on their Circle of Influence, which eventually expands. Reactive people focus on concerns outside their control, which shrinks their influence.
+
+Example: A developer worried about a potential company restructuring (concern, no influence) can redirect energy to building skills, contributing to open source, and networking (influence). The restructuring anxiety doesn't help; being ready regardless of outcome does. The developer might even influence the outcome by becoming more valuable.
+
+Source: https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People

@@ -1,0 +1,9 @@
+Name: Red Queen Effect
+Category: mental-models
+Tags: competition, evolution, strategy
+
+The Red Queen Effect, drawn from Lewis Carroll's Through the Looking-Glass, describes a situation where you must keep running just to stay in the same place relative to others who are also improving. In competitive environments — business, technology, sports — progress is relative, not absolute. If everyone is advancing, standing still means falling behind. The effect highlights that in an evolving system, continuous improvement is not optional; it is necessary for survival, and the gains you make may only keep you level with your competitors.
+
+Example: Smartphone manufacturers release new models every year with faster processors, better cameras, and brighter screens. A company that skips a year doesn't just lose market share — it falls permanently behind, because competitors have set a new baseline. Each feature that was once "premium" becomes standard, and the entire industry ratchets upward. No single breakthrough provides lasting advantage.
+
+Source: https://fs.blog/red-queen-effect/

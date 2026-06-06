@@ -1,0 +1,9 @@
+Name: Network Effects
+Category: economic-principles
+Tags: platforms, growth, virality
+
+A product or service becomes more valuable to each user as more people use it. This creates a positive feedback loop: more users attract even more users, often leading to winner-take-most market dynamics. Network effects are a powerful moat for platforms but can also lead to monopolistic behavior.
+
+Example: A social media platform like Twitter is barely useful with one user. With millions of users posting, liking, and sharing, it becomes a valuable communication and discovery network. Each new participant adds value for all existing users.
+
+Source: https://en.wikipedia.org/wiki/Network_effect

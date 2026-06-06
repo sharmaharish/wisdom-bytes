@@ -1,0 +1,9 @@
+Name: Law of Leaky Abstractions
+Category: engineering-laws
+Tags: abstraction, architecture, complexity
+
+All non-trivial abstractions, to some degree, are leaky. Abstractions aim to hide complexity, but they inevitably let some underlying details seep through. Developers must understand not just the abstraction layer they work with, but also the layers below it. The more layers of abstraction between the developer and the hardware, the more complex the failure modes become.
+
+Example: A web developer uses an ORM (Object-Relational Mapping) to abstract away SQL. The abstraction works fine for simple queries, but when a page loads slowly, the developer must understand N+1 query problems, database indexing, and how the ORM generates SQL. The abstraction "leaked" — the underlying database complexity surfaces despite the abstraction layer. Similarly, TCP abstracts network reliability, but developers still need to understand packet loss when debugging performance.
+
+Source: https://en.wikipedia.org/wiki/Leaky_abstraction

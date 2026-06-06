@@ -1,0 +1,9 @@
+Name: Chesterton's Fence
+Category: mental-models
+Tags: reform, caution, tradition
+
+Chesterton's Fence is the principle that before removing or changing something, you must first understand why it exists. The name comes from G.K. Chesterton's parable: a reformer sees a fence across a road and proposes removing it, not knowing its purpose. The principle warns against the hubris of assuming that existing structures — rules, processes, code, institutions — are pointless or irrational simply because their purpose is not immediately obvious. The fence may be serving a function you haven't yet discovered.
+
+Example: A new engineer joins a team and sees a convoluted deployment script with seemingly redundant steps. Before simplifying it, they investigate each step's history. They discover one "unnecessary" delay exists because a database migration used to fail if deployed too quickly. Understanding this prevents a costly production outage. The fence had a purpose.
+
+Source: https://fs.blog/chestertons-fence/

@@ -1,0 +1,9 @@
+Name: Regression to the Mean
+Category: scientific-laws
+Tags: statistics, probability, bias
+
+After an extreme event, subsequent observations tend to fall closer to the average. This natural statistical phenomenon is often misinterpreted as a causal effect. Failure to account for regression to the mean leads to superstitious beliefs and flawed decision-making, especially in performance evaluation.
+
+Example: A software team ships an exceptionally fast sprint (an extreme outcome). Management rewards them with a bonus. The next sprint is slower, closer to the team's historical average. Management wrongly concludes the bonus had a negative effect, when it was simply statistical regression.
+
+Source: https://en.wikipedia.org/wiki/Regression_toward_the_mean

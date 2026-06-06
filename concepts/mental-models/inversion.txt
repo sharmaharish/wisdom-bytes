@@ -1,0 +1,9 @@
+Name: Inversion
+Category: mental-models
+Tags: decision-making, problem-solving, critical-thinking
+
+Inversion is a mental model that flips a problem around. Instead of asking how to achieve a desired outcome, you ask what would guarantee failure or what you want to avoid. By identifying and eliminating the obstacles to success, you often arrive at a clearer path forward than if you had focused directly on the goal. It leverages the idea that "avoiding stupidity is easier than seeking brilliance."
+
+Example: A project manager wants to ship a product on time. Using inversion, she asks "What would guarantee we miss the deadline?" The answers — unclear requirements, scope creep, poor communication — become a checklist of things to prevent. By blocking those failure modes, the project is far more likely to succeed.
+
+Source: https://fs.blog/inversion/

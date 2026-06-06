@@ -1,0 +1,9 @@
+Name: Cynefin Framework
+Category: decision-frameworks
+Tags: decision-making, complexity, leadership
+
+Cynefin helps classify problems into five domains: Clear (cause and effect obvious — apply best practice), Complicated (cause and effect knowable but requires analysis — consult experts), Complex (cause and effect only visible in retrospect — probe-sense-respond), Chaotic (cause and effect unclear — act-sense-respond to stabilize first), and Disorder (unknown domain — move into a known domain). The key insight is that using the wrong decision model for a problem domain causes failure.
+
+Example: A team facing a website outage might initially treat it as Chaotic (act first: restore from backup), then realize it's Clear (known DNS misconfiguration — apply runbook), but a gradual performance degradation is Complex (probe: add metrics, sense: identify pattern, respond: refactor caching layer).
+
+Source: https://en.wikipedia.org/wiki/Cynefin_framework

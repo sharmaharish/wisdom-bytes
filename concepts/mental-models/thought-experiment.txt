@@ -1,0 +1,9 @@
+Name: Thought Experiment
+Category: mental-models
+Tags: reasoning, imagination, philosophy
+
+A thought experiment is the use of an imagined scenario to explore the implications of a concept, theory, or principle without physically running the experiment. By isolating variables, stripping away irrelevant details, and following logical chains to their conclusions, thought experiments reveal contradictions, clarify assumptions, and generate insight. They are a bridge between abstract reasoning and practical understanding, used across physics, philosophy, ethics, and strategy.
+
+Example: Einstein's "chasing a light beam" thought experiment at age 16: he imagined what a light wave would look like if you could catch up to it. Would it freeze in place? That contradiction with Maxwell's equations eventually led him to special relativity. He never built any machinery — he reasoned his way to a revolution in physics.
+
+Source: https://fs.blog/thought-experiment/

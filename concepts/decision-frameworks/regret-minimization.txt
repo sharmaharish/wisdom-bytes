@@ -1,0 +1,9 @@
+Name: Regret Minimization
+Category: decision-frameworks
+Tags: decision-making, long-term-thinking, career
+
+Popularized by Jeff Bezos, regret minimization reframes hard decisions by projecting forward: "In 20 years, will I regret not doing this?" If yes, do it. If no, skip it. This cuts through short-term fears (failure, embarrassment, lost income) by anchoring on long-term perspective. It's not a precision tool — it's a gut-check for major life or career decisions where analysis paralysis dominates.
+
+Example: A senior engineer considering leaving a stable job to start a consulting practice maps out: at age 70, would they regret not trying? The fear of losing a paycheck feels urgent now but fades against the regret of never having taken the risk. The framework doesn't say the decision will work out — but it clarifies which path carries more long-term regret.
+
+Source: https://en.wikipedia.org/wiki/Regret_minimization

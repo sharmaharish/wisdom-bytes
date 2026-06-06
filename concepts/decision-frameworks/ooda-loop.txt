@@ -1,0 +1,9 @@
+Name: OODA Loop
+Category: decision-frameworks
+Tags: strategy, decision-making, agility
+
+The OODA Loop — Observe, Orient, Decide, Act — was developed by military strategist John Boyd. It describes a continuous cycle for decision-making under uncertainty. The faster and more accurately you move through the cycle, the better you can respond to changing conditions. Orientation is the critical step: it filters observations through your mental models, experience, and biases to make sense of the situation before deciding.
+
+Example: A DevOps engineer observes (pager alert: error rate spiking), orients (recent deploy to auth service? correlated with traffic increase?), decides (rollback auth service to previous version), acts (executes rollback). The cycle repeats: observe if error rate drops, orient on the root cause, decide on a permanent fix.
+
+Source: https://en.wikipedia.org/wiki/OODA_loop

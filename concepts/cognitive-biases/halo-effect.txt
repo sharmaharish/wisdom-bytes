@@ -1,0 +1,9 @@
+Name: Halo Effect
+Category: cognitive-biases
+Tags: perception, evaluation, bias
+
+The Halo Effect is a cognitive bias where a positive overall impression of a person, company, or product influences judgments about their specific traits. If someone is good at one thing, we assume they are good at other, unrelated things. In software, a developer who is articulate in meetings may be perceived as a stronger engineer than a quieter colleague who writes far better code and ships more reliably.
+
+Example: A well-known tech company releases a new database product. Engineers assume it must be excellent because the company makes a great search engine and has brilliant engineers. They adopt it without rigorous evaluation, only to discover the database has severe consistency issues. The halo of the company's overall reputation masked deep flaws in a specific product they had no prior track record in.
+
+Source: https://en.wikipedia.org/wiki/Halo_effect

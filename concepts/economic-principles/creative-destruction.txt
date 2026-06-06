@@ -1,0 +1,9 @@
+Name: Creative Destruction
+Category: economic-principles
+Tags: innovation, disruption, obsolescence
+
+Capitalism constantly revolutionizes itself from within by destroying old structures and creating new ones. New technologies, business models, and processes render existing industries obsolete, causing short-term dislocation but driving long-term economic progress. Incumbents that fail to adapt are swept aside.
+
+Example: Streaming services like Netflix destroyed the DVD rental and cable TV industries. Blockbuster, once a dominant retailer, went bankrupt because it failed to recognize that its own business model was being creatively destroyed.
+
+Source: https://en.wikipedia.org/wiki/Creative_destruction

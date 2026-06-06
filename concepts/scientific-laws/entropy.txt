@@ -1,0 +1,9 @@
+Name: Entropy (Second Law of Thermodynamics)
+Category: scientific-laws
+Tags: thermodynamics, disorder, energy
+
+In any isolated system, entropy — a measure of disorder — always increases over time. Energy spontaneously spreads from concentrated to diffuse forms, and processes are irreversible. This fundamental law of physics sets the direction of time's arrow and explains why some transformations are impossible.
+
+Example: A hot cup of coffee left on a desk will cool to room temperature; the reverse never happens. The heat energy disperses into the surroundings, increasing total entropy. In software, codebases naturally tend toward disorder (entropy) unless active effort is spent on refactoring and maintenance.
+
+Source: https://en.wikipedia.org/wiki/Second_law_of_thermodynamics

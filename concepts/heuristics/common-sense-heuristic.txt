@@ -1,0 +1,9 @@
+Name: Common Sense Heuristic
+Category: heuristics
+Tags: intuition, practical-judgment, everyday-reasoning
+
+The common sense heuristic refers to the reliance on everyday practical judgment and shared cultural knowledge to make decisions without deep analysis. People draw from a body of informal, experience-based knowledge about how the world typically works—things "everyone knows." While common sense is often useful for routine situations and can accelerate decision-making, it is culturally bound, can embed unexamined assumptions, and may fail in novel or complex scenarios where surface-level intuition does not apply.
+
+Example: A person deciding whether to touch a hot stove relies on the common sense heuristic—they know from shared experience that hot surfaces burn, so they don't need to test each stove individually. But common sense might also lead someone to refuse a life-saving vaccine based on the folk belief that "natural immunity is always better."
+
+Source: https://en.wikipedia.org/wiki/Common_sense

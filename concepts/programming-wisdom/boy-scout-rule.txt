@@ -1,0 +1,9 @@
+Name: The Boy Scout Rule
+Category: programming-wisdom
+Tags: craftsmanship, refactoring, best-practices
+
+"Always leave the code cleaner than you found it" — a software engineering adaptation of the Boy Scout motto. The rule encourages incremental improvement: when you touch a piece of code, take a small step to improve it, even if it's outside your current task. Over time, this prevents gradual decay and reverses it. The key is making changes small enough to not introduce risk or bloat the scope of work.
+
+Example: A developer fixing a bug in a function notices the function has a confusing variable name (`x` instead of `userCount`) and a dead comment block. They rename the variable and remove the comment — a 30-second improvement. Over a quarter, dozens of such small cleanups transform a messy module into a readable one without needing a dedicated "big rewrite" project.
+
+Source: https://en.wikipedia.org/wiki/Robert_C._Martin

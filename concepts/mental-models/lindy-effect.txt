@@ -1,0 +1,9 @@
+Name: Lindy Effect
+Category: mental-models
+Tags: longevity, antifragility, prediction
+
+The Lindy Effect states that the future life expectancy of non-perishable things — ideas, technologies, books, institutions — is proportional to their current age. For every additional year something survives past a certain threshold, its expected remaining lifespan increases. Things that have been around for a long time are not "old" in the sense of being near death; they are "tough" in the sense of having survived many淘汰 cycles. The Lindy Effect is a useful heuristic for distinguishing fleeting trends from durable knowledge.
+
+Example: Ancient texts like Euclid's Elements (written ~300 BC) have survived for over 2,300 years. The Lindy Effect suggests they are likely to survive another 2,300 years — far longer than a bestselling tech book from last year. When choosing what to study, prioritizing ideas that have already passed the test of time is a rational bet on longevity.
+
+Source: https://en.wikipedia.org/wiki/Lindy_effect

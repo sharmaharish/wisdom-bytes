@@ -1,0 +1,9 @@
+Name: Fitts' Law
+Category: scientific-laws
+Tags: hci, design, usability
+
+The time required to acquire a target (e.g., click a button) depends on the distance to the target divided by the target's size. Larger and closer targets are faster to interact with. This law is a foundational principle in user interface design — it explains why edge-of-screen targets (menu bars, dock) are easy to reach.
+
+Example: macOS places the menu bar at the top edge of the screen. Because the cursor cannot overshoot the top edge, the menu bar effectively has infinite height, making it extremely fast to acquire. This is a direct application of Fitts' Law.
+
+Source: https://en.wikipedia.org/wiki/Fitts%27s_law

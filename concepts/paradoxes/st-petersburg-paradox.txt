@@ -1,0 +1,9 @@
+Name: St. Petersburg Paradox
+Category: paradoxes
+Tags: probability, decision-theory, risk, expected-value
+
+The St. Petersburg Paradox describes a game with infinite expected monetary value that people will only pay a small amount to play, revealing a disconnect between mathematical expectation and human decision-making. In software engineering, this mirrors how teams evaluate risk and reward. A theoretically valuable refactor with infinite upside (cleaner code forever) is often rejected because humans discount low-probability high-magnitude outcomes and are loss-averse in their time budgets.
+
+Example: A proposal to rewrite a legacy system promises unbounded future productivity gains, yet the team declines because the expected value calculation ignores risk aversion, opportunity cost, and the diminishing utility of uncertain future returns.
+
+Source: https://en.wikipedia.org/wiki/St._Petersburg_paradox

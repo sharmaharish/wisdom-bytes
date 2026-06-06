@@ -1,0 +1,9 @@
+Name: Conceptual Integrity
+Category: programming-wisdom
+Tags: design, architecture, consistency
+
+Conceptual integrity means a system's design follows a consistent, coherent vision — concepts, conventions, and abstractions are unified rather than being a collection of unrelated ideas. Fred Brooks argued that conceptual integrity is the most important quality of a system; it makes software predictable, learnable, and maintainable. Achieving it often requires a single architect or a small, aligned team making final design decisions rather than design-by-committee.
+
+Example: A web framework that calls database access "repositories," HTML rendering "views," and URL mapping "routes" has conceptual integrity. Adding a feature that uses raw SQL string interpolation instead of the repository pattern violates this — new developers must learn two separate approaches for the same concern. Consistent patterns reduce surprise and make the codebase predictable.
+
+Source: https://en.wikipedia.org/wiki/Conceptual_integrity

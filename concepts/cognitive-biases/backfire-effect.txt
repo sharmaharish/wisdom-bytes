@@ -1,0 +1,9 @@
+Name: Backfire Effect
+Category: cognitive-biases
+Tags: misinformation, belief-perseverance, debunking
+
+The Backfire Effect occurs when correcting misinformation actually strengthens a person's original false belief. When people encounter evidence that contradicts their deeply held worldview, they may reject the correction and double down on their original position. This makes factual correction counterproductive in some circumstances. In engineering debates, presenting evidence against a strongly held architectural preference can paradoxically entrench the opponent's position.
+
+Example: An engineer argues that microservices are always better than monoliths for scalability. A colleague presents data showing that their current team of 5 spends 40% of sprint time on cross-service coordination and deployment orchestration. Rather than reconsidering, the engineer responds with "microservices weren't implemented correctly here" and "real companies use microservices" — the contradictory evidence has triggered stronger defense of the belief rather than updating it.
+
+Source: https://en.wikipedia.org/wiki/Backfire_effect

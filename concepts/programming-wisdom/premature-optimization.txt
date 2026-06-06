@@ -1,0 +1,9 @@
+Name: Premature Optimization
+Category: programming-wisdom
+Tags: performance, best-practices, knuth
+
+Donald Knuth's famous warning — "Premature optimization is the root of all evil" — cautions against optimizing code before understanding what actually needs optimization. Developers often guess wrong about bottlenecks, adding complexity for gains that profiling would reveal as negligible. The antidote is to write clean, correct code first, profile to find real hot spots, then optimize only those with measurable impact.
+
+Example: A developer spends three days hand-tuning a string concatenation loop in a script that runs once per night, while the real bottleneck—an N+1 database query making thousands of round trips—goes unnoticed. A profile would have shown the DB query taking 95% of runtime and the string operation taking less than 0.1%. The optimization effort was wasted.
+
+Source: https://en.wikipedia.org/wiki/Program_optimization#When_to_optimize

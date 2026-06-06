@@ -1,0 +1,9 @@
+Name: Take-the-Best Heuristic
+Category: heuristics
+Tags: inference, decision-making, cue-based
+
+The take-the-best heuristic is a decision strategy where inferences are based on a single most valid cue or reason, ignoring all other information. It proceeds by searching through cues in order of validity (how well each predicts the criterion) and stopping at the first cue that discriminates between the two options. This "one-reason decision-making" approach is remarkably effective in environments where cues have unequal predictive power and is a core component of the fast-and-frugal heuristics framework developed by Gerd Gigerenzer.
+
+Example: A doctor diagnosing whether a patient with chest pain is having a heart attack might use a single, highly predictive cue like "does the pain radiate to the left arm?" If yes, treat as heart attack immediately—without weighing additional, less diagnostic symptoms like nausea or fatigue.
+
+Source: https://en.wikipedia.org/wiki/Take-the-best_heuristic

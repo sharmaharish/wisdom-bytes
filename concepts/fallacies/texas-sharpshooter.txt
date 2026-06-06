@@ -1,0 +1,9 @@
+Name: Texas Sharpshooter
+Category: fallacies
+Tags: cherry-picking, statistics, data-manipulation
+
+The Texas sharpshooter fallacy is named after a marksman who shoots at a barn wall and then paints a bullseye around the cluster of hits, making it look like they aimed precisely. In reasoning, it refers to the practice of cherry-picking data or patterns that support a conclusion while ignoring data that contradicts it. More broadly, it involves looking for patterns in data after the fact (data dredging) without a prior hypothesis, then presenting those patterns as meaningful. This fallacy is rampant in data analysis when researchers test many hypotheses but only report significant results.
+
+Example: A company launches 100 different marketing campaigns simultaneously. Sales increase, and they point to one particular campaign as the cause, saying "our data shows campaign X drove the increase." They ignore that 99 other campaigns were running and that the "successful" campaign was identified only after seeing which one correlated best.
+
+Source: https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy

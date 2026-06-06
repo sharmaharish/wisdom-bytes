@@ -1,0 +1,9 @@
+Name: Goodhart's Law
+Category: engineering-laws
+Tags: metrics, management, data
+
+When a measure becomes a target, it ceases to be a good measure. Any metric used for evaluation or incentive will be gamed, causing people to optimize the appearance of success rather than actual success. The metric loses its statistical validity because the conditions under which it was useful (unbiased measurement) no longer hold.
+
+Example: A company measures developer productivity by lines of code written per day. Developers respond by writing verbose code, copy-pasting large blocks, avoiding refactoring (which reduces line count), and adding unnecessary comments — all of which degrade code quality while improving the metric. Productivity appears to rise while actual output declines.
+
+Source: https://en.wikipedia.org/wiki/Goodhart%27s_law

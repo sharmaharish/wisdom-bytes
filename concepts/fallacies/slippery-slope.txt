@@ -1,0 +1,9 @@
+Name: Slippery Slope
+Category: fallacies
+Tags: causation, argumentation, speculation
+
+The slippery slope fallacy argues that a relatively small first step will inevitably lead to a chain of related events culminating in an extreme (usually negative) outcome, without providing evidence that such a causal chain is likely. While some chains of events are genuinely connected, the fallacy lies in assuming inevitability without demonstrating the mechanisms or probabilities that link each step. It is often used to argue against policies by painting dire but unsubstantiated predictions.
+
+Example: "If we allow same-sex marriage, next people will want to marry animals, and then the entire institution of marriage will collapse." This assumes an unproven causal chain from one specific expansion of marriage rights to a completely unrelated and extreme outcome.
+
+Source: https://en.wikipedia.org/wiki/Slippery_slope

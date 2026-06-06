@@ -1,0 +1,9 @@
+Name: Hindsight Bias
+Category: cognitive-biases
+Tags: post-hoc, learning, blame
+
+Hindsight Bias, also known as the "I-knew-it-all-along" effect, is the tendency to perceive past events as having been more predictable than they actually were. After learning the outcome, people reconstruct their memory such that the result seems obvious in retrospect. This bias significantly impairs postmortem learning because it prevents honest analysis — teams conclude they "should have seen it coming" rather than improving detection and prevention systems.
+
+Example: A team discovers a memory leak during load testing that had been in production for months. In the postmortem, engineers say "We should have caught this — the heap usage graphs were right there." But those graphs had been stable before and no monitoring alert existed for gradual heap growth. The hindsight narrative obscures the real problem: the lack of automated memory profiling alerts.
+
+Source: https://en.wikipedia.org/wiki/Hindsight_bias

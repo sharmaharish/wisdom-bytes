@@ -1,0 +1,9 @@
+Name: Satisficing
+Category: heuristics
+Tags: decision-making, optimization, bounded-rationality
+
+Satisficing is a decision-making strategy that aims for a solution that meets a minimum acceptable threshold rather than searching exhaustively for the optimal solution. Coined by Herbert Simon, the term blends "satisfy" and "suffice." It emerges from the concept of bounded rationality—the recognition that human cognitive resources, time, and information are limited, making true optimization impractical in most real-world scenarios. Satisficing involves setting an aspiration level and accepting the first option that meets it, dramatically reducing search costs.
+
+Example: When looking for a new apartment, instead of visiting every available unit in the city to find the absolute best one, a satisficer establishes criteria (price range, location, square footage) and signs a lease for the first apartment that meets them all.
+
+Source: https://en.wikipedia.org/wiki/Satisficing

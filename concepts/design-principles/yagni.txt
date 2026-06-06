@@ -1,0 +1,9 @@
+Name: YAGNI (You Aren't Gonna Need It)
+Category: design-principles
+Tags: simplicity, agile, minimalism, over-engineering
+
+YAGNI dictates that you should never add functionality until it is deemed necessary. Every feature, abstraction, or configuration option carries a carrying cost—it must be maintained, understood, and worked around. Building for hypothetical future requirements wastes time on unvalidated assumptions and adds accidental complexity that slows future development. YAGNI is a counterbalance to anticipatory design, encouraging developers to solve today's problems today and trust their ability to refactor when new requirements emerge.
+
+Example: An engineer adds internationalization support, a pluggable persistence layer, and a multi-tenant architecture to a prototype because "we'll need it later." Six months later, the product pivots and none of these abstractions match the new direction—all that code was dead weight.
+
+Source: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it

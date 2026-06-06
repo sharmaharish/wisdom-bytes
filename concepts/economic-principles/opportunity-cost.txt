@@ -1,0 +1,9 @@
+Name: Opportunity Cost
+Category: economic-principles
+Tags: trade-offs, decision-making, scarcity
+
+Every choice involves forgoing the next best alternative. The true cost of any decision is not just the monetary expense but the value of what you give up. Recognizing opportunity costs helps prioritize resources — time, money, attention — toward their highest-value use.
+
+Example: A startup founder deciding to build a feature in-house rather than buying an off-the-shelf solution incurs the opportunity cost of delayed time-to-market and engineering hours that could have been spent on the core product.
+
+Source: https://en.wikipedia.org/wiki/Opportunity_cost

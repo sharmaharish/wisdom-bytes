@@ -1,0 +1,9 @@
+Name: DRY (Don't Repeat Yourself)
+Category: design-principles
+Tags: code-quality, maintainability, abstraction, refactoring
+
+DRY states that every piece of knowledge must have a single, unambiguous, authoritative representation within a system. Duplication creates maintenance hazards: a bug in duplicated logic must be fixed in every copy, and inconsistencies between copies lead to confusion about which version is correct. DRY is enforced through extraction of shared functions, services, and data structures. However, premature DRY can introduce harmful coupling—duplication is often cheaper than the wrong abstraction.
+
+Example: Three microservices each implement the same input validation logic. When a new validation rule is added, two services miss the update, causing a production incident. A shared validation library would have prevented this.
+
+Source: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself

@@ -1,0 +1,9 @@
+Name: Unix Philosophy
+Category: programming-wisdom
+Tags: unix, design, simplicity
+
+The Unix Philosophy, articulated by Doug McIlroy and Ken Thompson, centers on building small, focused programs that each "do one thing well." Programs communicate via text streams (pipelines), allowing composition into larger systems. This modularity means individual components can be replaced, debugged, and tested independently. Key tenets: write simple parts connected by clean interfaces, and prefer clarity over cleverness.
+
+Example: A data processing pipeline chains `cat`, `grep`, `sort`, `uniq`, and `awk` with pipes. Each command handles one task; the composition solves the whole problem. In software design, this translates to microservices, Unix sockets, and the whole CLI ecosystem where `jq` parses JSON, `curl` fetches data, and `jq | curl` composes them without either knowing about the other.
+
+Source: https://en.wikipedia.org/wiki/Unix_philosophy

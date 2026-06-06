@@ -1,0 +1,9 @@
+Name: Pareto Principle (80/20 Rule)
+Category: mental-models
+Tags: productivity, prioritization, efficiency
+
+The Pareto Principle states that, for many outcomes, roughly 80% of the effects come from 20% of the causes. Originally observed by economist Vilfredo Pareto, who noticed 80% of the land in Italy was owned by 20% of the population, this pattern appears across business, software, personal productivity, and nature. The principle is a reminder that not all effort is equal — a small fraction of inputs drives the majority of results. The key is identifying that high-leverage 20% and focusing energy there.
+
+Example: A software company finds that 80% of bugs are caused by 20% of the code modules. Fixing those critical modules first yields the biggest improvement in software quality. Similarly, 80% of customer support tickets might come from 20% of features. The Pareto principle helps prioritize the work that actually moves the needle.
+
+Source: https://en.wikipedia.org/wiki/Pareto_principle

@@ -1,0 +1,9 @@
+Name: Separation of Concerns
+Category: design-principles
+Tags: modularity, architecture, cohesion, coupling
+
+Separation of Concerns dictates that different concerns or responsibilities should be divided into separate modules, layers, or components. Each module addresses a distinct aspect of the system's functionality, with minimal overlap. This decomposition makes systems easier to reason about, test, and maintain because changes related to one concern do not ripple across unrelated areas. Common separations include presentation vs. business logic, data access vs. domain model, and command handling vs. query processing.
+
+Example: In a web application, HTML templates (presentation), controller logic (request handling), service classes (business rules), and repository classes (data access) each occupy distinct layers. Changing the database does not require touching the template files.
+
+Source: https://en.wikipedia.org/wiki/Separation_of_concerns

@@ -1,0 +1,9 @@
+Name: Bandwagon Effect
+Category: cognitive-biases
+Tags: social-proof, conformity, trends
+
+The Bandwagon Effect is the tendency to adopt beliefs, ideas, or behaviors simply because many other people are doing so. The probability of adopting something increases with the number of people who have already adopted it. This creates self-reinforcing feedback loops where popularity drives further popularity. In technology, this explains the rapid adoption of frameworks, tools, and practices that may not be objectively superior but benefit from network effects and social proof.
+
+Example: A company adopts Kubernetes not because their deployment needs justify its complexity — they run three microservices — but because "everyone is using Kubernetes." The engineering team heard at conferences how Spotify and Uber use it, read blog posts praising it, and saw it trending on Hacker News. After six months of operational overhead and pipeline maintenance, they realize a simple Heroku setup would have served them better. The bandwagon drove adoption before honest evaluation.
+
+Source: https://en.wikipedia.org/wiki/Bandwagon_effect

@@ -1,0 +1,9 @@
+Name: Availability Heuristic
+Category: cognitive-biases
+Tags: probability, memory, risk-assessment
+
+The Availability Heuristic is a mental shortcut where people overestimate the likelihood of events that are more easily recalled from memory. Vivid, recent, or emotionally charged events come to mind more readily and are therefore judged as more common than they actually are. In incident response, engineers tend to over-index on the most recent production outage rather than addressing statistically more probable failure modes.
+
+Example: After a high-severity incident where a database replica failed during a deployment, the team spends months building elaborate deployment safeguards. Meanwhile, the far more frequent cause of outages — configuration drift in load balancers — remains unaddressed because those incidents are less memorable (they degrade performance gradually rather than causing a dramatic page-down event).
+
+Source: https://en.wikipedia.org/wiki/Availability_heuristic

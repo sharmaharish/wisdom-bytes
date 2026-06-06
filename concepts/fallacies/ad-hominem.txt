@@ -1,0 +1,9 @@
+Name: Ad Hominem
+Category: fallacies
+Tags: argumentation, personal-attack, rhetoric
+
+Ad hominem (Latin for "to the person") is a fallacy that attacks the person making an argument rather than the argument itself. It diverts attention from the merits of the claim to irrelevant personal characteristics, circumstances, or behavior of the claimant. While a person's credibility can be relevant in some contexts (e.g., testimony), ad hominem is fallacious when the attack has no logical bearing on the truth of their position. Common variants include abusive ad hominem (direct insults), circumstantial ad hominem (attacking motives), and tu quoque (accusing hypocrisy).
+
+Example: "Why should we listen to your proposal on tax reform? You've never even run a business." This attacks the speaker's personal background instead of engaging with the substance of their tax reform proposal.
+
+Source: https://en.wikipedia.org/wiki/Ad_hominem

@@ -1,0 +1,9 @@
+Name: Premortem
+Category: decision-frameworks
+Tags: risk-management, planning, decision-making
+
+A Premortem asks a team to imagine a project has already failed catastrophically, then work backward to list all the reasons it could have failed. This sidesteps optimism bias and groupthink by legitimizing concerns that people might hesitate to raise during planning. Unlike a postmortem (learning after failure), a premortem prevents failure by identifying risks before they happen.
+
+Example: Before shipping a major feature, a team gathers and says: "It's six months later and the launch was a disaster. Why?" Team members write down risks independently: the new DB migration causes downtime, the API change breaks the mobile app, the feature doesn't solve real user needs, the team underestimated QA time. Each risk gets a mitigation plan before development starts.
+
+Source: https://en.wikipedia.org/wiki/Pre-mortem

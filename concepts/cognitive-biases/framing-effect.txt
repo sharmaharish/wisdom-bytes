@@ -1,0 +1,9 @@
+Name: Framing Effect
+Category: cognitive-biases
+Tags: persuasion, communication, risk
+
+The Framing Effect is a cognitive bias where people react differently to a particular choice depending on whether it is presented as a loss or as a gain. Even when the underlying facts are identical, the framing changes the decision. In product management, how a feature or trade-off is framed dramatically influences stakeholder buy-in and engineering decisions.
+
+Example: A team needs to decide on a database migration. When framed as "Adopting the new database has a 90% chance of improving query performance," the team approves. When framed as "There's a 10% chance the new database causes regression," the same team rejects the same proposal. The risk is identical — 90% success rate is the same as 10% failure rate — but the gain frame promotes risk-taking while the loss frame promotes conservatism.
+
+Source: https://en.wikipedia.org/wiki/Framing_effect_(psychology)

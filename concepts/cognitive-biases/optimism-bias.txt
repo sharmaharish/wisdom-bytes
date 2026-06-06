@@ -1,0 +1,9 @@
+Name: Optimism Bias
+Category: cognitive-biases
+Tags: planning, estimation, risk
+
+Optimism Bias is the tendency to overestimate the probability of positive events and underestimate the probability of negative events. People consistently believe they are less likely than their peers to experience negative outcomes. In software engineering, this manifests in planning fallacy — teams routinely underestimate timelines by failing to account for edge cases, integration issues, and unexpected blockers.
+
+Example: A team estimates a new feature will take 2 weeks. They assume everything will go smoothly: APIs will be well-documented, dependencies will be ready, and no other priorities will interrupt. In reality, the third-party API has undocumented rate limits, the design review reveals a fundamental flaw, and an urgent production bug steals 3 days. The feature ships in 6 weeks. Despite this pattern repeating every quarter, the next estimate is also 2 weeks — optimism bias ensures we never learn.
+
+Source: https://en.wikipedia.org/wiki/Optimism_bias

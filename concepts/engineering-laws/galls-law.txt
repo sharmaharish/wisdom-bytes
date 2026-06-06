@@ -1,0 +1,9 @@
+Name: Gall's Law
+Category: engineering-laws
+Tags: system-design, architecture, complexity
+
+A complex system that works is invariably found to have evolved from a simple system that worked. Building a complex system from scratch rarely succeeds — instead, you must start simple, get it working, and then iteratively add complexity. The inverse proposition also holds: a complex system designed from scratch never works and cannot be patched to make it work.
+
+Example: A startup tries to build a full-featured e-commerce platform with recommendations, inventory management, and analytics before launch. After 18 months, nothing ships. A competitor launches with a simple checkout flow and payment processing, then adds features incrementally based on real feedback — eventually surpassing the ambitious project.
+
+Source: https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law

@@ -1,0 +1,9 @@
+Name: Straw Man
+Category: fallacies
+Tags: argumentation, misrepresentation, rhetoric
+
+The straw man fallacy occurs when someone misrepresents an opponent's argument to make it easier to attack or refute. The name evokes the image of a straw dummy that is easy to knock down, compared to a real opponent. Instead of engaging with the actual position, the arguer constructs a distorted, exaggerated, or oversimplified version of it and attacks that instead. This fallacy is common in political and ideological debates, where nuanced positions are reduced to extreme caricatures.
+
+Example: Person A: "I think we should invest more in public transportation." Person B: "So you want to ban all cars and force everyone onto crowded buses? That would destroy personal freedom and the economy." Person B has misrepresented Person A's position as an extreme version that is easy to attack.
+
+Source: https://en.wikipedia.org/wiki/Straw_man

@@ -1,0 +1,9 @@
+Name: Hyrum's Law
+Category: engineering-laws
+Tags: api-design, compatibility, maintenance
+
+With a sufficient number of users of an API, all observable behaviors will be depended on by somebody. Even undocumented, incidental, or buggy behaviors become de facto contracts once enough consumers rely on them. Any change to an API — even if technically internal or a bug fix — risks breaking someone downstream. This makes API evolution extremely conservative at scale.
+
+Example: A database library has a sorting function documented to return results in alphabetical order. Due to an implementation quirk, it also preserves insertion order for equal elements. Thousands of users inadvertently depend on this stable sort behavior. Years later, a performance optimization changes this to an unstable sort, breaking countless downstream applications — even though the documented contract was only alphabetical ordering.
+
+Source: https://www.hyrumslaw.com/

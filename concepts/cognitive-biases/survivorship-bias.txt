@@ -1,0 +1,9 @@
+Name: Survivorship Bias
+Category: cognitive-biases
+Tags: statistics, failure, selection-bias
+
+Survivorship Bias is a logical error that occurs when conclusions are drawn only from surviving examples while ignoring those that failed. This creates a distorted view of reality because the failures are invisible. In tech, we celebrate successful startups and open-source projects while rarely studying the thousands that failed for similar reasons, leading to flawed lessons about what drives success.
+
+Example: A developer reads that "React is the best framework" based on success stories from large companies like Facebook, Airbnb, and Netflix. But these are survivors — companies that failed might have also chosen React and failed for other reasons. The developer doesn't see the countless projects where React was the wrong choice, leading to the false belief that React is universally superior rather than context-dependent.
+
+Source: https://en.wikipedia.org/wiki/Survivorship_bias

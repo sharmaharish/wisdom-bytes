@@ -1,0 +1,9 @@
+Name: Impact-Effort Matrix
+Category: decision-frameworks
+Tags: prioritization, productivity, planning
+
+The Impact-Effort Matrix plots tasks on a 2x2 grid of impact (high to low) versus effort (low to high). The sweet spot is high-impact, low-effort "quick wins." High-impact, high-effort "major projects" need careful scheduling. Low-impact, low-effort "fill-ins" can be done when idle. Low-impact, high-effort "thankless tasks" should be eliminated. It's a lightweight alternative to more formal prioritization frameworks.
+
+Example: An engineering team planning a sprint considers: fixing a login bug affecting 40% of users (high impact, low effort — quick win), rewriting the build system (high impact, high effort — major project), updating internal wiki docs (low impact, low effort — fill-in), and migrating off a deprecated but functional library (low impact, high effort — eliminate).
+
+Source: https://en.wikipedia.org/wiki/Impact/effort_matrix

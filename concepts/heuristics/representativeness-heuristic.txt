@@ -1,0 +1,9 @@
+Name: Representativeness Heuristic
+Category: heuristics
+Tags: probability, judgment, stereotypes
+
+The representativeness heuristic is a mental shortcut where people judge the probability or frequency of an event by how similar it is to a typical case or prototype in their mind. Instead of using base rates or statistical reasoning, they rely on perceived resemblance. This often leads to the conjunction fallacy—the belief that specific conditions are more probable than a single general one—and to stereotyping. People ignore sample size, regression to the mean, and prior probabilities when something feels representative.
+
+Example: Steve is described as "shy, tidy, and detail-oriented." People judge Steve as more likely to be a librarian than a farmer, even though there are far more farmers than librarians, simply because the description matches the stereotype of a librarian.
+
+Source: https://en.wikipedia.org/wiki/Representativeness_heuristic

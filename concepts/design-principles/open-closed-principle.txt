@@ -1,0 +1,9 @@
+Name: Open/Closed Principle
+Category: design-principles
+Tags: solid, extensibility, polymorphism, inheritance
+
+The Open/Closed Principle asserts that software entities should be open for extension but closed for modification. You should be able to add new behavior without altering existing, tested code. This is typically achieved through abstraction—interfaces, abstract classes, or dependency injection—allowing new implementations to be plugged in without modifying the consumers. OCP is the second SOLID principle and is especially important in library and framework design where backward compatibility matters.
+
+Example: A payment processing system defines a PaymentGateway interface. Adding support for a new payment provider requires creating a new class that implements the interface—no existing code changes. Without OCP, adding a provider would mean editing a monolithic switch statement.
+
+Source: https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle

@@ -1,0 +1,9 @@
+Name: Map vs Territory
+Category: mental-models
+Tags: epistemology, abstraction, reality
+
+"The map is not the territory" — a map is a simplified representation of reality, not reality itself. Every model, theory, or framework we use to understand the world is incomplete, selective, and potentially outdated. Confusing the map with the territory leads to overconfidence and poor decisions. The usefulness of a map depends on its purpose, scale, and accuracy, and wise thinkers constantly check their mental models against actual outcomes.
+
+Example: A company's org chart (the map) shows clear reporting lines, but the actual influence and communication flows (the territory) often follow informal networks, personal relationships, and expertise rather than titles. A leader who manages only by the org chart will miss the real dynamics driving the business.
+
+Source: https://fs.blog/map-and-territory/

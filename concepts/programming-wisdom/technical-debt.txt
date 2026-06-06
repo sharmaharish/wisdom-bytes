@@ -1,0 +1,9 @@
+Name: Technical Debt
+Category: programming-wisdom
+Tags: quality, refactoring, maintenance
+
+Coined by Ward Cunningham, technical debt describes the implied cost of taking a quick, easy implementation now instead of a better but more time-consuming approach. Like financial debt, it accrues "interest" — the extra time spent working around the shortcut in future changes. Small amounts of intentional debt are sometimes strategic (e.g., shipping to meet a deadline), but uncontrolled debt makes the codebase fragile, slow, and expensive to change.
+
+Example: A team hardcodes API URLs and skips integration tests to meet a release deadline. Over the next months, each environment deployment requires manual config changes (interest). A new team member breaks staging because they didn't know about a hardcoded staging URL (compounded interest). Eventually, the team needs a "debt sprint" to refactor configuration into environment variables and add proper test coverage.
+
+Source: https://en.wikipedia.org/wiki/Technical_debt

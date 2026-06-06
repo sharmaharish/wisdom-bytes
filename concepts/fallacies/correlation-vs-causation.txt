@@ -1,0 +1,9 @@
+Name: Correlation vs Causation (Post Hoc Ergo Propter Hoc)
+Category: fallacies
+Tags: statistics, causation, logic
+
+The correlation vs causation fallacy, also known as post hoc ergo propter hoc ("after this, therefore because of this"), is the logical error of assuming that because two events occur together or in sequence, one caused the other. Correlation does not imply causation—two variables may be correlated due to coincidence, a third confounding factor, reverse causation, or selection bias. Proper causal inference requires controlled experiments or sophisticated statistical methods that rule out alternative explanations.
+
+Example: Ice cream sales and drowning deaths both increase during summer months. It would be fallacious to conclude that eating ice cream causes drowning. In reality, the confounding variable is hot weather, which drives both more ice cream consumption and more swimming (which leads to more drowning incidents).
+
+Source: https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc

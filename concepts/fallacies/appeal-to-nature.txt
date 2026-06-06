@@ -1,0 +1,9 @@
+Name: Appeal to Nature
+Category: fallacies
+Tags: naturalistic-fallacy, argumentation, rhetoric
+
+The appeal to nature fallacy argues that something is good, right, or better because it is "natural," or that something is bad because it is "unnatural." This is fallacious because the naturalness of something does not inherently determine its moral value, safety, or effectiveness. Nature produces both beneficial and harmful phenomena (deadly viruses, hurricanes, poison ivy), and many beneficial human innovations (medicine, agriculture, sanitation) are "unnatural." The fallacy often exploits an emotional preference for the familiar or a romanticized view of nature.
+
+Example: "This herbal remedy is better than pharmaceutical drugs because it's natural." Natural substances can be toxic (arsenic, hemlock), and many synthetic drugs have undergone rigorous testing to prove safety and efficacy while natural remedies may not have.
+
+Source: https://en.wikipedia.org/wiki/Appeal_to_nature

@@ -1,0 +1,9 @@
+Name: The Debugging Rule
+Category: programming-wisdom
+Tags: debugging, methodology, bug-fixing
+
+"If you can't reproduce it, you can't fix it" is a fundamental rule of debugging. Without a reliable reproduction case, any attempted fix is a guess — equally likely to make things worse or to introduce new bugs. Reproducing means isolating the exact conditions (input, state, timing, environment) that trigger the bug. Once a minimal reproduction exists, you can narrow the root cause with scientific method: hypothesize, test, confirm.
+
+Example: A user reports that "sometimes" login fails with a vague error. The developer can't reproduce it by testing normally. After adding structured logging, they discover it only happens when the user's email contains a plus sign (e.g., `user+tag@example.com`) and the email parsing library splits on `+`. Now reproducible: write a unit test with a plus-addressed email, debug the parser, and fix.
+
+Source: https://en.wikipedia.org/wiki/Debugging

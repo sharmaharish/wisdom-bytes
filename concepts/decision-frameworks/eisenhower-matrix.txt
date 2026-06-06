@@ -1,0 +1,9 @@
+Name: Eisenhower Matrix
+Category: decision-frameworks
+Tags: productivity, prioritization, time-management
+
+The Eisenhower Matrix divides tasks into four quadrants based on urgency and importance: Do First (urgent & important), Schedule (important & not urgent), Delegate (urgent & not important), and Eliminate (not urgent & not important). Its power lies in forcing explicit trade-offs rather than reacting to whatever seems loudest.
+
+Example: A developer has a production outage (urgent & important), a feature roadmap review next week (important & not urgent), a low-severity bug report (urgent & not important), and endless Slack noise about a deprecated library (neither). The matrix tells them to fix the outage, prepare for the review, assign the bug to a junior, and mute the Slack thread.
+
+Source: https://en.wikipedia.org/wiki/Time_management#Eisenhower_Method

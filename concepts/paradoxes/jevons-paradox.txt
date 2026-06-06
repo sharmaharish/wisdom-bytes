@@ -1,0 +1,9 @@
+Name: Jevons Paradox
+Category: paradoxes
+Tags: efficiency, consumption, economics, rebound-effect
+
+Jevons Paradox states that as technological improvements increase the efficiency with which a resource is used, the rate of consumption of that resource tends to increase rather than decrease. In software engineering, optimizing a system for performance often leads to increased usage patterns—faster database queries encourage more queries, cheaper compute invites more computation. This rebound effect means efficiency gains alone rarely reduce total resource consumption.
+
+Example: Making a database query 10x faster leads developers to use it 10x more often, resulting in the same or higher total database load.
+
+Source: https://en.wikipedia.org/wiki/Jevons_paradox

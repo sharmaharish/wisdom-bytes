@@ -1,0 +1,9 @@
+Name: Second-Order Thinking
+Category: mental-models
+Tags: decision-making, strategy, consequences
+
+Second-order thinking is the practice of considering not just the immediate effects of a decision, but the subsequent effects of those effects, and so on. First-order thinking is simple and obvious — everyone can do it. Second-order thinking is harder, more nuanced, and often counterintuitive, which is precisely why it provides a competitive advantage. The key insight is that the first-order effect of an action can be exactly opposite of the higher-order effects, leading to poor decisions if only immediate outcomes are considered.
+
+Example: A government tries to reduce traffic congestion by building more roads (first-order thinking). Second-order thinking reveals that more roads reduce travel time, which makes driving more attractive, which increases the number of cars on the road, which eventually leads to the same or worse congestion — a phenomenon known as induced demand. Many cities now use congestion pricing instead.
+
+Source: https://fs.blog/second-order-thinking/
