@@ -46,6 +46,14 @@ ws
 
 # Pick from specific categories
 ws engineering-laws,paradoxes
+
+# List available categories
+ws -l
+ws --list
+
+# Show usage and options
+ws -h
+ws --help
 ```
 
 ## Category Filtering

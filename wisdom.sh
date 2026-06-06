@@ -16,6 +16,40 @@ list_concepts() {
   find "$dir" -name '*.txt' -type f 2>/dev/null | sort
 }
 
+list_categories() {
+  local -a files=("${(@f)$(list_concepts)}")
+  local -a cats=()
+  local f dir
+  for f in "${files[@]}"; do
+    dir="$(basename "$(dirname "$f")")"
+    if (( ! $cats[(Ie)$dir] )); then
+      cats+=("$dir")
+    fi
+  done
+  echo "${(j:, :)cats}"
+}
+
+ws_usage() {
+  echo "Usage: ws [options] [categories]"
+  echo ""
+  echo "Options:"
+  echo "  -l, --list       List available categories"
+  echo "  -h, --help       Show this help message"
+  echo ""
+  echo "Arguments:"
+  echo "  categories       Comma-separated list of categories to filter by"
+  echo ""
+  echo "Examples:"
+  echo "  ws                          Random wisdom byte"
+  echo "  ws engineering-laws         Pick from engineering-laws"
+  echo "  ws engineering-laws,mental-models"
+  echo "                              Pick from multiple categories"
+  echo "  ws -l                       List all categories"
+  echo ""
+  echo "Environment:"
+  echo "  WISDOM_CATEGORIES           Default category filter (comma-separated)"
+}
+
 parse_concept() {
   local file="$1"
   if [[ ! -f "$file" ]]; then
@@ -300,9 +334,20 @@ wisdom() {
 ws() {
   if [[ $# -eq 0 ]]; then
     wisdom
-  else
-    WISDOM_CATEGORIES="$1" wisdom
+    return
   fi
+
+  case "$1" in
+    -l|--list)
+      list_categories
+      ;;
+    -h|--help)
+      ws_usage
+      ;;
+    *)
+      WISDOM_CATEGORIES="$1" wisdom
+      ;;
+  esac
 }
 
 wisdom
