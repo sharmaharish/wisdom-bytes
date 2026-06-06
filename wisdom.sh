@@ -297,4 +297,12 @@ wisdom() {
   write_history "$(basename "$chosen")"
 }
 
+ws() {
+  if [[ $# -eq 0 ]]; then
+    wisdom
+  else
+    WISDOM_CATEGORIES="$1" wisdom
+  fi
+}
+
 wisdom
