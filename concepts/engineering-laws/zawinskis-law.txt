@@ -1,0 +1,9 @@
+Name: Zawinski's Law
+Category: engineering-laws
+Tags: feature-creep, software-bloat, product-design
+
+Every program attempts to expand until it can read mail. Feature creep is unavoidable — over time, software tends to accumulate more features, leading to software bloat. A lean, minimal application that gains popularity will continually add features until it becomes as complex as its competitors.
+
+Example: Netscape Navigator grew from a slim browser into Netscape Communicator, an expansive suite with browser, email, news, and web editing. It became sluggish and paved the way for Firefox, which deliberately stripped down to just a fast browser. Slack started as simple messaging but integrated voice calls, video meetings, file sharing, bots, and app plugins, becoming a one-stop workplace hub far beyond simple messaging.
+
+Source: https://lawsofsoftwareengineering.com/laws/zawinskis-law/

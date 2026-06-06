@@ -1,0 +1,9 @@
+Name: OODA Loop
+Category: mental-models
+Tags: decision-making, strategy, agility, military
+
+The OODA Loop (Observe-Orient-Decide-Act), developed by US Air Force Colonel John Boyd, is a framework for making fast decisions in competitive environments. Observe (gather information), Orient (analyze and synthesize using experience and knowledge), Decide (choose a course of action as a hypothesis), Act (implement and test). Cycling through the loop faster than competitors creates unpredictability and advantage.
+
+Example: A software company's competitor releases a feature gaining attention. They Observe (gather customer feedback, analyze market trends), Orient (synthesize data, challenge assumptions about their product's uniqueness), Decide (develop an integrated version of the feature), and Act (mobilize development and marketing). They re-enter the loop to refine based on customer reactions.
+
+Source: https://untools.co/ooda-loop/

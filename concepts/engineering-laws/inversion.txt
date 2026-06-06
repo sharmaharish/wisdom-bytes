@@ -1,0 +1,9 @@
+Name: Inversion
+Category: engineering-laws
+Tags: problem-solving, decision-making, risk
+
+Solving a problem by considering the opposite outcome and working backward from it. Instead of designing only for the best case, deliberately design for the worst case. What if the database goes down? What if latency spikes? By thinking of how things can fail, you build more robust systems.
+
+Example: Netflix's Chaos Monkey randomly terminates servers in production to test resilience — instead of trying to keep systems running, they do the opposite and force failures to build fault-tolerance. Test-Driven Development applies inversion by writing a failing test first, forcing you to think about how code could fail before implementing it. As Charlie Munger said: "All I want to know is where I'm going to die, so I'll never go there."
+
+Source: https://lawsofsoftwareengineering.com/laws/inversion/

@@ -1,0 +1,9 @@
+Name: Don't Outrun Your Headlights
+Category: programming-wisdom
+Tags: methodology, iteration, feedback
+
+Don't build more than you can see at once. Just as your car's headlights only illuminate a few hundred feet of road, your understanding of a software project only extends so far ahead. Work in small, incremental steps where you can see the outcome of each step before committing to the next. Build feedback loops that tell you if you're still on the right track. Large up-front designs are like driving at night with no headlights.
+
+Example: Instead of spending 6 months building a complete e-commerce platform based on assumptions, build a single product listing page in a week, get real user feedback, then build the cart. After each small step, you learn something that shapes the next step. You're never more than a week away from knowing if you're on the right path.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

@@ -1,0 +1,9 @@
+Name: Tracer Bullet Development
+Category: programming-wisdom
+Tags: development, iteration, feedback
+
+Tracer bullet development is an approach where you build a minimal end-to-end skeleton of the system and iterate on it, rather than building components in isolation and integrating at the end. Like firing tracer bullets at night — you see the trajectory and adjust in real time. The skeleton is real, working code that connects all layers of the architecture, giving you immediate feedback on how the pieces fit together.
+
+Example: Instead of building the database layer for weeks, then the API, then the UI, you build a single feature end-to-end: a form that takes input, saves it to the database, and displays the result. It's rough but works. You then iterate, adding features, hardening each layer based on actual experience rather than speculation.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

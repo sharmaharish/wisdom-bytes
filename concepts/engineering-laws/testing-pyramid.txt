@@ -1,0 +1,9 @@
+Name: Testing Pyramid
+Category: engineering-laws
+Tags: testing, quality, CI
+
+A project should have many fast unit tests, fewer integration tests, and only a small number of UI tests. Organizing tests this way gives you quick feedback (most tests are fast unit tests), and when a UI test fails, there's a better chance it's due to a real problem rather than test flakiness.
+
+Example: Consider a web e-commerce application. Following the test pyramid, the team writes hundreds of unit tests for price calculation, discount logic, and validation. They write a few dozen integration tests verifying order placement connects inventory, payment, and notification services correctly. Finally, they have a few end-to-end tests simulating user journeys. If something breaks in business logic, it's caught immediately by unit tests, not after hours of end-to-end testing.
+
+Source: https://lawsofsoftwareengineering.com/laws/testing-pyramid/

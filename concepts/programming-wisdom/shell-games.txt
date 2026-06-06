@@ -1,0 +1,9 @@
+Name: Shell Games
+Category: programming-wisdom
+Tags: productivity, command-line, unix
+
+Master the command line. A developer who is fluent in the shell can automate repetitive tasks, compose powerful pipelines, navigate the filesystem instantly, and script their workflow. The shell is the most versatile tool in a programmer's toolkit because it can combine any other tool. Invest time in learning shell features: aliases, tab completion, history search, job control, pipes, and redirection.
+
+Example: A developer needs to find all functions in a codebase that call a deprecated API. They use `grep -r "deprecatedApi" src/ --include="*.js" | cut -d: -f1 | sort -u` to get a list of files. Then `grep -l "function" $(!!)` to find which functions contain those calls. In under 30 seconds they have the answer. A developer without shell skills would open files one by one in an editor.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

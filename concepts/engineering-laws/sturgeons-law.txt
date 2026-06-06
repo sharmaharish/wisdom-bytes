@@ -1,0 +1,9 @@
+Name: Sturgeon's Law
+Category: engineering-laws
+Tags: quality, prioritization, product
+
+90% of everything is crap. In software, this means most features, code paths, experiments, or projects don't provide significant value. The critical challenge is to find the high-impact 10%. This encourages continuous refinement and focusing on what truly matters.
+
+Example: An app with 100 features might find from user analytics that 10 of them account for nearly all usage — exactly what Sturgeon's Law predicts. A development organization may have many project ideas each quarter, but most won't amount to anything while a few could be game-changers. In code reviews, a significant amount of code is neither elegant nor required, supporting the hypothesis that less code is high-quality.
+
+Source: https://lawsofsoftwareengineering.com/laws/sturgeons-law/

@@ -1,0 +1,9 @@
+Name: Rubber Duck Debugging
+Category: programming-wisdom
+Tags: debugging, problem-solving
+
+Rubber duck debugging is the practice of explaining a problem to someone or something that knows nothing about it — often a literal rubber duck — to find the solution yourself. The act of describing the problem in detail forces you to articulate your assumptions, walk through the logic step by step, and often leads to the aha moment before your listener says a word. The duck doesn't need to understand; you just need to speak.
+
+Example: A developer stares at a bug for an hour. They call a colleague to help, and as they describe the issue — "so the user submits the form, it calls onSubmit which validates the email, then it calls saveUser, which..." — they suddenly stop. "Wait, the validation is async. I'm not awaiting it before saveUser." They thank the colleague and fix it. The colleague hasn't spoken a word.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

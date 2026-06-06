@@ -1,0 +1,9 @@
+Name: Pragmatic Starter Kit
+Category: programming-wisdom
+Tags: tooling, automation, best-practices
+
+The Pragmatic Starter Kit consists of three essential practices every software project needs: version control (track every change, enable collaboration and rollback), testing (automated tests at multiple levels — unit, integration, acceptance), and automation (repeatable builds, deployments, and checks). Without these three, a project relies on heroics and tribal knowledge. With them, a team can move confidently, fix mistakes safely, and onboard new members quickly.
+
+Example: A new project sets up Git from day one (all code is tracked), integrates a test framework (every PR runs unit and integration tests via CI), and scripts the deployment (one command from merge to production). Six months later, a bug is introduced: `git bisect` finds the exact commit, the failing test catches it before deploy, and rolling back is a button click. Without the starter kit, this would be a fire drill.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

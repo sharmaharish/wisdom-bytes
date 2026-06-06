@@ -1,0 +1,9 @@
+Name: Orthogonality
+Category: programming-wisdom
+Tags: design, decoupling, architecture
+
+Orthogonality means that things that should not affect each other indeed don't. In software, orthogonal systems have independent components: changing one thing doesn't produce side effects in unrelated parts. This makes systems easier to test (each component can be tested in isolation), easier to change (no unintended ripple effects), and more reusable (components can be combined freely). The term comes from mathematics where orthogonal vectors are independent of each other.
+
+Example: In an orthogonal database schema, changing the format of a user's phone number doesn't require changes to the order-processing module. If order-processing reads the user record directly rather than through an abstraction layer, these concerns are coupled — a non-orthogonal design. Using a repository pattern keeps them orthogonal.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

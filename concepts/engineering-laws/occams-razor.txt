@@ -1,0 +1,9 @@
+Name: Occam's Razor
+Category: engineering-laws
+Tags: simplicity, problem-solving, decision-making
+
+The simplest explanation is often the most accurate one. When you have multiple possible solutions, the simplest one is preferred. In software, this supports the KISS approach. Simple code is easier to understand, maintain, and debug. When debugging, start with the simplest explanation before jumping into complex theories.
+
+Example: Your build system has failed. A complex thinker might suspect a subtle regression in the compiler or a damaged dependency. An Occam's Razor thinker starts with simpler explanations: a typo, a missing semicolon, or a misconfiguration. If a software architecture can achieve its goals with a monolith and one database, there's no need to split it into five microservices and two databases.
+
+Source: https://lawsofsoftwareengineering.com/laws/occams-razor/

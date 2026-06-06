@@ -1,0 +1,9 @@
+Name: Law of Demeter
+Category: engineering-laws
+Tags: design, OOP, coupling
+
+An object should only interact with its immediate friends, not strangers. An object should only call methods of: itself, its direct components, its function parameters, or objects it creates. It should not navigate through one object to reach another ("don't talk to strangers").
+
+Example: If OrderProcessor does `order.getCustomer().getAddress().getZipCode()`, it knows that an Order has a Customer with an Address. If Customer is changed to have multiple addresses, OrderProcessor breaks. Better: Order has a method `getShippingZip()` that internally navigates its customer/address, and OrderProcessor calls that instead. Count the dots: `a.getB().getC().doSomething()` has two dots, one too many.
+
+Source: https://lawsofsoftwareengineering.com/laws/law-of-demeter/

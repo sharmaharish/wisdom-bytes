@@ -1,0 +1,9 @@
+Name: Programming by Coincidence
+Category: programming-wisdom
+Tags: best-practices, debugging, discipline
+
+Programming by coincidence means relying on luck or accidental behavior rather than deliberate intent. It happens when code "seems to work" but you don't fully understand why — because a certain call order happened to succeed, or a race condition didn't trigger in testing, or you copied code whose side effects you don't understand. The danger is that coincidental correctness fails at the worst possible moment, and you have no mental model to debug it.
+
+Example: A developer adds `Thread.sleep(500)` before a database read and it fixes the issue. Tests pass. But the fix is coincidence — it works because it happens to wait long enough for the write to complete. In production under load, 500ms isn't enough, and data races appear. The proper fix is to await the write operation explicitly.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

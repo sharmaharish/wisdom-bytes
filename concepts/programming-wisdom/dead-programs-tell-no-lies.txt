@@ -1,0 +1,9 @@
+Name: Dead Programs Tell No Lies
+Category: programming-wisdom
+Tags: error-handling, robustness, fail-fast
+
+Detect and crash rather than corrupting state. When your code detects an impossible condition — a null pointer that should never be null, a negative balance, a file that can't be opened — the safest thing to do is to halt immediately. A crashing program signals a clear failure state. A program that silently continues with corrupted data produces wrong results, corrupted databases, and debugging nightmares. Crash early, crash clearly.
+
+Example: A banking application processes a transfer. The source account has a balance of $100, the transfer is $200. Instead of silently overdrafting or setting a negative balance, the code checks `if (balance < amount) { throw new InsufficientFundsException("Balance $100 < $200 transfer"); }` — stopping immediately with a clear error rather than corrupting the account records.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

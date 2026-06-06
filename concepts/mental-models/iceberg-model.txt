@@ -1,0 +1,9 @@
+Name: Iceberg Model
+Category: mental-models
+Tags: systems-thinking, root-cause-analysis, leverage-points
+
+The Iceberg Model helps uncover root causes by looking beyond immediate events to deeper levels: Events (what is happening), Patterns (trends over time), Structures (relationships and feedback loops), and Mental Models (beliefs and assumptions driving the system). The deeper you go, the more leverage you have for meaningful change.
+
+Example: A product team keeps shipping features with bugs. At the event level, there are bugs. Looking at patterns, every release has bugs. Investigating structures reveals no testing is planned before releases and deadlines are tight. The mental model underneath is that shipping on time is valued over quality. Addressing the mental model creates lasting change.
+
+Source: https://untools.co/iceberg-model/

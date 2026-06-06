@@ -1,0 +1,9 @@
+Name: Abstraction Laddering
+Category: mental-models
+Tags: problem-solving, framing, design-thinking
+
+Abstraction laddering is a tool for reframing problems by moving up and down levels of abstraction. Starting with a problem statement in the middle, ask "Why?" to go up (broader framing) and "How?" to go down (more concrete solutions). This helps escape initial assumptions and find innovative approaches.
+
+Example: Starting with "Design a better can opener," asking "Why?" leads to "Get soup out of the can" — a broader problem that suggests different solutions like pop-top cans or microwavable containers. Asking "How?" from that leads to more concrete approaches like "Make it more convenient" or "Make it more appealing."
+
+Source: https://untools.co/abstraction-laddering/

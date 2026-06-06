@@ -1,0 +1,9 @@
+Name: Cynefin Framework
+Category: mental-models
+Tags: decision-making, complexity, leadership
+
+The Cynefin framework (Dave Snowden) helps categorize problems into five domains to choose the right response. Clear (known knowns — sense-categorize-respond with best practices), Complicated (known unknowns — sense-analyze-respond with expert analysis), Complex (unknown unknowns — probe-sense-respond with experimentation), Chaotic (uncontrolled — act-sense-respond to stabilize), and Disorder (unknown domain — break down into other domains).
+
+Example: A production outage is in the Clear domain if there's a known fix — apply it. A new market opportunity is Complicated — hire experts to analyze. Improving team culture is Complex — experiment with changes and observe effects. A PR crisis gone viral is Chaotic — act immediately to contain it, then stabilize.
+
+Source: https://untools.co/cynefin-framework/

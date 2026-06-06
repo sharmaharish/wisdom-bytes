@@ -1,0 +1,9 @@
+Name: Dunning-Kruger Effect
+Category: engineering-laws
+Tags: psychology, bias, decision-making
+
+The less you know about something, the more confident you tend to be. The Dunning-Kruger Effect explains a gap between confidence and competence. When people know little about a domain, they lack the awareness required to judge their own ability — so they overestimate how well they understand the problem. As learning progresses, awareness of unknowns grows faster than capability, leading to a drop in confidence.
+
+Example: New developers often give confident, precise estimates, while experienced developers give ranges and say "it depends." The juniors aren't wrong to be convinced — they simply don't yet know what they don't know. Peak enthusiasm for a new technology often comes from those who have used it least. Conversely, impostor syndrome reflects the opposite miscalibration: skilled individuals underestimate their competence because they're deeply aware of complexity.
+
+Source: https://lawsofsoftwareengineering.com/laws/dunning-kruger-effect/

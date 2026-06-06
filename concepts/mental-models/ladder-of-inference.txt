@@ -1,0 +1,9 @@
+Name: Ladder of Inference
+Category: mental-models
+Tags: decision-making, reasoning, bias-awareness
+
+The Ladder of Inference (Chris Argyris) describes the unconscious mental path from data to action: available data, selected data, interpretations, assumptions, conclusions, beliefs, and actions. People often jump rapidly up the ladder, skipping steps. The tool helps you descend back down to question each step, ensuring decisions are rooted in reality rather than unfounded assumptions.
+
+Example: A manager sees a developer missing deadlines and concludes "he's not good enough" and decides to fire him. Working down the ladder: the assumption is that missed deadlines = inefficiency. But asking "what other data exists?" reveals the developer might have unreasonable deadlines or personal issues. The manager avoids a premature decision.
+
+Source: https://untools.co/ladder-of-inference/

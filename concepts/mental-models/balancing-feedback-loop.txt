@@ -1,0 +1,9 @@
+Name: Balancing Feedback Loop
+Category: mental-models
+Tags: systems-thinking, feedback-loops, stability
+
+A balancing feedback loop resists change in one direction by triggering counter-change, creating stability in a system. It has three components: a goal (desired level), the actual level, and the gap between them. When a gap is detected, corrective action brings the system back toward the goal. Balancing loops are self-correcting and often found alongside reinforcing feedback loops in complex systems.
+
+Example: A thermostat monitors room temperature (actual level). When it drops below the threshold (desired level), the heater turns on to warm the room (corrective action). Once the temperature reaches the set point, the heater turns off. This balancing loop keeps the room at a stable temperature.
+
+Source: https://untools.co/balancing-feedback-loop/

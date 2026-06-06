@@ -1,0 +1,9 @@
+Name: Ishikawa Diagram
+Category: mental-models
+Tags: problem-solving, root-cause-analysis, systems-thinking
+
+The Ishikawa diagram (also called fishbone or cause-and-effect diagram) helps identify root causes of complex problems. Created by Kaoru Ishikawa, it involves defining the problem, identifying contributing factor categories (e.g., People, Methods, Materials, Environment), listing possible root causes under each category, then analyzing the diagram to pinpoint the true cause.
+
+Example: A product manager seeing declining sign-ups creates an Ishikawa diagram. They identify factors: landing page issues, competition, and marketing. Under each they add possible causes — e.g., poor conversion rate, stronger competitor features, low ad spend. Analyzing the diagram reveals that the conversion rate is steady but traffic has dropped, pointing to a marketing channel problem.
+
+Source: https://untools.co/ishikawa-diagram/

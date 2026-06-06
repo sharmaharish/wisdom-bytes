@@ -1,0 +1,9 @@
+Name: The Power of Plain Text
+Category: programming-wisdom
+Tags: data, portability, simplicity
+
+Plain text is a universal, human-readable, and durable format for storing knowledge. It outlives any specific tool or framework — any editor, any platform, any era can read it. Using plain text formats (CSV, JSON, YAML, Markdown, TSV) rather than binary formats ensures your data remains accessible, diffable in version control, grep-able, and composable with Unix tools.
+
+Example: A team stores configuration as YAML files rather than a custom binary database. When they migrate from Python to Go, they don't need a conversion tool — they just change the parser. When they want to search all configs for a specific setting, they `grep` the files. When reviewing changes, they see meaningful diffs in pull requests. All of this works because the configs are plain text.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

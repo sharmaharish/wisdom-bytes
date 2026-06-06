@@ -1,0 +1,9 @@
+Name: Metcalfe's Law
+Category: engineering-laws
+Tags: networks, scaling, value
+
+The value of a network is proportional to the square of the number of users. If you double the number of users, the potential connections roughly quadruple. This law highlights the importance of network effects — each new user adds value to existing users by creating new opportunities for interaction.
+
+Example: Early Facebook had low utility if only a few friends were members. But as everyone joined, it became hugely valuable. The same holds for WhatsApp — each new user can open chats with many others. Metcalfe's Law also works in reverse: if users start leaving a social network, the value drops faster than linearly, creating a "death spiral" where declining value accelerates further departures.
+
+Source: https://lawsofsoftwareengineering.com/laws/metcalfes-law/

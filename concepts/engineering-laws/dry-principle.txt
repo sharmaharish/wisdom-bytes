@@ -1,0 +1,9 @@
+Name: DRY (Don't Repeat Yourself)
+Category: engineering-laws
+Tags: code-quality, design, maintainability
+
+Every piece of knowledge must have a single, unambiguous, authoritative representation. The DRY principle is about avoiding duplication of knowledge in code. If the same logic is in multiple places, it's a signal to refactor. When requirements change, you should update logic in only one place.
+
+Example: An application has a database connection URL in five different source files. If the database host changes, you'd have to edit all five places. The DRY approach keeps that URL in a single configuration variable that all modules read. If two parts of an app both format dates the same way, create a single formatDate() utility function and call it from both places.
+
+Source: https://lawsofsoftwareengineering.com/laws/dry-principle/

@@ -1,0 +1,9 @@
+Name: The Lindy Effect
+Category: engineering-laws
+Tags: technology-adoption, decision-making, longevity
+
+The longer something has been in use, the more likely it is to continue being used. For non-perishable things like technologies, ideas, and tools, time acts as a filter — anything irrelevant or fragile tends to disappear, while what remains is usually valuable. This principle favors investing in timeless skills and proven fundamentals rather than chasing every new framework.
+
+Example: COBOL from 1959 still runs a large amount of the world's finance and government infrastructure — some estimates suggest 70-80% of global financial transactions rely on it. Many JavaScript frameworks like AngularJS and Ember.js came and went, yet the underlying language and browser APIs remain. If choosing between learning a cutting-edge framework and SQL, the Lindy approach suggests SQL (from the 1970s) will still be relevant.
+
+Source: https://lawsofsoftwareengineering.com/laws/lindy-effect/

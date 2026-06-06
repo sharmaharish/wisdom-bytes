@@ -1,0 +1,9 @@
+Name: Issue Trees
+Category: mental-models
+Tags: problem-solving, structuring, analysis
+
+Issue trees break down complex problems into smaller, manageable parts using a "divide and conquer" strategy. Two types: Problem Trees (ask "Why?" to decompose causes) and Solution Trees (ask "How?" to generate solutions). The MECE principle (Mutually Exclusive, Collectively Exhaustive) ensures no overlap and complete coverage. Focus on the few branches that matter most using the 80/20 rule.
+
+Example: Low feature adoption is broken down into "Customers don't know about the feature" vs. "Customers know but don't use it." Each branch splits further: not knowing could be because it's undiscoverable or not marketed; not using could be because they haven't tried (don't believe it helps) or tried and stopped (not usable, buggy, doesn't meet needs). This reveals that awareness might be the actual problem.
+
+Source: https://untools.co/issue-trees/

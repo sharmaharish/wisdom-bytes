@@ -1,0 +1,9 @@
+Name: Lehman's Laws of Software Evolution
+Category: engineering-laws
+Tags: software-evolution, maintenance, complexity
+
+Software that reflects the real world must evolve, and that evolution has predictable limits. The eight laws cover: Continuing Change (software must be continuously updated), Increasing Complexity (changes accumulate making the system more complex), Self-Regulation, Conservation of Organizational Stability, Conservation of Familiarity, Continuing Growth, Quality Degradation, and Feedback System.
+
+Example: Consider an enterprise ERP system deployed in 2000. Over 25 years, updates included new business rules, integrations, and UI refreshes — necessary changes just to remain useful. The company observes that adding functionality in 2025 takes longer than it did in 2005, reflecting the law of increasing complexity. Periodic refactoring helps, but output per year naturally stabilizes due to organizational constraints.
+
+Source: https://lawsofsoftwareengineering.com/laws/lehmans-laws/

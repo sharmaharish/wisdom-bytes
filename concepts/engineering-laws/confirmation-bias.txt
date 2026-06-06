@@ -1,0 +1,9 @@
+Name: Confirmation Bias
+Category: engineering-laws
+Tags: bias, decision-making, debugging
+
+A tendency to favor information that supports our existing beliefs or ideas. Once we form an opinion, we subconsciously filter information, noticing bits that support our view and ignoring those that contradict it. In software, this often affects debugging, code reviews, and technology choices.
+
+Example: A developer convinced that module A caused a production issue will comb through module A's code intensively. If module B (assumed to be fine) is also throwing errors, they might not even look there, missing the real cause. In code reviews, a reviewer who trusts a colleague's skills might skim over potential issues, assuming the code is fine. Awareness of this bias leads to asking "What am I missing?"
+
+Source: https://lawsofsoftwareengineering.com/laws/confirmation-bias/

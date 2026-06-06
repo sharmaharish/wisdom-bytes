@@ -1,0 +1,9 @@
+Name: Impact-Effort Matrix
+Category: mental-models
+Tags: prioritization, decision-making, productivity
+
+The Impact-Effort Matrix helps prioritize tasks by plotting them on two axes: impact and effort. Four quadrants result: High Impact/Low Effort (Quick Wins — do first), High Impact/High Effort (Major Projects — plan carefully), Low Impact/Low Effort (Fill-ins — do in spare time), and Low Impact/High Effort (Thankless Tasks — avoid). It ensures energy is spent where it yields the best return.
+
+Example: Fixing minor bugs is a Quick Win (high impact, low effort). Developing a new feature is a Major Project (high impact, high effort). Routine admin is a Fill-in. Unnecessary meetings are Thankless Tasks to be minimized.
+
+Source: https://untools.co/impact-effort-matrix/

@@ -1,0 +1,9 @@
+Name: Boy Scout Rule
+Category: engineering-laws
+Tags: quality, maintainability, craftsmanship
+
+Leave the code better than you found it. Whenever you encounter a piece of code, take the opportunity to polish something nearby. Rename a confusing function, refactor duplicated code, add a missing test. These small changes compound over time and prevent code decay.
+
+Example: You're working on an old module to add a new feature. The code works, but you notice a function `processData()` with over 200 lines and some commented-out code blocks. Following the rule, you split it into smaller, better-named functions and delete the dead code. On a larger scale, Google engineers say "if you touch it, you own it" — when you modify code, you take ownership of its quality.
+
+Source: https://lawsofsoftwareengineering.com/laws/boy-scout-rule/

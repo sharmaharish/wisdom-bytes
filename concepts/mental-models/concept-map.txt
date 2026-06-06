@@ -1,0 +1,9 @@
+Name: Concept Map
+Category: mental-models
+Tags: systems-thinking, learning, visualization
+
+A concept map visually represents understanding of a domain by showing entities and their relationships. Steps: formulate a focus question, identify 15-25 key entities, sort from general to specific, and connect them with labeled arrows (e.g., "creates", "contributes to"). Concept maps make mental models explicit, reveal knowledge gaps, and help align understanding in teams.
+
+Example: Learning how sharing permissions work in a new B2B product. Focus question: "How do sharing permissions work?" Entities include: users, roles, permissions, documents, teams, admins, viewers, editors. The map shows that Admins create Roles, which contain Permissions, and Users are assigned to Roles, which grant access to Documents. Visualizing this clarifies the system.
+
+Source: https://untools.co/concept-map/

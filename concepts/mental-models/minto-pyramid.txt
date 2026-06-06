@@ -1,0 +1,9 @@
+Name: Minto Pyramid
+Category: mental-models
+Tags: communication, writing, presentation
+
+The Minto Pyramid Principle (Barbara Minto) structures communication for clarity and efficiency. Lead with the conclusion (bottom line up front), then provide key supporting arguments, and finally support those with detailed information. This top-down structure respects busy audiences by giving them the most important information immediately, with details available if needed.
+
+Example: A researcher reporting study results writes: "We should pursue a freemium pricing model (Conclusion). Our data shows it increases conversion 3x and reduces churn by 40% (Key arguments). The study found 78% of users prefer usage-based pricing, and our competitors use tiered pricing (Supporting details)." The audience gets the recommendation first, then decides how deep to dive.
+
+Source: https://untools.co/minto-pyramid/

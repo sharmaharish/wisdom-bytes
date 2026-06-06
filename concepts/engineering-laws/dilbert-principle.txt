@@ -1,0 +1,9 @@
+Name: Dilbert Principle
+Category: engineering-laws
+Tags: management, organizations, competence
+
+Companies tend to promote incompetent employees to management to limit the damage they can do. Organizations sometimes deal with underperformers by promoting them into management, removing them from hands-on work. This reflects a cynical view that lower-level employees do real work while some managers add little value.
+
+Example: A mediocre programmer or failing project lead gets "promoted" to a management role — not because they show leadership talent, but to get them away from critical work. The result is counterproductive: you now have an incompetent manager and one fewer developer. Modern tech companies combat this with dual career tracks (technical vs. managerial) to avoid forcing great engineers into management.
+
+Source: https://lawsofsoftwareengineering.com/laws/dilbert-principle/

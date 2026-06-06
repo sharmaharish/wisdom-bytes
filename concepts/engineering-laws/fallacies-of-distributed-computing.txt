@@ -1,0 +1,9 @@
+Name: Fallacies of Distributed Computing
+Category: engineering-laws
+Tags: distributed-systems, networking, architecture
+
+A set of eight false assumptions that new distributed system designers make: the network is reliable, latency is zero, bandwidth is infinite, the network is secure, topology doesn't change, there is one administrator, transport cost is zero, and the network is homogeneous. These mistaken assumptions lead to unhandled errors when the network breaks, poor performance from ignoring latency, and security breaches.
+
+Example: A developer building a distributed caching system assumes "network latency is zero" and designs the cache to fetch data from a remote node for every lookup. In practice it thrashes with high latency and poor performance. Another developer assumes "the network is secure" and sends data unencrypted between services, leading to breaches when the network is compromised.
+
+Source: https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/

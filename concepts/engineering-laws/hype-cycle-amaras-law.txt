@@ -1,0 +1,9 @@
+Name: The Hype Cycle & Amara's Law
+Category: engineering-laws
+Tags: technology-adoption, hype, decision-making
+
+We tend to overestimate the effect of a technology in the short run and underestimate the impact in the long run. The Hype Cycle captures the pattern: a new technology triggers inflated expectations, hits a trough of disillusionment when reality falls short, then gradually climbs toward productive mainstream adoption.
+
+Example: AI saw its first big hype wave in the 1960s-70s when people assumed general AI was just around the corner. When grand promises didn't materialize, an "AI winter" set in. But over decades, steady progress continued and today AI transforms industries. Microservices were hyped as the cure for all scaling issues, but many teams hit the trough of disillusionment when they encountered the complexity of managing hundreds of services.
+
+Source: https://lawsofsoftwareengineering.com/laws/hype-cycle-amaras-law/

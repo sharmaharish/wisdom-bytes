@@ -1,0 +1,9 @@
+Name: Six Thinking Hats
+Category: mental-models
+Tags: decision-making, perspectives, creativity, de-bono
+
+Six Thinking Hats is a framework for looking at decisions from multiple perspectives. Created by Edward de Bono, each "hat" represents a different thinking style: Yellow (positivity, benefits), Green (creativity, new ideas), Red (emotions, intuition), White (data, facts), Black (downside, risks), and Blue (process control). By deliberately switching between hats, you avoid overlooking important aspects of a decision.
+
+Example: A management team deciding whether to introduce a new product wears the Yellow hat to see market opportunity, the Black hat to consider cannibalization risks, the White hat to examine data on unmet customer needs, the Green hat to generate prototyping ideas, and the Red hat to check how everyone feels about the plan. The Blue hat facilitator keeps the discussion on track.
+
+Source: https://untools.co/six-thinking-hats/

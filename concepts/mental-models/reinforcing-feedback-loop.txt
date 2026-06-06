@@ -1,0 +1,9 @@
+Name: Reinforcing Feedback Loop
+Category: mental-models
+Tags: systems-thinking, feedback-loops, exponential-growth
+
+A reinforcing feedback loop amplifies change — the output of one cycle becomes the input for the next, causing exponential increases or decreases. Found in phenomena like compound interest, viral growth, and arms races. Reinforcing loops are often counterbalanced by balancing feedback loops in real systems, creating patterns of growth followed by stabilization.
+
+Example: Compound interest is a classic reinforcing loop. The more money in a bank account, the more interest earned. That interest is added to the balance, which earns even more interest in the next cycle. This creates exponential growth over time. An external variable like the interest rate influences the loop's speed but doesn't change its reinforcing nature.
+
+Source: https://untools.co/reinforcing-feedback-loop/

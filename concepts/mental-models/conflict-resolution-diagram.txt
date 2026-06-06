@@ -1,0 +1,9 @@
+Name: Conflict Resolution Diagram
+Category: mental-models
+Tags: conflict-resolution, problem-solving, communication
+
+The Conflict Resolution Diagram (Evaporating Cloud), part of Goldratt's Theory of Constraints, helps resolve seemingly impossible conflicts. It maps: the opposing demands of each side, the underlying needs behind each demand, and a shared goal both sides want. By working backward from the shared goal, assumptions behind each demand are surfaced, enabling win-win solutions that satisfy both needs.
+
+Example: One colleague wants to redesign the website; another opposes it. The need behind redesigning is better conversion rates. The need behind opposing is minimizing resource waste. The shared goal is running a profitable business. Recognizing this, they agree to run small experiments instead, which improves conversion without a full redesign.
+
+Source: https://untools.co/conflict-resolution-diagram/

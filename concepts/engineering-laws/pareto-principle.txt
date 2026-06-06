@@ -1,0 +1,9 @@
+Name: Pareto Principle (80/20 Rule)
+Category: engineering-laws
+Tags: prioritization, productivity, decision-making
+
+80% of the problems result from 20% of the causes. Identify the top 20% of factors that contribute to 80% of whatever you care about. This could be 20% of features accounting for 80% of usage, or 20% of bugs causing 80% of crashes. Prioritize your time and resources on those vital few for maximum impact.
+
+Example: Microsoft found that about 20% of bugs in Windows and Office caused 80% of all crashes, and a tiny 1% of bugs caused around 50% of errors. By focusing on the critical bugs, they dramatically improved stability. A software team discovered that out of 50 features, only 5-10 were used by 80%+ of users, guiding them to simplify the interface around core features and remove unused ones.
+
+Source: https://lawsofsoftwareengineering.com/laws/pareto-principle/

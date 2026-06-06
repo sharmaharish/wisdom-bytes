@@ -1,0 +1,9 @@
+Name: Second-System Effect
+Category: engineering-laws
+Tags: architecture, complexity, over-engineering, project-management
+
+Small, successful systems tend to be followed by overengineered, bloated replacements. The first system is kept lean by constraints or inexperience. When designing its successor, there's a tendency to incorporate all the extras initially left out, leading to feature bloat. Overconfidence plays a role — having succeeded once, the team feels they can tackle much more.
+
+Example: A startup builds a minimal web service that's very successful. For version 2, the team plans a complete rewrite with microservice architecture, tons of configuration options, and features users never asked for. The project explodes in complexity and misses deadlines. Netscape's rewrite of their browser after initial success led to the bloated Mozilla Suite, allowing Internet Explorer to catch up.
+
+Source: https://lawsofsoftwareengineering.com/laws/second-system-effect/

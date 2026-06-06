@@ -1,0 +1,9 @@
+Name: Kernighan's Law
+Category: engineering-laws
+Tags: debugging, code-quality, simplicity
+
+Debugging is twice as hard as writing the code in the first place. If you write code at the limit of your intelligence, you won't be able to understand or troubleshoot it later. Simple code with good structure and documentation is easier to debug, saving time in the long run.
+
+Example: A developer writes a function in a compressed style chaining multiple operations in one line. The clever version takes 30 minutes to write but 3 hours to debug. Had the code been written clearly, it would've taken 45 minutes to write but only 30 minutes to debug later. As Kernighan implies, if you make your code too tricky, you've essentially outsmarted yourself.
+
+Source: https://lawsofsoftwareengineering.com/laws/kernighans-law/

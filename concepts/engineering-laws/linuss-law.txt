@@ -1,0 +1,9 @@
+Name: Linus's Law
+Category: engineering-laws
+Tags: open-source, code-review, quality
+
+Given enough eyeballs, all bugs are shallow. Linus's Law highlights the strength of peer review and community in software development. If a codebase is accessible to many developers, someone will eventually have the expertise to identify and fix a given bug. This is a key advantage of open-source software.
+
+Example: The Apache HTTP Server, used by millions, has a vast user base that helps discover security flaws and bugs rapidly. The infamous Log4Shell vulnerability was identified and patched by the community. In contrast, a proprietary enterprise product with only a few clients might have a subtle bug that takes much longer to surface due to limited "eyeballs."
+
+Source: https://lawsofsoftwareengineering.com/laws/linuss-law/

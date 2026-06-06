@@ -1,0 +1,9 @@
+Name: Ninety-Ninety Rule
+Category: engineering-laws
+Tags: estimation, project-management, planning
+
+The first 90% of the code accounts for the first 90% of development time; the remaining 10% accounts for the other 90%. The final parts of a project — polishing, edge cases, integration, bug fixes — often take far more effort than anticipated, often as much as the initial development.
+
+Example: A team develops a new app in three months and the core features are done — they hit "90% of the functionality." Everyone expects to ship in one more month. Instead, integration testing reveals modules that don't talk correctly, edge inputs that crash the app, and memory issues. That final "10%" takes another three months. The rule is an important reminder: do not celebrate too early.
+
+Source: https://lawsofsoftwareengineering.com/laws/ninety-ninety-rule/

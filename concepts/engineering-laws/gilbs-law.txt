@@ -1,0 +1,9 @@
+Name: Gilb's Law
+Category: engineering-laws
+Tags: metrics, measurement, planning
+
+Anything you need to quantify can be measured in some way better than not measuring it. It is better to have some data or metric on a phenomenon than to be completely blind, as long as you understand the metric's limitations. Even an approximate or indirect measurement is better than none.
+
+Example: Measuring developer productivity is notoriously hard, but you can use deployment frequency or change lead time (DORA metrics) as proxies. They don't capture everything but give actionable data — if deployment frequency decreases, something might be wrong with the pipeline. Tracking tech debt via code complexity scores and incident rates gives visibility you wouldn't otherwise have.
+
+Source: https://lawsofsoftwareengineering.com/laws/gilbs-law/

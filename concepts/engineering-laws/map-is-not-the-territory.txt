@@ -1,0 +1,9 @@
+Name: The Map Is Not the Territory
+Category: engineering-laws
+Tags: mental-models, abstraction, decision-making
+
+Our representations of reality are not the same as reality itself. Design docs, UML diagrams, and architecture schematics are abstractions — don't confuse the blueprint with the actual running software. When implementing, expect unforeseen factors that weren't captured in initial designs. Be prepared to adapt as you discover new "terrain" during development.
+
+Example: A team designs a microservice system where Service A communicates with B and C via Kafka. The diagram assumed "the network is reliable" or "latency is negligible," but in cloud infrastructure, those assumptions fall apart. The team must update the design to include retry mechanisms and schema validation. Agile methodology embodies this thinking — instead of detailed 2-year plans, use short iterations with continuous feedback from reality.
+
+Source: https://lawsofsoftwareengineering.com/laws/map-is-not-the-territory/

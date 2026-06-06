@@ -1,0 +1,9 @@
+Name: Productive Thinking Model
+Category: mental-models
+Tags: problem-solving, creativity, structured-thinking
+
+The Productive Thinking Model (Tim Hurson) is a 6-step framework for creative problem-solving: 1) Ask "What's going on?" (understand the problem and envision the target future), 2) Ask "What's success?" (define criteria using DRIVE: Do, Restrictions, Invest, Values, Essential outcomes), 3) Ask "What's the question?" (generate catalytic questions like "How might we...?"), 4) Generate answers (brainstorm solutions), 5) Forge the solution (evaluate and refine), 6) Align resources (plan execution).
+
+Example: Winning a prospective customer. The target future is a signed contract. Success criteria include showing product value and meeting requirements. Catalytic questions: "How might we demonstrate ease of use?" Answers include building an interactive demo. The chosen solution: spend a day with end-users to try the product hands-on while stakeholders observe.
+
+Source: https://untools.co/productive-thinking-model/

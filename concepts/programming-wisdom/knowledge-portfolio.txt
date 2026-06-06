@@ -1,0 +1,9 @@
+Name: Knowledge Portfolio
+Category: programming-wisdom
+Tags: learning, career, growth
+
+Treat your knowledge and skills as an investment portfolio that you must actively manage. Invest regularly (learn something new every day), diversify (don't specialize in only one technology), balance risk (mix safe bets with high-risk/high-reward learning), buy low/sell high (learn emerging technologies before they peak), and review periodically (take stock of what you know and what you're missing). The goal is compound growth of your expertise.
+
+Example: A developer decides to learn one new thing each week. Week 1: study a design pattern they don't use daily. Week 2: learn the basics of a different programming language. Week 3: read a chapter of a technical book. Over a year, this compounds into 52 new learnings, keeping their skills relevant and giving them more mental tools to draw from when solving problems.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

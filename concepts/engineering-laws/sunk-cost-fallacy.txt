@@ -1,0 +1,9 @@
+Name: Sunk Cost Fallacy
+Category: engineering-laws
+Tags: decision-making, bias, project-management
+
+Sticking with a choice because you've invested time or energy in it, even when walking away helps you. Don't stay stuck based on past investments. The fact that "we've invested a year already" is not an excuse to continue if it's clearly not working. Past costs should be ignored when deciding the future — consider current facts and future benefits instead.
+
+Example: A company spent two years building a custom in-house CMS, only to find it's buggy and team productivity is low. An objective analysis shows it's better to adopt an off-the-shelf CMS, but leadership hesitates: "We invested two years in this!" If they persist solely for that reason, they fall for the sunk cost fallacy. Google is known for killing off underperforming products rather than letting sunk costs dictate decisions.
+
+Source: https://lawsofsoftwareengineering.com/laws/sunk-cost-fallacy/

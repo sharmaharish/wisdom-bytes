@@ -1,0 +1,9 @@
+Name: Price's Law
+Category: engineering-laws
+Tags: teams, productivity, management
+
+The square root of the total number of participants does 50% of the work. A small fraction of people often contribute a significant fraction of the results. In a 100-person engineering org, about 10 people might produce half of the output. As teams grow, productive output doesn't scale linearly.
+
+Example: Take an open-source project on GitHub with 30 contributors. Often 5 contributors (roughly square root of 30) are responsible for about half the code commits or major features. The rest contribute smaller patches or documentation. When Twitter cut staff after Musk bought it, roughly 87 people (square root of 7,500) were the core contributors keeping the product running.
+
+Source: https://lawsofsoftwareengineering.com/laws/prices-law/

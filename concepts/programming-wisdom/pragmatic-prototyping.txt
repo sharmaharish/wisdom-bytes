@@ -1,0 +1,9 @@
+Name: Pragmatic Prototyping
+Category: programming-wisdom
+Tags: prototyping, learning, iteration
+
+Prototyping is about learning by building throwaway experiments. Unlike tracer bullets (which become the real system), prototypes are explicitly temporary. Their purpose is to answer specific questions: does this algorithm work? Is this UI approach usable? Can this library handle our load? By coding just enough to learn, you gain insight without committing to a full implementation. The key is to build prototypes fast and be willing to throw them away.
+
+Example: A team is unsure which search library to use. Instead of reading docs for a week, they spend an afternoon building a miniature prototype with each candidate — 1000 documents, 3 query types. Elasticsearch is fast but complex to deploy; SQLite FTS is simpler but slower on fuzzy queries. The prototype reveals the trade-off in hours, guiding the real implementation.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

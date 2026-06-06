@@ -1,0 +1,9 @@
+Name: Murphy's Law
+Category: engineering-laws
+Tags: defensive-programming, error-handling, quality
+
+Anything that can go wrong will go wrong. In software, this law encourages writing defensive code: checking for nulls, handling exceptions, validating inputs, and failing gracefully. It also reminds DevOps teams to anticipate failures with monitoring, rollbacks, and contingency plans.
+
+Example: If a web form field can accept text, someone will enter a 10,000-character string of weird symbols unless you've explicitly handled it. If memory can run out, it will be when multiple processes align just so. A function that assumes an input file exists will one day find that file missing — your code should handle file-not-found rather than crash.
+
+Source: https://lawsofsoftwareengineering.com/laws/murphys-law/

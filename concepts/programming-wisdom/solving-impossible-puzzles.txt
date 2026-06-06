@@ -1,0 +1,9 @@
+Name: Solving Impossible Puzzles
+Category: programming-wisdom
+Tags: problem-solving, creativity, constraints
+
+When you encounter a problem that seems impossible, the solution is often found by recognizing and challenging implicit constraints. Many "impossible" puzzles rest on assumptions we don't realize we're making. By explicitly listing all constraints and questioning each one — "Is this really true? What if this constraint didn't exist?" — you can find a way forward.
+
+Example: A team needs to deploy a security patch but the deployment pipeline takes 3 days to run all tests. The "impossible" constraint seems to be "we must run the full test suite." Questioning it: do we need ALL tests? Could we run only security-related tests for this patch? Could we parallelize them? Could we deploy to a subset of servers first? The constraint relaxes, and the patch ships in 4 hours.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

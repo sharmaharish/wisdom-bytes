@@ -1,0 +1,9 @@
+Name: Confidence Determines Speed vs. Quality
+Category: mental-models
+Tags: product-development, trade-offs, decision-making
+
+This model guides the speed vs. quality trade-off in product development based on confidence in the problem and solution. Low confidence in the problem's importance — focus on speed (learn fast). High confidence in both problem and solution — focus on quality (polish and ship). High confidence in the problem but low in the solution — balance both (iterate carefully).
+
+Example: Building a new feature for an unvalidated market need — low confidence — ship a quick prototype to test assumptions (speed). Adding a payment flow to a validated, revenue-critical product — high confidence in both problem and solution — invest in thorough testing and polish (quality). The key is basing confidence on data, not opinions.
+
+Source: https://untools.co/confidence-determines-speed-vs-quality/

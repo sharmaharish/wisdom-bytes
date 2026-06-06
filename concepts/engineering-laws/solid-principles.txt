@@ -1,0 +1,9 @@
+Name: SOLID Principles
+Category: engineering-laws
+Tags: design, OOP, architecture
+
+Five main guidelines that enhance software design, making code more maintainable and scalable: Single Responsibility (one concern per class), Open/Closed (open for extension, closed for modification), Liskov Substitution (subclasses must be substitutable for their parent), Interface Segregation (no forced dependency on unused interfaces), and Dependency Inversion (depend on abstractions, not concretions).
+
+Example: For Single Responsibility, a UserManager class handling validation, database ops, emails, and logging is anti-SRP. Better design separates these into UserValidator, UserRepository, EmailService, and UserRegistrationService. For Dependency Inversion, a NotificationService should depend on an INotificationChannel interface, not directly on EmailSender or SMSSender, making it easy to add new channels or swap in test doubles.
+
+Source: https://lawsofsoftwareengineering.com/laws/solid-principles/

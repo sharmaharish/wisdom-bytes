@@ -1,0 +1,9 @@
+Name: Reversibility
+Category: programming-wisdom
+Tags: architecture, flexibility, design
+
+The principle of reversibility states that critical decisions should be reversible whenever possible. Since requirements, technologies, and markets change, committing to a decision that's impossible or prohibitively expensive to undo locks you into a path that may become wrong. Abstract behind interfaces, isolate risky dependencies, and design so that today's "right" choice can be tomorrow's "we changed our minds" without a full rewrite.
+
+Example: A team chooses PostgreSQL but wraps all database access behind a repository interface. A year later, they need to switch to a document store for scalability. Because they programmed to an interface, the migration is localized to the repository implementations. The rest of the codebase doesn't change. If they had scattered raw SQL throughout, the decision would be effectively irreversible.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

@@ -1,0 +1,9 @@
+Name: Ringelmann Effect
+Category: engineering-laws
+Tags: teams, productivity, management
+
+Individual productivity decreases as group size increases. In large teams, some people put in less effort because they assume others will pick up the slack. More people mean more communication, meetings, and alignment needed. Small, focused teams often outperform poorly coordinated larger teams.
+
+Example: This effect motivates Amazon's "Two Pizza Rule" — a team should be small enough to feed with two pizzas (roughly 5-8 people). In a team of 4, you have 6 relationships to manage; in a team of 6, that jumps to 15. If 10 developers work on one module, merging code and resolving conflicts can consume significant time.
+
+Source: https://lawsofsoftwareengineering.com/laws/ringelmann-effect/

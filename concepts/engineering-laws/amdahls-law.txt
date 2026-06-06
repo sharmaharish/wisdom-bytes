@@ -1,0 +1,9 @@
+Name: Amdahl's Law
+Category: engineering-laws
+Tags: parallel-computing, performance, scaling
+
+The speedup from parallelization is limited by the fraction of work that cannot be parallelized. As you add CPU cores, only the parallelizable fraction speeds up. The sequential fraction remains unchanged and eventually dominates total execution time. This applies beyond hardware — if a system has a database that can't be parallelized, adding application servers hits a wall.
+
+Example: Adding application servers doesn't help if all requests hit a single database instance — one database becomes the limit. Breaking a monolith into microservices won't improve performance if all requests ultimately serialize through a shared dependency like an authentication service. If 10% of a computation is sequential, the maximum speedup even with infinite processors is only 10x.
+
+Source: https://lawsofsoftwareengineering.com/laws/amdahls-law/

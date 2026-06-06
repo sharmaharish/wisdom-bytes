@@ -1,0 +1,9 @@
+Name: CAP Theorem
+Category: engineering-laws
+Tags: distributed-systems, databases, architecture
+
+A distributed system can guarantee only two of: consistency, availability, and partition tolerance. Since network partitions are unavoidable in practice, systems must be partition-tolerant, meaning you must choose between consistency and availability when designing distributed architectures.
+
+Example: MongoDB is a CP (Consistent and Partition-Tolerant) database — it blocks writes during a partition so all replicas stay in sync. Cassandra is an AP (Available and Partition-Tolerant) database — it keeps serving queries even if replicas briefly disagree. DNS is designed as AP — if some name servers are partitioned, they still reply even if their information might be slightly outdated.
+
+Source: https://lawsofsoftwareengineering.com/laws/cap-theorem/

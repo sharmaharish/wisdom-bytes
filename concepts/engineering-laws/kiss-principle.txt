@@ -1,0 +1,9 @@
+Name: KISS (Keep It Simple, Stupid)
+Category: engineering-laws
+Tags: design, simplicity, code-quality
+
+Designs and systems should be as simple as possible. KISS primarily refers to avoiding complexity in solution designs. A solution that satisfies the requirement and is simple in design is better than a complex one. Simple code is easier to understand, debug, and maintain.
+
+Example: A web application needs to generate reports. A KISS approach uses a simple script or existing library to query the database and output a CSV. A non-KISS approach would design a complete plug-in architecture "just in case" more flexibility is needed later. When writing a function to parse a file, a KISS implementation opens the file, reads line by line, and splits fields — not a generic parser-combinator framework.
+
+Source: https://lawsofsoftwareengineering.com/laws/kiss-principle/

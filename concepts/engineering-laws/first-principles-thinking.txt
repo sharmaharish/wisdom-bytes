@@ -1,0 +1,9 @@
+Name: First Principles Thinking
+Category: engineering-laws
+Tags: problem-solving, innovation, decision-making
+
+Breaking a complex problem into its most basic blocks and then building up from there. Instead of accepting existing solutions or assumptions, question them. What are you really trying to accomplish? What are constraints versus assumptions? This approach is good for incremental improvements but essential for fundamental changes.
+
+Example: Before SpaceX, launching rockets was costly because industry practice used expensive materials and discarded rockets after one use. Elon Musk applied first principles: What is a rocket made of? Mainly aluminum, titanium, copper, and carbon fiber. Raw material costs were a fraction of finished rocket prices. From that insight, SpaceX built rockets from scratch and made them reusable. In software, instead of "this feature will take 3 months because that's how long similar features took," break it down and estimate from the basics.
+
+Source: https://lawsofsoftwareengineering.com/laws/first-principles-thinking/

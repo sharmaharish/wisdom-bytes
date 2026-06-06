@@ -1,0 +1,9 @@
+Name: Assertive Programming
+Category: programming-wisdom
+Tags: testing, debugging, correctness
+
+Use assertions to document and enforce assumptions that must be true for your code to work correctly. Assertions check for conditions that should never happen if the code is correct — not error conditions (which should be handled with proper error handling), but logical impossibilities. They serve as executable documentation and catch programming errors early during development.
+
+Example: A function that divides two numbers might assert that the denominator is not zero. In production, you'd handle zero as a proper error case. But consider a binary search that maintains a sorted array: you assert `isSorted(arr)` at the start. If the array isn't sorted due to a bug elsewhere, the assertion catches it immediately rather than producing a subtle wrong result.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

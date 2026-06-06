@@ -1,0 +1,9 @@
+Name: Design by Contract
+Category: programming-wisdom
+Tags: design, correctness, testing
+
+Design by Contract (DBC) specifies precise interface contracts between software components. Each function defines preconditions (what must be true before it runs), postconditions (what will be true after it runs), and invariants (what remains constant). The contract acts as a formal agreement between caller and callee: if the caller meets the preconditions, the callee guarantees the postconditions. This makes interfaces precise, debugging easier, and reasoning about code more reliable.
+
+Example: A `withdraw(amount)` method has: precondition — `amount > 0 && balance >= amount`; postcondition — `balance == old_balance - amount`; invariant — `balance >= 0`. The caller must check `balance >= amount` before calling. The method guarantees the balance decreases correctly. If the precondition fails, it's the caller's bug; if the postcondition fails, it's the callee's bug.
+
+Source: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/

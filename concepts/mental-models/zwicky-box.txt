@@ -1,0 +1,9 @@
+Name: Zwicky Box
+Category: mental-models
+Tags: problem-solving, creativity, innovation, ideation
+
+The Zwicky Box (morphological box), created by astronomer Fritz Zwicky, generates novel solutions by systematically combining attributes of a problem. Steps: define the problem, identify key categories/attributes, list possible values for each category, then combine one value from each column to form complete solutions. The methodical approach surfaces combinations that brainstorming would miss.
+
+Example: Improving a feedback system. Attributes: collection method (email, in-app, phone, social), timing (on cancellation, after purchase, continuous), format (open text, multiple choice, audio), incentive (gift card, discount, early access), analysis (AI sentiment, manual review). Combining "phone interview + continuous + audio + early access + AI sentiment" produces a novel approach: weekly voice feedback calls rewarded with early access.
+
+Source: https://untools.co/zwicky-box/

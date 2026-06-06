@@ -1,0 +1,9 @@
+Name: Premature Optimization (Knuth's Optimization Principle)
+Category: engineering-laws
+Tags: optimization, performance, best-practices
+
+Premature optimization is the root of all evil. Most code doesn't run in performance-critical hotspots, so obsessing over micro-optimizations everywhere wastes time and makes code harder to read. Get it working correctly first, then profile and optimize only the parts that truly need it.
+
+Example: A developer writes a low-level C routine with complex bit-twiddling to squeeze out speed, spending two days on it, only to find the function is called once at startup taking 0.001% of runtime. Meanwhile, a sorting function on a large dataset was the real bottleneck but remained unoptimized. In contrast, following Knuth's advice, you implement simply, measure, find that 80% of time is spent in one loop, and optimize only that loop.
+
+Source: https://lawsofsoftwareengineering.com/laws/premature-optimization/

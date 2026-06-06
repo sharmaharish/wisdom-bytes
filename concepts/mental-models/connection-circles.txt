@@ -1,0 +1,9 @@
+Name: Connection Circles
+Category: mental-models
+Tags: systems-thinking, feedback-loops, relationships
+
+Connection circles help visualize relationships within a system to understand cause and effect. Steps: draw a circle, identify key elements (nouns that increase or decrease), write them around the circle, draw arrows between elements that influence each other, and mark whether each relationship increases (+) or decreases (-) the target. This reveals feedback loops and systemic dynamics.
+
+Example: Unhappy customers create more support tickets, which increase response times, which further increase unhappiness — a reinforcing feedback loop. Meanwhile, shipping new features reduces unhappiness but introduces bugs, increasing it again. The connection circle makes these dynamics visible.
+
+Source: https://untools.co/connection-circles/

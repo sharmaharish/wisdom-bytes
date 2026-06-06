@@ -1,0 +1,9 @@
+Name: YAGNI (You Aren't Gonna Need It)
+Category: engineering-laws
+Tags: design, agile, over-engineering
+
+Don't add functionality until it is necessary. YAGNI reminds developers to focus on current tasks rather than implementing features that aren't needed now. Anticipating future needs often leads to over-engineering, adding complexity and maintenance burden. Implement minimal solutions and refine or extend them when actually needed.
+
+Example: You're building a feature and think "maybe in the future someone will want to toggle this on/off, so I'll add a configuration flag now." YAGNI challenges that — unless there's a current requirement for configurability, implement only expected behavior. Your app needs JSON export? Implement simple JSON, not a full serialization library supporting XML, YAML, and more.
+
+Source: https://lawsofsoftwareengineering.com/laws/yagni/

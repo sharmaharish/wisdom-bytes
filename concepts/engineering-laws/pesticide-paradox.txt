@@ -1,0 +1,9 @@
+Name: Pesticide Paradox
+Category: engineering-laws
+Tags: testing, quality, QA
+
+Repeatedly running the same tests becomes less effective over time. Over time, an outdated test suite will identify fewer bugs. The tests are still helpful for regression detection, but no longer effective at catching new defects. This illustrates the need to continuously add new test cases, test data, and approaches.
+
+Example: A mobile app's testers wrote extensive tests for login and profile features in the first release, finding and fixing ten bugs. In subsequent releases, those tests all pass — but the app added a messaging feature without corresponding tests. Users start reporting crashes in messaging. The test suite failed to identify these because it wasn't updated. New features require new tests.
+
+Source: https://lawsofsoftwareengineering.com/laws/pesticide-paradox/

@@ -1,0 +1,9 @@
+Name: Law of Unintended Consequences
+Category: engineering-laws
+Tags: complexity, systems, change-management
+
+Whenever you change a complex system, expect surprise. No matter how well you plan, any significant change in a complex system can produce results you cannot anticipate. Consequences can be unexpected benefits, unexpected drawbacks, or perverse results where the action makes the original problem worse.
+
+Example: Enabling a new logging feature to help with debugging might fill the disk and crash the system — a perverse result relative to the goal of stability. A social network changes its algorithm to boost user engagement, but as an unintended consequence it amplifies outrage or misinformation. A bug fix in one part of the code unexpectedly causes a regression in another module that depended on the original bug behavior.
+
+Source: https://lawsofsoftwareengineering.com/laws/law-of-unintended-consequences/

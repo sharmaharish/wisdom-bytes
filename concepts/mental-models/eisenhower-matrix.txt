@@ -1,0 +1,9 @@
+Name: Eisenhower Matrix
+Category: mental-models
+Tags: productivity, prioritization, time-management
+
+The Eisenhower Matrix helps prioritize tasks by categorizing them along two axes: importance and urgency. Tasks are placed into four quadrants: Important & Urgent (Do it now), Important but Not Urgent (Schedule it), Urgent but Not Important (Delegate it), and Not Urgent & Not Important (Don't do it). The framework ensures you focus on what truly matters rather than just what's pressing.
+
+Example: You have a report due today (Do — important and urgent), a feature design for next quarter (Schedule — important, not urgent), a conference ticket to buy (Delegate — urgent, not important), and a meeting with no agenda (Don't do — neither urgent nor important).
+
+Source: https://untools.co/eisenhower-matrix/

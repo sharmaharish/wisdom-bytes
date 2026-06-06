@@ -1,0 +1,9 @@
+Name: Situation-Behavior-Impact
+Category: mental-models
+Tags: communication, feedback, leadership
+
+Situation-Behavior-Impact (SBI) is a feedback framework developed by the Center for Creative Leadership. Structure feedback in three parts: Situation (where/when the behavior occurred), Behavior (the specific observable action — not interpretations), and Impact (what effect the behavior had). This removes judgment from feedback, making it clearer and less likely to trigger defensiveness.
+
+Example: Instead of saying "You're not prepared for meetings," use SBI: "In yesterday's product review (Situation), you didn't share customer learnings on the new feature (Behavior), which made me concerned about customer engagement (Impact)." This opens a constructive dialogue about intent and improvement.
+
+Source: https://untools.co/situation-behavior-impact/

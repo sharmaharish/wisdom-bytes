@@ -1,0 +1,9 @@
+Name: Broken Windows Theory
+Category: engineering-laws
+Tags: quality, maintainability, technical-debt
+
+Don't leave broken windows (bad designs, wrong decisions, or poor code) unrepaired. If you let minor bugs and bad style slide, people assume quality doesn't matter and ship messier code. A clean, well-maintained codebase encourages engineers to keep it clean, whereas a chaotic codebase encourages corner-cutting and further degradation.
+
+Example: Consider a codebase with functions containing `// TODO: fix this hack` comments that never get fixed. Newcomers see that and feel justified adding their own hacks. On the opposite side, maintainers who aggressively fix style issues and simplify code create a culture where everyone matches that cleanliness. The Pragmatic Programmer popularized this concept in software.
+
+Source: https://lawsofsoftwareengineering.com/laws/broken-windows-theory/

@@ -1,0 +1,9 @@
+Name: Principle of Least Astonishment
+Category: engineering-laws
+Tags: design, UX, API-design
+
+Software and interfaces should behave in a way that least surprises users and other developers. Design decisions should align with user expectations. Following platform norms and standard conventions yields the least astonishment. In coding, choose defaults and behaviors that match standard conventions and avoid "surprise" side effects.
+
+Example: If you have a method `deleteFile()`, one would expect it to remove the file — it should not secretly archive it or throw an error if the file doesn't exist. A `toString()` method should return human-readable text, not a binary blob. A function named `parseDate(str)` should not internally modify a global date format setting. A delighted user uses something and it "just works" as expected.
+
+Source: https://lawsofsoftwareengineering.com/laws/principle-of-least-astonishment/

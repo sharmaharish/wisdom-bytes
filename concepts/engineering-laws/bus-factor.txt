@@ -1,0 +1,9 @@
+Name: Bus Factor
+Category: engineering-laws
+Tags: risk, knowledge-sharing, teams, bus-factor
+
+The minimum number of team members whose loss would put the project in serious trouble. A bus factor of 1 means one person holds critical knowledge — if they disappear, the project is essentially stalled. Teams should work to increase their bus factor by sharing knowledge, documenting critical systems, having code reviews, and rotating responsibilities.
+
+Example: If a startup's only database expert is Alice, the bus factor for database knowledge is 1. If Alice quits, nobody else knows the backups, schema intricacies, or tuning. The Left-pad incident on npm reflects a bus factor of 1 for the broader ecosystem — a single maintainer pulled a tiny package and thousands of builds broke globally.
+
+Source: https://lawsofsoftwareengineering.com/laws/bus-factor/

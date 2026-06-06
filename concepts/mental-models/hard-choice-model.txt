@@ -1,0 +1,9 @@
+Name: Hard Choice Model
+Category: mental-models
+Tags: decision-making, prioritization, strategy
+
+The Hard Choice Model classifies decisions along two axes: impact (significance of outcome) and comparability (how easy options are to compare). Four types emerge: No-brainer (low impact, easy — decide quickly), Apples and Oranges (low impact, hard — decide by priority), Big Choice (high impact, easy — gather information and compare), and Hard Choice (high impact, hard — accept no right answer, experiment). It helps match the decision approach to its complexity.
+
+Example: Choosing a meeting day is a No-brainer (decide fast). Reading vs. exercising tonight is Apples and Oranges (follow current priorities). Comparing two job offers with different salaries is a Big Choice (research thoroughly). Deciding between a senior role at a big company or joining a startup is a Hard Choice (run a small experiment to test the waters).
+
+Source: https://untools.co/hard-choice-model/

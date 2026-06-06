@@ -1,0 +1,9 @@
+Name: Decision Matrix
+Category: mental-models
+Tags: decision-making, prioritization, evaluation
+
+A decision matrix helps choose between options by scoring each option against weighted factors. Steps: list options, identify decision factors, assign weights to each factor, score each option per factor, multiply by weights, and sum for a total score. The highest-scoring option is the most reasonable choice.
+
+Example: Choosing a design tool (Sketch, Figma, Framer) with factors Cost (weight 5), Prototyping (4), Collaboration (3). Each tool is scored 1-5 per factor. After weighting, Framer scores 44, Figma 42, Sketch 37 — making Framer the winner based on the team's priorities.
+
+Source: https://untools.co/decision-matrix/

@@ -1,0 +1,9 @@
+Name: Technical Debt
+Category: engineering-laws
+Tags: quality, refactoring, maintainability
+
+Technical debt is everything that slows us down when developing software. When you take a shortcut in code, you borrow time from the future. This gives an immediate benefit, but you owe principal (the work to fix) plus interest. Not all technical debt is bad — it can be necessary for market timing — but it must be managed and repaid.
+
+Example: A team under deadline pressure releases a new feature without writing automated tests. The release is successful (debt incurred). But later, making changes becomes harder since every change risks unforeseen bugs because there's no safety net of tests (interest payments). Eventually they must stop adding features and fix the debt by adding missing tests and refactoring.
+
+Source: https://lawsofsoftwareengineering.com/laws/technical-debt/
