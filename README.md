@@ -40,6 +40,12 @@ wisdom
 
 # Re-run if you didn't like what you got
 wisdom
+
+# Shortcut alias (same as wisdom)
+ws
+
+# Pick from specific categories
+ws engineering-laws,paradoxes
 ```
 
 ## Category Filtering
@@ -57,6 +63,9 @@ For a one-off filtered display in the current session:
 ```bash
 WISDOM_CATEGORIES="paradoxes"
 wisdom
+
+# Or use the ws alias with categories inline
+ws paradoxes
 ```
 
 ## Adding Concepts
