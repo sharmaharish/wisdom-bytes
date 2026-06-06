@@ -42,6 +42,23 @@ wisdom
 wisdom
 ```
 
+## Category Filtering
+
+Limit to specific categories by setting `WISDOM_CATEGORIES` before the `source` line in `.zshrc`:
+
+```bash
+# Only show concepts from engineering-laws and mental-models
+export WISDOM_CATEGORIES="engineering-laws,mental-models"
+source /path/to/wisdom.sh
+```
+
+For a one-off filtered display in the current session:
+
+```bash
+WISDOM_CATEGORIES="paradoxes"
+wisdom
+```
+
 ## Adding Concepts
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for file format and guidelines.

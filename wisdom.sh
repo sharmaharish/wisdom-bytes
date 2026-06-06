@@ -5,6 +5,7 @@ setopt local_options no_monitor
 WISDOM_HOME="${WISDOM_HOME:-"$(cd "$(dirname "$(realpath "$0")")" && pwd)"}"
 WISDOM_DATA_DIR="${WISDOM_DATA_DIR:-"${HOME}/.wisdom-bytes"}"
 HISTORY_SIZE="${HISTORY_SIZE:-20}"
+WISDOM_CATEGORIES="${WISDOM_CATEGORIES:-}"
 
 list_concepts() {
   local dir="${1:-$WISDOM_HOME/concepts}"
@@ -250,7 +251,21 @@ wisdom() {
     return 1
   fi
 
-  local -a concepts=("${(@f)all_concepts}")
+  local -a all_files=("${(@f)all_concepts}")
+
+  if [[ -n "$WISDOM_CATEGORIES" ]]; then
+    local pattern
+    pattern="$(echo "$WISDOM_CATEGORIES" | sed 's/,/|/g')"
+    local -a filtered=()
+    for _f in "${all_files[@]}"; do
+      if echo "$_f" | grep -qE "/(${pattern})/"; then
+        filtered+=("$_f")
+      fi
+    done
+    all_files=("${filtered[@]}")
+  fi
+
+  local -a concepts=("${all_files[@]}")
   local -a recent=("${(@f)$(read_history)}")
   local -a recent_basenames=()
   for f in "${recent[@]}"; do
