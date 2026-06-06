@@ -297,6 +297,11 @@ wisdom() {
       fi
     done
     all_files=("${filtered[@]}")
+    if [[ ${#all_files[@]} -eq 0 ]]; then
+      echo "Error: no concepts found for categories: $WISDOM_CATEGORIES" >&2
+      echo "Available categories: $(list_categories)" >&2
+      return 1
+    fi
   fi
 
   local -a concepts=("${all_files[@]}")
@@ -345,6 +350,27 @@ ws() {
       ws_usage
       ;;
     *)
+      local input_cats=("${(@s:,:)1}")
+      local -a available_cats=()
+      local f dir
+      for f in "${(@f)$(list_concepts)}"; do
+        dir="$(basename "$(dirname "$f")")"
+        if (( ! $available_cats[(Ie)$dir] )); then
+          available_cats+=("$dir")
+        fi
+      done
+      local invalid=0
+      local cat
+      for cat in "${input_cats[@]}"; do
+        if (( ! $available_cats[(Ie)$cat] )); then
+          echo "Error: unknown category '$cat'" >&2
+          invalid=1
+        fi
+      done
+      if [[ $invalid -eq 1 ]]; then
+        echo "Available categories: $(echo "${(j:, :)available_cats}")" >&2
+        return 1
+      fi
       WISDOM_CATEGORIES="$1" wisdom
       ;;
   esac
