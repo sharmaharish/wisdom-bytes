@@ -54,6 +54,12 @@ ws --list
 # Show usage and options
 ws -h
 ws --help
+
+# If you provide an unknown category, you'll see an error
+# and a list of available categories:
+ws foo-bar
+# → Error: unknown category 'foo-bar'
+# → Available categories: engineering-laws, mental-models, ...
 ```
 
 ## Category Filtering
