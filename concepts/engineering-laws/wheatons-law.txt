@@ -1,0 +1,9 @@
+Name: Wheaton's Law
+Category: engineering-laws
+Tags: culture, community, professionalism, conduct
+
+Don't be a jerk. Popularized by actor Wil Wheaton, this simple principle is a cornerstone of professional conduct in open-source communities, code reviews, and team interactions. Engineering culture is healthiest when participants treat each other with respect, assume good intent, and avoid ego-driven behavior.
+
+Example: During a code review, instead of writing "This is terrible code, rewrite it," a reviewer following Wheaton's Law writes "This approach has some issues with thread safety. Here's an alternative pattern that handles it better." The feedback is critical but respectful.
+
+Source: https://en.wikipedia.org/wiki/Wil_Wheaton#Wheaton%27s_Law

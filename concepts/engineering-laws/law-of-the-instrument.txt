@@ -1,0 +1,9 @@
+Name: Law of the Instrument
+Category: engineering-laws
+Tags: cognition, bias, tools, decision-making
+
+If the only tool you have is a hammer, you tend to see every problem as a nail. People over-rely on familiar tools and frameworks, applying them to problems where they are suboptimal. This cognitive bias limits creative problem-solving and leads to architectural decisions driven by comfort rather than suitability.
+
+Example: A team that knows microservices well tries to decompose every new application into microservices, even a simple CRUD API that would be better served by a monolith. The familiar tool distorts the solution.
+
+Source: https://en.wikipedia.org/wiki/Law_of_the_instrument

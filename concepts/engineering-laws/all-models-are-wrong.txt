@@ -1,0 +1,9 @@
+Name: All Models Are Wrong (George Box's Law)
+Category: engineering-laws
+Tags: statistics, modeling, epistemology, decision-making
+
+All models are wrong, but some are useful. Coined by statistician George Box, this principle reminds us that every model is a simplification of reality and therefore inherently inaccurate. The goal is not to find a perfect model but to use models that are "good enough" for the specific purpose — understanding the nature and extent of their limitations is critical.
+
+Example: A linear regression model predicts user engagement based on feature usage. It will never capture every nuance of human behavior, but it can reveal strong correlations that inform product decisions — as long as the team remembers it is wrong in ways they may not fully understand.
+
+Source: https://en.wikipedia.org/wiki/All_models_are_wrong

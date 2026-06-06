@@ -1,0 +1,9 @@
+Name: Shirky Principle
+Category: engineering-laws
+Tags: institutions, complexity, legacy, change
+
+Institutions will try to preserve the problem to which they are the solution. Coined by Clay Shirky, this principle describes how organizations (and technologies) become vested in the problems they solve rather than solving them and becoming obsolete. Entire industries can perpetuate the existence of problems because their value depends on managing them.
+
+Example: A dedicated "performance optimization team" may resist efforts to build systems that are performant by default — their existence and funding depends on the ongoing problem of poor performance, even if their stated mission is to eliminate it.
+
+Source: https://kk.org/thetechnium/the-shirky-prin/

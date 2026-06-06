@@ -1,0 +1,9 @@
+Name: 90-9-1 Principle (1% Rule)
+Category: engineering-laws
+Tags: community, participation, content-creation, internet-culture
+
+In most online communities, 90% of participants are lurkers who only consume content, 9% edit or modify content, and 1% actively create new content. While the exact ratios vary, the principle highlights the highly skewed participation distribution common to collaborative platforms, open-source projects, and knowledge bases.
+
+Example: A 2014 study of four digital health social networks found the top 1% created 73% of posts, the next 9% accounted for ~25%, and the remaining 90% accounted for only 2% of posts.
+
+Source: https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)

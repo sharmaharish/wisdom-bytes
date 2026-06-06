@@ -1,0 +1,9 @@
+Name: Dead Sea Effect
+Category: engineering-laws
+Tags: culture, retention, turnover, org-behavior
+
+In software organizations, the most talented and capable engineers tend to leave first, while less competent engineers remain — like the Dead Sea where water evaporates and salt accumulates. As an organization ages, the average skill level drops because the best talent has more options and leaves sooner, creating a downward spiral of declining quality.
+
+Example: A once-great engineering team at a mature company experiences steady departures of senior engineers to startups and big-tech competitors. Remaining engineers are less able to maintain code quality, leading to more frustration and prompting more departures. The sea grows saltier.
+
+Source: https://www.technicallywewrite.com/p/the-dead-sea-effect

@@ -1,0 +1,9 @@
+Name: Interface Segregation Principle
+Category: design-principles
+Tags: solid, interfaces, cohesion, decoupling
+
+No client should be forced to depend on interfaces it does not use. Large, "fat" interfaces should be split into smaller, more specific ones so that implementing classes only need to implement the methods they actually need. ISP prevents unnecessary coupling and reduces the impact of changes. It is the fourth of the SOLID principles.
+
+Example: Instead of a single Worker interface with work(), eat(), and sleep() methods, split into Workable (work), Eatable (eat), and Restable (sleep). A robot can implement Workable without being forced to implement eat() or sleep(), avoiding meaningless method bodies.
+
+Source: https://en.wikipedia.org/wiki/Interface_segregation_principle

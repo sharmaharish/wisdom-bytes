@@ -1,0 +1,9 @@
+Name: Hutber's Law
+Category: engineering-laws
+Tags: system-design, tradeoffs, maintenance, complexity
+
+Improvement means deterioration. Fixing or improving one part of a system inevitably leads to deterioration elsewhere, either by masking existing problems or by creating new ones. Every optimization carries a hidden cost — increased complexity, reduced maintainability, new failure modes, or performance regressions in other paths.
+
+Example: A team reduces API response latency by adding an in-memory cache. This improvement causes stale data to be served in edge cases, introduces cache invalidation complexity, and increases memory pressure on the server — trading one problem for another.
+
+Source: https://en.wikipedia.org/wiki/Hutber%27s_law

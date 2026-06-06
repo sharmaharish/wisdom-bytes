@@ -1,0 +1,9 @@
+Name: Input-Process-Output (IPO)
+Category: engineering-laws
+Tags: system-design, architecture, fundamentals, model
+
+The IPO model breaks down systems into three stages: Input is received, a transformation or computation is performed, and Output is produced. This pattern is universal across computing — from simple functions to complex distributed systems. Chaining IPO components together forms the foundation of pipeline architectures and the Unix philosophy.
+
+Example: A web server follows the IPO model — it accepts an HTTP request (Input), routes it through middleware and business logic (Process), and returns an HTTP response (Output). Each middleware in the chain is itself an IPO unit.
+
+Source: https://en.wikipedia.org/wiki/IPO_model

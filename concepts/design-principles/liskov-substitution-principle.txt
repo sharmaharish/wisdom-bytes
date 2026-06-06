@@ -1,0 +1,9 @@
+Name: Liskov Substitution Principle
+Category: design-principles
+Tags: solid, inheritance, polymorphism, oop
+
+Subtypes must be substitutable for their base types without altering the correctness of the program. If a program uses a base class, it should work correctly with any of its subclasses without knowing which subclass is in use. Violations typically manifest as conditional type-checking or overridden methods that throw unexpected exceptions. LSP is the third of the SOLID principles.
+
+Example: A Rectangle class with setWidth and setHeight methods. A Square subclass that overrides setWidth to also set height violates LSP — code expecting a Rectangle may setWidth(5) and setHeight(10) and get a Square that is 5x5 instead of 5x10. The substitution changes expected behavior.
+
+Source: https://en.wikipedia.org/wiki/Liskov_substitution_principle

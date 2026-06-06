@@ -86,6 +86,40 @@ ws paradoxes
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for file format and guidelines.
 
+## Sources
+
+The concept collection draws from these sources (among others):
+
+| Source | Scope |
+|---|---|
+| [pragprog.com](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) — *The Pragmatic Programmer* | Programming wisdom & engineering practices |
+| [fs.blog](https://fs.blog/mental-models/) — Farnam Street | Mental models |
+| [lawsofsoftwareengineering.com](https://lawsofsoftwareengineering.com/) | Engineering laws |
+| [hacker-laws.com](https://hacker-laws.com/) | Engineering laws & principles |
+| [untools.co](https://untools.co/) | Thinking tools & frameworks |
+| [Wikipedia — List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) | Cognitive biases |
+| [Wikipedia — List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) | Logical fallacies |
+| [Wikipedia — List of Paradoxes](https://en.wikipedia.org/wiki/List_of_Paradoxes) | Paradoxes |
+| [threwthelookingglass.com](https://threwthelookingglass.com/cognitive-biases/) | Cognitive biases |
+
+### Backlog / Pending
+
+These sources are identified but not yet incorporated:
+
+| Source | Scope |
+|---|---|
+| [leadership.garden](https://leadership.garden/56-laws-of-software-engineering/) — 56 Laws of Software Engineering | Engineering laws |
+| [sesamedisk.com](https://sesamedisk.com/software-engineering-laws-2026/) — Software Engineering Laws 2026 | Engineering laws |
+| [github.com/kanywst/hacker-heuristics](https://github.com/kanywst/hacker-heuristics) | Mental models for engineering |
+| [github.com/dvdarkin/reasoning-tools](https://github.com/dvdarkin/reasoning-tools) | Reasoning primitives (32 domains) |
+| [github.com/mattnowdev/thinking-partner](https://github.com/mattnowdev/thinking-partner) | Mental models catalog (150+) |
+| [github.com/jacksonshapiro11/mental-models-observatory](https://github.com/jacksonshapiro11/mental-models-observatory) | Mental models (119 across 40 domains) |
+| [github.com/justinhartbiz/model-thinker-toolkit](https://github.com/justinhartbiz/model-thinker-toolkit) | Decision-making models (50) |
+| [github.com/henu-wang/awesome-mental-models](https://github.com/henu-wang/awesome-mental-models) | Curated mental models list |
+| [github.com/henu-wang/mental-models-handbook](https://github.com/henu-wang/mental-models-handbook) | Mental models (25+, multidisciplinary) |
+| [github.com/jarmolkowicz/modern-mind-knowledge-base](https://github.com/jarmolkowicz/modern-mind-knowledge-base) | AI-era concepts (55) |
+| [github.com/metaphorex/metaphorex](https://github.com/metaphorex/metaphorex) | Cross-domain conceptual metaphors |
+
 ## License
 
 MIT

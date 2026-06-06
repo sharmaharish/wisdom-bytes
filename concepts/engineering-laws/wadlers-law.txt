@@ -1,0 +1,9 @@
+Name: Wadler's Law
+Category: engineering-laws
+Tags: programming-languages, design, standards, committees
+
+In any language design or standardization committee, the amount of time spent discussing a feature is inversely proportional to the complexity of the feature. Simple but numerous features (syntax, naming, formatting) consume a disproportionate amount of discussion time, while truly complex design decisions are often rushed through.
+
+Example: A language design committee spends three meetings debating whether to use curly braces or indentation, but approves a complex type system change in 15 minutes with minimal discussion.
+
+Source: https://wiki.c2.com/?WadlersLaw

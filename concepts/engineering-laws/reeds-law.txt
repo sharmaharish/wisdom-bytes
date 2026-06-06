@@ -1,0 +1,9 @@
+Name: Reed's Law
+Category: engineering-laws
+Tags: networks, network-effects, social-media, value
+
+The utility of large networks, particularly social networks, scales exponentially with the size of the network because it grows with the number of possible subgroups. This is faster than pairwise connections (Metcalfe's Law) — the value is in the formation of groups and communities within the network, not just individual connections.
+
+Example: WhatsApp's value comes not just from one-to-one messaging but from the countless group chats, family circles, and community channels that form as the user base grows — each subgroup adds value exponentially.
+
+Source: https://en.wikipedia.org/wiki/Reed%27s_law

@@ -1,0 +1,9 @@
+Name: Two Pizza Rule
+Category: engineering-laws
+Tags: teams, org-design, collaboration, amazon
+
+A team should be small enough to be fed with two pizzas (roughly 5-8 people). Popularized by Jeff Bezos at Amazon, the rule prevents the coordination overhead, diffusion of responsibility, and communication bottlenecks that plague larger groups. Smaller teams move faster, communicate more effectively, and maintain a stronger sense of ownership.
+
+Example: A 7-person team owns a core payment microservice. They hold daily standups in 10 minutes, make decisions quickly, and deploy multiple times per day. Adjacent teams of 12-15 people struggle with longer meetings, decision paralysis, and indirect communication.
+
+Source: https://en.wikipedia.org/wiki/Two-pizza_team

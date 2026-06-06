@@ -1,0 +1,9 @@
+Name: Dependency Inversion Principle
+Category: design-principles
+Tags: solid, dependency-injection, decoupling, architecture
+
+High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions. DIP inverts the traditional dependency direction, allowing high-level policy to remain unaffected by changes to low-level implementation details. It is the fifth and final SOLID principle.
+
+Example: A ReportService (high-level) should depend on an IEmailSender interface rather than directly on SmtpEmailSender (low-level). This allows swapping SmtpEmailSender for SendGridEmailSender without changing ReportService, and enables testing with a mock.
+
+Source: https://en.wikipedia.org/wiki/Dependency_inversion_principle

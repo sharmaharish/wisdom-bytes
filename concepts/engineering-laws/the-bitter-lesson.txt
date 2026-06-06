@@ -1,0 +1,9 @@
+Name: The Bitter Lesson
+Category: engineering-laws
+Tags: ai, machine-learning, scale, computation
+
+General methods that leverage computation are ultimately the most effective in AI research, by a large margin. Historical attempts to build in human knowledge or simplify problem representations have consistently been outperformed by scaling up general-purpose methods (like neural networks) with more data and compute. Researchers find this "bitter" because it devalues human-crafted approaches in favor of brute-force computation.
+
+Example: In computer vision, hand-crafted feature detectors (SIFT, HOG) dominated for years until large convolutional neural networks trained on massive datasets decisively outperformed them with no built-in domain knowledge.
+
+Source: http://www.incompleteideas.net/IncIdeas/BitterLesson.html

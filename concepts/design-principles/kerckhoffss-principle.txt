@@ -1,0 +1,9 @@
+Name: Kerckhoffs's Principle
+Category: design-principles
+Tags: security, cryptography, design
+
+A cryptographic system should be secure even if everything about the system, except the key, is public knowledge. Security should not rely on obscurity of the algorithm or design. Open, well-analyzed algorithms that are secure when only the key is secret are far more trustworthy than secret algorithms that fail as soon as their design is exposed.
+
+Example: AES (Advanced Encryption Standard) is a publicly documented algorithm that has been scrutinized by cryptographers worldwide for decades. Its security depends entirely on the secrecy of the key. In contrast, a proprietary encryption algorithm kept secret "for security" would be compromised the moment its design leaked.
+
+Source: https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle

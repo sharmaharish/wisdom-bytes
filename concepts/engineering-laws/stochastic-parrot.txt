@@ -1,0 +1,9 @@
+Name: Stochastic Parrot
+Category: engineering-laws
+Tags: ai, machine-learning, nlp, criticism
+
+Large language models are "stochastic parrots" — they probabilistically combine patterns from training data without true understanding or meaning. The term, coined by Emily M. Bender, Timnit Gebru, and colleagues, critiques the hype around AI language models by arguing that fluent text generation does not imply comprehension, reasoning, or intent. Stochastic parrots can produce convincing text while being fundamentally "wrong" about the world.
+
+Example: An LLM generates a coherent-sounding explanation of quantum physics that subtly misapplies a key principle. To a non-expert, the text reads as authoritative. An expert recognizes it as fluent nonsense — the model has no understanding, it has only reprocessed patterns from its training data.
+
+Source: https://dl.acm.org/doi/10.1145/3442188.3445922

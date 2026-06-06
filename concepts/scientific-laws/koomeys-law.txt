@@ -1,0 +1,9 @@
+Name: Koomey's Law
+Category: scientific-laws
+Tags: energy, computation, efficiency, hardware
+
+The number of computations per joule of energy has been doubling approximately every 2.5 years. This long-term trend in energy efficiency means that the battery or power required for a fixed computing load halves regularly. Koomey's Law has slowed in recent years as Dennard scaling and transistor miniaturization face physical limits, similar to Moore's Law.
+
+Example: A machine learning model that required a data center's worth of energy to train in 2008 can now be trained on a single laptop GPU in 2020, reflecting Koomey's Law's trend of exponentially improving energy efficiency.
+
+Source: https://en.wikipedia.org/wiki/Koomey%27s_law

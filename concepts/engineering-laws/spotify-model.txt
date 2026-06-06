@@ -1,0 +1,9 @@
+Name: Spotify Model
+Category: engineering-laws
+Tags: org-design, agile, teams, squads, tribes
+
+An organizational structure popularized by Spotify that organizes engineers into Squads (autonomous teams with a mission), Tribes (collections of squads working in a related area), Chapters (groups with the same role across squads), and Guilds (cross-cutting communities of interest). The model emphasizes autonomy, alignment, and decentralized decision-making.
+
+Example: A payments squad owns checkout flow end-to-end. It is part of the commerce tribe alongside the catalog and cart squads. Backend engineers across all squads form a backend chapter to share practices. An "incident response" guild spans the entire organization.
+
+Source: https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/

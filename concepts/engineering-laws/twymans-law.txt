@@ -1,0 +1,9 @@
+Name: Twyman's Law
+Category: engineering-laws
+Tags: data, statistics, skepticism, quality
+
+Any figure that looks interesting or surprising is probably wrong. When data appears to reveal a dramatic finding, it is more likely the result of a measurement error, data collection flaw, or misinterpretation than a genuine discovery. This law is a defense against over-interpreting anomalous data points.
+
+Example: A dashboard shows that the latest deployment improved page load time by 500%. This is far more likely to be a broken metric, a caching artifact, or an A/B test misconfiguration than a genuine 5x improvement.
+
+Source: https://en.wikipedia.org/wiki/Twyman%27s_law

@@ -1,0 +1,9 @@
+Name: Clarke's Three Laws
+Category: engineering-laws
+Tags: technology, prediction, innovation, science-fiction
+
+Three adages formulated by science fiction writer Arthur C. Clarke. First Law: When a distinguished but elderly scientist states something is possible, they are almost certainly right; when they state something is impossible, they are very probably wrong. Second Law: The only way of discovering the limits of the possible is to venture a little way past them into the impossible. Third Law (most widely cited): Any sufficiently advanced technology is indistinguishable from magic.
+
+Example: Early critics dismissed the idea of reusable rockets as impossible. SpaceX's Falcon 9 booster landings appeared magical to lay audiences — a textbook case of Clarke's Third Law in action.
+
+Source: https://en.wikipedia.org/wiki/Clarke%27s_three_laws
