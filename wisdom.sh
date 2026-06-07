@@ -131,8 +131,9 @@ pick_random() {
 
   if [[ ${#exclude[@]} -gt 0 ]]; then
     local -a filtered=()
+    local excluded item ex
     for item in "${items[@]}"; do
-      local excluded=0
+      excluded=0
       for ex in "${exclude[@]}"; do
         if [[ "$item" == "$ex" ]]; then
           excluded=1
@@ -282,7 +283,7 @@ display_box() {
   print_wrapped "$description" 0
 
   if [[ -n "$example" ]]; then
-    echo ""
+    print_line ""
     print_wrapped "Example: $example" 0
   fi
 
@@ -332,8 +333,10 @@ wisdom() {
   done
 
   local -a pool=()
+  local cb c rb found
   for c in "${concepts[@]}"; do
-    local cb="$(basename "$c")" found=0
+    cb="$(basename "$c")"
+    found=0
     for rb in "${recent_basenames[@]}"; do
       if [[ "$cb" == "$rb" ]]; then
         found=1
