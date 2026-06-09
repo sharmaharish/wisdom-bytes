@@ -13,7 +13,8 @@ list_concepts() {
     echo "ERROR: Concepts directory not found at $dir" >&2
     return 1
   fi
-  find "$dir" -name '*.txt' -type f 2>/dev/null | sort
+  local -a files=("$dir"/**/*.txt(.N))
+  print -l "${(@o)files}"
 }
 
 list_categories() {
@@ -21,7 +22,7 @@ list_categories() {
   local -a cats=()
   local f dir
   for f in "${files[@]}"; do
-    dir="$(basename "$(dirname "$f")")"
+    dir="$f:h:t"
     if (( ! $cats[(Ie)$dir] )); then
       cats+=("$dir")
     fi
@@ -158,7 +159,7 @@ pick_random() {
 read_history() {
   local histfile="$WISDOM_DATA_DIR/history"
   if [[ -f "$histfile" ]]; then
-    cat "$histfile"
+    echo "$(<$histfile)"
   fi
 }
 
@@ -166,53 +167,40 @@ write_history() {
   local entry="$1"
   local histfile="$WISDOM_DATA_DIR/history"
   mkdir -p "$WISDOM_DATA_DIR"
-  if [[ -f "$histfile" ]]; then
-    echo "$entry" >> "$histfile"
-  else
-    echo "$entry" > "$histfile"
-  fi
-  local lines
-  lines="$(wc -l < "$histfile")"
-  if [[ "$lines" -gt "$HISTORY_SIZE" ]]; then
-    tail -n "$HISTORY_SIZE" "$histfile" > "${histfile}.tmp" && mv "${histfile}.tmp" "$histfile"
+  echo "$entry" >> "$histfile"
+  local -a lines=("${(@f)"$(<$histfile)"}")
+  if [[ ${#lines[@]} -gt $HISTORY_SIZE ]]; then
+    print -l "${lines[-$HISTORY_SIZE,-1]}" > "$histfile"
   fi
 }
 
-get_emoji() {
-  local category="$1"
-  case "$category" in
-    engineering-laws)       echo "⚙️" ;;
-    mental-models)          echo "🧠" ;;
-    cognitive-biases)       echo "🎯" ;;
-    paradoxes)              echo "🔄" ;;
-    design-principles)      echo "📐" ;;
-    heuristics)             echo "💡" ;;
-    fallacies)              echo "⚠️" ;;
-    economic-principles)    echo "📊" ;;
-    scientific-laws)        echo "🔬" ;;
-    decision-frameworks)    echo "🗺️" ;;
-    programming-wisdom)     echo "🖥️" ;;
-    *)                      echo "📌" ;;
-  esac
-}
+typeset -g -A _EMOJI=(
+  engineering-laws    "⚙️"
+  mental-models       "🧠"
+  cognitive-biases    "🎯"
+  paradoxes           "🔄"
+  design-principles   "📐"
+  heuristics          "💡"
+  fallacies           "⚠️"
+  economic-principles "📊"
+  scientific-laws     "🔬"
+  decision-frameworks "🗺️"
+  programming-wisdom  "🖥️"
+)
 
-get_category_display_name() {
-  local category="$1"
-  case "$category" in
-    engineering-laws)       echo "Engineering Laws" ;;
-    mental-models)          echo "Mental Models" ;;
-    cognitive-biases)       echo "Cognitive Biases" ;;
-    paradoxes)              echo "Paradoxes" ;;
-    design-principles)      echo "Design Principles" ;;
-    heuristics)             echo "Heuristics" ;;
-    fallacies)              echo "Logical Fallacies" ;;
-    economic-principles)    echo "Economic Principles" ;;
-    scientific-laws)        echo "Scientific Laws" ;;
-    decision-frameworks)    echo "Decision Frameworks" ;;
-    programming-wisdom)     echo "Programming Wisdom" ;;
-    *)                      echo "$category" ;;
-  esac
-}
+typeset -g -A _CATEGORY_NAME=(
+  engineering-laws    "Engineering Laws"
+  mental-models       "Mental Models"
+  cognitive-biases    "Cognitive Biases"
+  paradoxes           "Paradoxes"
+  design-principles   "Design Principles"
+  heuristics          "Heuristics"
+  fallacies           "Logical Fallacies"
+  economic-principles "Economic Principles"
+  scientific-laws     "Scientific Laws"
+  decision-frameworks "Decision Frameworks"
+  programming-wisdom  "Programming Wisdom"
+)
 
 display_box() {
   local concept_file="$1"
@@ -224,31 +212,30 @@ display_box() {
   local parsed
   parsed="$(parse_concept "$concept_file")"
 
+  local -a parsed_lines=("${(f)parsed}")
   local name category description example source
-  name="$(echo "$parsed" | sed -n 's/^name: //p')"
-  category="$(echo "$parsed" | sed -n 's/^category: //p')"
-  description="$(echo "$parsed" | sed -n 's/^description: //p')"
-  example="$(echo "$parsed" | sed -n 's/^example: //p')"
-  source="$(echo "$parsed" | sed -n 's/^source: //p')"
+  name="${${(@M)parsed_lines:#name: *}#name: }"
+  category="${${(@M)parsed_lines:#category: *}#category: }"
+  description="${${(@M)parsed_lines:#description: *}#description: }"
+  example="${${(@M)parsed_lines:#example: *}#example: }"
+  source="${${(@M)parsed_lines:#source: *}#source: }"
 
   local width=72
-  local emoji
-  emoji="$(get_emoji "$category")"
-  local category_display
-  category_display="$(get_category_display_name "$category")"
+  local emoji="${_EMOJI[$category]:-📌}"
+  local category_display="${_CATEGORY_NAME[$category]:-$category}"
 
   local pad=$(( width - 3 ))
 
   print_top_border() {
-    echo "┌$(printf '─%.0s' $(seq 1 $((width - 2))))┐"
+    echo "┌${(l:$((width - 2))::─:)}┐"
   }
 
   print_bottom_border() {
-    echo "└$(printf '─%.0s' $(seq 1 $((width - 2))))┘"
+    echo "└${(l:$((width - 2))::─:)}┘"
   }
 
   print_separator() {
-    echo "│$(printf '─%.0s' $(seq 1 $((width - 2))))│"
+    echo "│${(l:$((width - 2))::─:)}│"
   }
 
   print_line() {
@@ -309,11 +296,10 @@ wisdom() {
   local -a all_files=("${(@f)all_concepts}")
 
   if [[ -n "$WISDOM_CATEGORIES" ]]; then
-    local pattern
-    pattern="$(echo "$WISDOM_CATEGORIES" | sed 's/,/|/g')"
+    local -a cats=("${(@s:,:)WISDOM_CATEGORIES}")
     local -a filtered=()
     for _f in "${all_files[@]}"; do
-      if echo "$_f" | grep -qE "/(${pattern})/"; then
+      if (( $cats[(Ie)$_f:h:t] )); then
         filtered+=("$_f")
       fi
     done
@@ -327,15 +313,12 @@ wisdom() {
 
   local -a concepts=("${all_files[@]}")
   local -a recent=("${(@f)$(read_history)}")
-  local -a recent_basenames=()
-  for f in "${recent[@]}"; do
-    recent_basenames+=("$(basename "$f")")
-  done
+  local -a recent_basenames=("${recent[@]##*/}")
 
   local -a pool=()
   local cb c rb found
   for c in "${concepts[@]}"; do
-    cb="$(basename "$c")"
+    cb="$c:t"
     found=0
     for rb in "${recent_basenames[@]}"; do
       if [[ "$cb" == "$rb" ]]; then
@@ -356,7 +339,7 @@ wisdom() {
   chosen="${pool[$idx + 1]}"
 
   display_box "$chosen"
-  write_history "$(basename "$chosen")"
+  write_history "$chosen:t"
 }
 
 ws() {
@@ -377,7 +360,7 @@ ws() {
       local -a available_cats=()
       local f dir
       for f in "${(@f)$(list_concepts)}"; do
-        dir="$(basename "$(dirname "$f")")"
+        dir="$f:h:t"
         if (( ! $available_cats[(Ie)$dir] )); then
           available_cats+=("$dir")
         fi
@@ -391,7 +374,7 @@ ws() {
         fi
       done
       if [[ $invalid -eq 1 ]]; then
-        echo "Available categories: $(echo "${(j:, :)available_cats}")" >&2
+        echo "Available categories: ${(j:, :)available_cats}" >&2
         return 1
       fi
       WISDOM_CATEGORIES="$1" wisdom
