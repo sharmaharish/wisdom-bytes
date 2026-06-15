@@ -1,0 +1,9 @@
+Name: Six Simple Machines
+Category: mental-models
+Tags: physics, mechanics, fundamentals, engineering
+
+The six classical simple machines—inclined plane, wedge, screw, lever, pulley, and wheel-and-axle—are fundamental devices that change the magnitude or direction of force to make work easier. Each trades increased distance for reduced force (mechanical advantage). The lever amplifies input force based on fulcrum position; the pulley redirects force; the inclined plane spreads work over distance. Understanding these building blocks reveals how complex machines are combinations of these six primitives, and the same principles apply metaphorically to business and problem-solving.
+
+Example: A crowbar (lever) uses a fulcrum placed close to the load so a small downward force on the long end lifts a heavy nail: work stays the same, but force is multiplied by distance.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-six-simple-machines/

@@ -1,0 +1,9 @@
+Name: Identify the Knowns and Unknowns
+Category: decision-frameworks
+Tags: uncertainty, decision-making, risk-analysis, strategy
+
+This decision-making tool forces teams to categorize information into four quadrants: known knowns (facts we're certain of), known unknowns (gaps we know exist), unknown unknowns (risks we haven't imagined), and—critically—unknown knowns (insights we have but haven't surfaced). Inspired by Donald Rumsfeld's formulation, the framework prevents overconfidence by making uncertainty explicit. By mapping what you know, what you don't, and what you couldn't even guess, teams can prioritize investigation efforts, build contingency plans, and avoid blind spots in strategic decisions.
+
+Example: A team launching a new SaaS product lists: Known knowns — "our existing customers want API access." Known unknowns — "we don't know our churn rate at the $49 tier." Unknown unknowns — "a competitor might launch a free tier next quarter." Unknown knowns — "our support team knows customers find onboarding confusing, but has never formally reported it." This map guides where to research, where to hedge, and which internal data to mine.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-identify-the-knowns-and-unknowns/

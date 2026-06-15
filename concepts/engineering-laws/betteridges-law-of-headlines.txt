@@ -1,0 +1,9 @@
+Name: Betteridge's Law of Headlines
+Category: engineering-laws
+Tags: media, headlines, skepticism, journalism
+
+A journalist's adage stating that any headline ending in a question mark can be answered by the word "no". The law observes that question-form headlines are often used when the evidence does not support a definitive declarative statement. Rather than presenting concrete findings, the writer hedges by framing the topic as an open question to generate clicks. The question mark signals that the article likely explores a speculative or weakly-supported premise rather than delivering substantive news.
+
+Example: A tech blog runs the headline "Is Apple Building a Self-Driving Car?" The article contains no confirmed sources or leaks, only speculation and rumor analysis. The answer is almost certainly "no" — if there were real evidence, the headline would state it directly.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-betteridges-law-of-headlines/

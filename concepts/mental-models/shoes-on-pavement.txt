@@ -1,0 +1,9 @@
+Name: Shoes on Pavement
+Category: mental-models
+Tags: data-collection, research, observation, fieldwork
+
+"Shoes on Pavement" is a hands-on approach that emphasizes direct, on-the-ground observation over reliance on reports or second-hand data. Popular in consulting, market research, and operations, it insists that true understanding comes from personally engaging with the situation—visiting stores, talking to customers, walking the factory floor. The concept mirrors Toyota's "Gemba Walk" practice where executives observe operations firsthand. It reveals insights that spreadsheets and summaries miss.
+
+Example: Starbucks CEO Howard Schultz visited Italy, observed café culture firsthand, and brought back the espresso-bar experience that transformed Starbucks from a bean seller into a global coffeehouse chain.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-shoes-on-pavement/

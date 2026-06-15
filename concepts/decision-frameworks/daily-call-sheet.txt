@@ -1,0 +1,9 @@
+Name: Daily Call Sheet
+Category: decision-frameworks
+Tags: planning, coordination, communication, productivity
+
+A daily call sheet is a detailed schedule, borrowed from film production, that tells every team member where they need to be, when, and what they need to do. Originating as the assistant director's tool for coordinating complex film sets, it staggers call times by role, lists locations, scenes to shoot, and any special instructions. The call sheet is issued at least 12 hours in advance so everyone can prepare. Its power lies not in complexity but in clarity—by forcing explicit alignment on the day's plan, it prevents confusion, reduces delays, and keeps multi-team operations running smoothly.
+
+Example: A distributed engineering team adopts a daily call sheet shared each morning: "10:00 AM — Standup (all), 10:30 AM — Backend deploys staging (Alice, Bob), 11:00 AM — Design review PR #142 (Carol), 2:00 PM — Client call re: Q3 roadmap (David, PM)." The sheet lists stakeholders, prep materials, and expected outputs. Team members arrive prepared, handoffs are clear, and no one asks "what's happening today?"
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-daily-call-sheet/

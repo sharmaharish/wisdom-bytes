@@ -1,0 +1,9 @@
+Name: Preventive Maintenance
+Category: engineering-laws
+Tags: reliability, maintenance, quality, engineering
+
+The practice of systematically performing scheduled tasks to prevent equipment failures before they occur, rather than repairing breakdowns reactively. Each component has a defined maintenance schedule — daily, weekly, or usage-based — with detailed procedures, warnings, and sign-off records. The approach balances the labor and downtime costs of maintenance against the risk and cost of catastrophic failure. Reliability-centered maintenance seeks to optimize this trade-off by focusing effort where it provides the most benefit.
+
+Example: A cloud infrastructure team runs regular certificate rotation every 60 days, applies OS security patches on a monthly cycle, and performs database index rebuilds weekly. These scheduled tasks prevent the most common causes of production outages. When a certificate near-expiry alert fires, the team resolves it during normal hours rather than being woken at 3 AM by a TLS failure.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-preventive-maintenance/

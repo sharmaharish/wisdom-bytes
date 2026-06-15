@@ -1,0 +1,9 @@
+Name: What Would We Need to Believe?
+Category: decision-frameworks
+Tags: strategy, assumptions, decision-making, analysis
+
+This question reframes strategic debates by surfacing hidden assumptions. Instead of arguing "this idea will fail because of X," the team asks: "What would we need to believe for this idea to succeed?" This shifts the conversation from reflexive skepticism to hypothesis testing. Each belief becomes a testable claim that can be validated or refuted with data. The technique prevents promising ideas from being killed by unexamined biases and prevents bad ideas from moving forward on blind optimism. It works because it separates "I don't like this" from "This specific premise is unsupported."
+
+Example: A retail chain considers outsourcing IT to a BPO. Skeptics say "this will never work." Applying the question: we would need to believe (1) the BPO can match our current security compliance, (2) their SLAs meet our uptime requirements, and (3) the cost savings exceed the transition overhead. The team then investigates each belief: they audit the BPO's SOC 2 report, run a 30-day pilot on non-critical systems, and model the TCO. Now the decision rests on evidence, not gut feel.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-what-would-we-need-to-believe/

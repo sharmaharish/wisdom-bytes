@@ -1,0 +1,9 @@
+Name: Bounded Rationality
+Category: engineering-laws
+Tags: decision-making, cognition, economics, limits
+
+The idea that human decision-making is limited by available information, cognitive capacity, and time. Coined by Herbert Simon as a challenge to classical economics' assumption of perfect rationality. Instead of seeking the optimal choice, people satisfice — they settle for an option that meets a minimum threshold of acceptability. Heuristics and mental shortcuts emerge as practical strategies for navigating complexity. While satisficing may miss the theoretical optimum, it prevents analysis paralysis and produces reasonable outcomes in most real-world situations.
+
+Example: A team choosing a frontend framework for a new project could evaluate React, Vue, Svelte, Solid, and Angular across dozens of dimensions. Rather than exhaustively comparing every metric, they set criteria (TypeScript support, ecosystem maturity, hiring pool) and pick the first framework that meets all three. This bounded approach delivers a working decision in two hours instead of two weeks of research that would yield marginal improvement.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-bounded-rationality/

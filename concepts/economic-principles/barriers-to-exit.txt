@@ -1,0 +1,9 @@
+Name: Barriers to Exit
+Category: economic-principles
+Tags: strategy, competition, economics, industry
+
+Factors that make it difficult or costly for a company, investor, or individual to leave a failing situation. These include the sunk cost fallacy (continuing because of past investment), emotional attachment, contractual obligations, reputational pressure, and fear of the unknown. Barriers to exit trap resources in unproductive ventures, preventing their redeployment to higher-value uses. Recognizing them is critical for strategic decision-making — staying too long in a losing position often costs more than leaving.
+
+Example: A manufacturing firm keeps operating an unprofitable factory because it already spent $50 million on equipment and signed a ten-year lease, even though shutting down and redeploying capital to a growing market would yield higher returns.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-are-barriers-to-exit/

@@ -1,0 +1,9 @@
+Name: Half-life
+Category: scientific-laws
+Tags: decay, knowledge, relevance, time
+
+Borrowed from nuclear physics, half-life describes the time it takes for any quantity — radioactive atoms, learned knowledge, brand equity, relationship closeness — to decay to half its original value. Knowledge from a course, for instance, fades rapidly without reinforcement, and friendships weaken without regular contact. The concept provides a quantitative way to think about persistence and decay across domains, making visible the force of time that erodes whatever is not actively maintained.
+
+Example: A student who scores 100% on an exam remembers only 50% after two weeks and 25% after a month without review — the half-life of un-reinforced academic knowledge is strikingly short, which is why spaced repetition is so effective.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-half-life/

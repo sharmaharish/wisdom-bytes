@@ -1,0 +1,9 @@
+Name: 50-50-90 Rule
+Category: heuristics
+Tags: estimation, probability, planning, risk
+
+A humorous adage stating: "Any time you have a 50-50 chance of getting something right, there's a 90% probability you'll get it wrong." The rule highlights the fallibility of human judgment, especially when outcomes seem evenly split. It serves as a reminder to question assumptions, double-check work that appears straightforward, and account for cognitive biases in planning.
+
+Example: An engineer estimates a feature has a 50% chance of shipping on time because it seems simple. Applying the 50-50-90 rule prompts them to identify hidden complexity — unexamined edge cases, dependencies on other teams, or untested integrations — and adjust the estimate or scope accordingly.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-50-50-90-rule/

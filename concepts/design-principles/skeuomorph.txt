@@ -1,0 +1,9 @@
+Name: Skeuomorph
+Category: design-principles
+Tags: design, affordance, metaphor, ux
+
+A skeuomorph is a design that retains ornamental elements from an earlier version even though they no longer serve a functional purpose. In digital interfaces, the trash can icon, the floppy disk save icon, and early e-books displayed on a virtual wooden shelf are all skeuomorphs. They reduce the learning curve by leveraging familiar metaphors from the physical world. However, skeuomorphs can become outdated as the original referent fades from cultural memory, and they can clutter interfaces compared to flat, abstract design.
+
+Example: Apple's original iOS Notes app used a leather texture, lined paper background, and a stitching border — skeuomorphic elements that made the digital notebook feel familiar. Later iOS versions abandoned these for a clean, flat design that prioritizes typography and content over decoration.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-skeuomorph/

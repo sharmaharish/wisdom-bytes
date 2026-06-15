@@ -1,0 +1,9 @@
+Name: Logic Brain vs. Artist Brain
+Category: mental-models
+Tags: creativity, analysis, mindset, thinking
+
+Julia Cameron's framework from The Artist's Way describes two modes of mind: the Logic Brain handles rational analysis, planning, and critical judgment, while the Artist Brain drives intuition, imagination, and playful exploration. The Logic Brain is essential for organization and feasibility but can stifle creativity by dismissing unconventional ideas too early. The Artist Brain generates novel connections and inspiration but can be chaotic without structure. Cameron advocates for practices like Morning Pages to bypass the Logic Brain and let the Artist Brain work freely, then bringing the Logic Brain in later to refine and execute.
+
+Example: A writer using Morning Pages (three pages of stream-of-consciousness writing first thing in the morning) lets the Artist Brain spill raw material onto the page without judgment, then returns later with the Logic Brain to edit, structure, and polish the draft.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-logic-brain-vs-artist-brain/

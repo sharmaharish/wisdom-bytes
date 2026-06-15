@@ -1,0 +1,9 @@
+Name: Box Score
+Category: decision-frameworks
+Tags: performance, measurement, metrics, management
+
+The box score, invented by baseball journalist Henry Chadwick in 1859, was the first standardized way to compress a complex, multi-hour game into a single digestible table. Before it, baseball was recorded only as narrative; afterward, it became data that could be analyzed, compared across seasons, and used to drive strategy. The box score's lesson is that the most powerful tools often seem obvious in hindsight—they emerge when someone decides to measure what everyone else is just experiencing. Any domain that lacks a compact, standardized summary of its key dimensions is a candidate for its own box score.
+
+Example: A SaaS company creates a "team health box score" for its engineering org: four columns per sprint — Velocity (story points delivered), Quality (bugs found in production), Morale (anonymous survey score 1-10), and Predictability (planned vs actual delivery %). Each team's numbers are listed in a single row. Leadership can scan the whole org's pulse in 30 seconds, spot outliers, and start conversations about trends rather than anecdotes.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-box-score/

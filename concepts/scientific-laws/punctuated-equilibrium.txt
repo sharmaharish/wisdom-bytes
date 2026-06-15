@@ -1,0 +1,9 @@
+Name: Punctuated Equilibrium
+Category: scientific-laws
+Tags: evolution, change, stability, disruption
+
+A theory from paleontology (Eldredge and Gould) holding that species experience long periods of stability punctuated by brief bursts of rapid evolutionary change. This contrasts with the gradualist view that change accumulates steadily over time. The pattern extends far beyond biology: industries, political systems, and economies also exhibit extended stability interrupted by sudden disruption. Recognizing punctuated equilibrium helps organizations prepare for discontinuities rather than assuming the future will be a linear extension of the present.
+
+Example: The taxi industry was stable for decades until Uber and ride-sharing apps triggered a rapid transformation in just a few years — a long period of stasis followed by a sudden, disruptive punctuation that permanently changed transportation.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-punctuated-equilibrium/

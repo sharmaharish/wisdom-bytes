@@ -1,0 +1,9 @@
+Name: Johari Window
+Category: decision-frameworks
+Tags: self-awareness, communication, feedback, relationships
+
+Developed by Luft and Ingham, the Johari Window is a four-quadrant model of self-awareness: Open (known to self and others), Blind (known to others but not self), Hidden (known to self but hidden from others), and Unknown (unknown to both). The goal is to enlarge the Open quadrant by sharing more (reducing Hidden) and seeking feedback (reducing Blind). It is widely used in team-building, leadership development, and coaching to improve trust, communication, and interpersonal effectiveness. Larger Open areas correlate with higher-performing, more transparent teams.
+
+Example: In a team retro, a manager learns through anonymous feedback that she interrupts people (Blind quadrant). By surfacing this blind spot, she can work on active listening, shrinking the Blind area and expanding the Open area with her team.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-johari-window/

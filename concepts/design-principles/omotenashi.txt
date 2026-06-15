@@ -1,0 +1,9 @@
+Name: Omotenashi
+Category: design-principles
+Tags: hospitality, service, design, customer-experience
+
+A Japanese ethos of selfless hospitality that goes beyond customer service — it involves anticipating needs before they are expressed and providing an experience without expectation of reward. Omotenashi emphasizes thoughtful anticipation, wholehearted attention, and genuine care for the other person. In practice, it means designing every touchpoint to make the recipient feel honored and at ease. The philosophy holds that true satisfaction comes from the act of serving, not from reciprocation.
+
+Example: A hotel booking app notices a guest has an early flight. Without being asked, the app surfaces a "breakfast to-go" option at check-in, offers a wake-up call, and pre-books a taxi for the airport departure time. The guest feels cared for — the system anticipated a need they hadn't articulated.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-omotenashi/

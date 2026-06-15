@@ -1,0 +1,9 @@
+Name: Free
+Category: economic-principles
+Tags: pricing, economics, psychology, value
+
+The observation that people react irrationally to products priced at zero, valuing them far more than their objective worth would justify. Dan Ariely demonstrated that "free" activates acquisition motivation, causing people to overlook costs and drawbacks they would normally consider. Even a tiny price — one cent — shifts the decision from emotional to rational evaluation. This principle is widely used through free trials, samples, and lead magnets that remove the psychological barrier to initial engagement.
+
+Example: An online service offered at $0 attracts dramatically more signups than the same service at $1, even though the difference is trivial. Users grab the free option without evaluating whether they actually need it.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-free/

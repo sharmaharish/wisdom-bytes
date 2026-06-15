@@ -1,0 +1,9 @@
+Name: Segal's Law
+Category: engineering-laws
+Tags: perception, communication, decision-making, information
+
+A man with a watch knows what time it is. A man with two watches is never sure. The adage captures how having multiple sources of information can undermine certainty rather than improve it. On the surface it warns against the confusion of conflicting data, but its deeper lesson is that single-source certainty is often an illusion born of ignorance. True understanding requires engaging with multiple perspectives and embracing the productive discomfort of doubt.
+
+Example: A developer checks three monitoring dashboards for the same service — Datadog shows p99 latency at 200ms, Grafana shows 180ms, and CloudWatch shows 220ms. Before adding a second (and third) source, the engineer was confident in the single number. Now they must reconcile the discrepancy, calibrate measurement offsets, and decide which source to trust, slowing the decision on whether to roll back the latest deploy.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-segals-law/

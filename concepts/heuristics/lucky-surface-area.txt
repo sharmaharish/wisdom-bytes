@@ -1,0 +1,9 @@
+Name: Luck Surface Area
+Category: heuristics
+Tags: opportunity, action, serendipity, initiative
+
+Luck Surface Area is the amount of exposure an individual or organization has to opportunities and resources that can lead to success. Originated by Jim Collins in "Great by Choice," the concept argues that luck is not purely random — you can increase it through action. The formula is roughly: luck surface area = (things you do) × (people who know about them). By taking more initiative and sharing your work widely, you increase the surface area for serendipity.
+
+Example: An open-source developer who publishes projects, writes blog posts, speaks at meetups, and engages on social media creates a larger luck surface area than an equally talented developer who works in isolation — and will statistically attract more opportunities (job offers, collaborations, funding).
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-luck-surface-area/

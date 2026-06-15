@@ -101,6 +101,7 @@ The concept collection draws from these sources (among others):
 | [Wikipedia — List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) | Logical fallacies |
 | [Wikipedia — List of Paradoxes](https://en.wikipedia.org/wiki/List_of_Paradoxes) | Paradoxes |
 | [threwthelookingglass.com](https://threwthelookingglass.com/cognitive-biases/) | Cognitive biases |
+| [umbrex.com](https://umbrex.com/resources/tools-for-thinking/) | Thinking tools & frameworks (50+ new concepts added) |
 
 ### Backlog / Pending
 

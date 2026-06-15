@@ -1,0 +1,9 @@
+Name: Morning Pages
+Category: heuristics
+Tags: creativity, journaling, clarity, habit
+
+A daily practice introduced by Julia Cameron in "The Artist's Way": write three pages of longhand, stream-of-consciousness writing first thing each morning. There is no wrong way — the pages are not "writing" but mental clutter removal. The practice unblocks creativity by draining anxieties, complaints, and mental noise onto the page, leaving clarity for the day ahead. Benefits include increased self-awareness, improved problem-solving, and greater focus.
+
+Example: A product manager wakes up anxious about a launch. Morning pages catch the stream of worries — "the demo isn't ready," "the stakeholder will hate this," "I forgot to follow up with engineering" — and by page three, the anxiety settles into a prioritized action list, all without consciously "planning."
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-morning-pages/

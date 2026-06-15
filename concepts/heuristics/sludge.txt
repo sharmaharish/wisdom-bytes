@@ -1,0 +1,9 @@
+Name: Sludge
+Category: heuristics
+Tags: friction, bureaucracy, policy, user-experience
+
+Cass Sunstein's term for unnecessary friction that prevents people from getting things done — the opposite of a nudge. Sludge includes incomprehensible forms, convoluted cancellation processes, excessive paperwork, and opaque bureaucratic procedures. It is often invisible to those who design it but deeply frustrating to those who navigate it. Sludge can block access to essential services and erode trust. Sunstein advocates for "sludge audits" — systematic reviews to identify and eliminate friction.
+
+Example: A SaaS app requires three confirmation emails, a chat with support, and filling out a "reason for leaving" form to cancel a subscription. This sludge intentionally discourages churn, but also generates customer resentment and negative reviews. A sludge audit would recommend a single-click cancellation flow.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-sludge/

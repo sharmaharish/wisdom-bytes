@@ -1,0 +1,9 @@
+Name: McKinsey Feedback Model
+Category: decision-frameworks
+Tags: feedback, communication, management, leadership
+
+The McKinsey Feedback Model structures feedback into three sequential steps: Situation (describe the specific context), Behavior (describe the observed action, not the person), and Impact (explain the consequence). By separating what happened from who did it, the model reduces defensiveness and makes feedback actionable. It works for both positive and constructive feedback, and it forces the giver to be specific rather than vague. The model originated at McKinsey & Company to sustain high performance through constant, low-ego coaching.
+
+Example: Instead of saying "You were rude in the meeting," a manager says: "During the sprint retro (Situation), you interrupted Jenna three times while she was explaining the testing bottleneck (Behavior), which made her stop contributing for the rest of the session (Impact)." The recipient knows exactly what to change without feeling personally attacked. For positive feedback: "In the client demo (Situation), you caught the discrepancy in the revenue data before presenting it (Behavior), which saved us from a credibility loss (Impact)."
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-mckinsey-feedback-model/

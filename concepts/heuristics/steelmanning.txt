@@ -1,0 +1,9 @@
+Name: Steelmanning
+Category: heuristics
+Tags: argumentation, reasoning, critical-thinking, debate
+
+Steelmanning is the practice of constructing the strongest possible version of an argument, even if you disagree with it. Unlike a strawman — which misrepresents the opposition — steelmanning enhances it, ensuring debates engage with the best version of the opposing view. Rooted in the principle of charity, it leads to more productive discussions and resilient decision-making. The term was coined by philosopher Eli Dourado to promote constructive, respectful dialogue.
+
+Example: Before rejecting a proposed architectural decision, a team lead writes up the strongest case for it — performance benefits, team familiarity, ecosystem fit — and then addresses each point in turn, ensuring the final decision is tested against the best possible version of the alternative.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-steelmanning/

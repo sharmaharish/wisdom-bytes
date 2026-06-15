@@ -1,0 +1,9 @@
+Name: ADKAR Model
+Category: decision-frameworks
+Tags: change-management, transformation, leadership, adoption
+
+ADKAR, developed by Prosci founder Jeff Hiatt, is a goal-oriented change management framework focused on the individual. The acronym stands for Awareness (understanding why the change is needed), Desire (willingness to participate), Knowledge (knowing how to change), Ability (being able to execute the change), and Reinforcement (sustaining it over time). Unlike organizational-level models, ADKAR diagnoses which stage a person is stuck at, allowing targeted intervention. It is applied sequentially—you cannot skip to Desire if Awareness is missing, nor to Ability if Knowledge hasn't been built.
+
+Example: A dairy farm introduces automated milking machines. The change manager checks each stage: Awareness — farmers learn that manual milking is causing repetitive strain injuries and the new system can milk 3x faster. Desire — they see a demo where a neighboring farm cut milking time by 2 hours daily. Knowledge — a technician trains each farmer on the interface. Ability — the technician shadows for the first week, helping with edge cases. Reinforcement — the farm tracks output weekly and celebrates the first month of smooth operation with a bonus.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-adkar-model/

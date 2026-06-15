@@ -1,0 +1,9 @@
+Name: Public Choice Theory
+Category: economic-principles
+Tags: economics, politics, incentives, government
+
+The application of economic analysis to political decision-making, treating politicians, bureaucrats, and voters as self-interested actors rather than purely public-spirited servants. Key concepts include rent-seeking (lobbying for special favors rather than creating value), the free-rider problem (benefiting from public goods without contributing), and bureaucratic inefficiency (agencies prioritizing budget maximization over service). The theory explains why political outcomes often serve concentrated interests at the expense of the general public.
+
+Example: A company spends millions lobbying for a tariff on foreign competitors rather than investing in R&D to make better products — the tariff delivers a guaranteed return by restricting competition, while innovation is uncertain.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-public-choice-theory/

@@ -1,0 +1,9 @@
+Name: WEIRD People
+Category: mental-models
+Tags: culture, psychology, bias, individualism
+
+Acronym coined by Joseph Henrich for Western, Educated, Industrialized, Rich, and Democratic societies—a psychologically unusual subset of humanity. WEIRD people are more individualistic, analytical, and rule-oriented than most global populations. Henrich traces this to medieval Catholic Church reforms that weakened kinship structures, paving the way for individualism. Because most psychology research uses WEIRD subjects, many findings assumed universal are actually culturally specific.
+
+Example: The common psychological finding that people prefer fair, equitable outcomes is largely based on WEIRD participants. In many non-WEIRD societies, people prefer hierarchical distributions where elders or chiefs receive more, because loyalty to kin and status matters more than abstract fairness.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-are-weird-people/

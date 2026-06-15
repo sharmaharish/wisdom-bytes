@@ -1,0 +1,9 @@
+Name: Winning
+Category: decision-frameworks
+Tags: strategy, goals, achievement, leadership
+
+Roger Martin and A.G. Lafley's "Playing to Win" framework argues that strategy must start with a clear definition of winning—not just surviving or competing, but choosing where and how to win. They propose five strategic choices: Winning Aspiration (what does winning look like?), Where to Play (which markets, customers, channels?), How to Win (what is our competitive advantage?), Core Capabilities (what must we be great at?), and Management Systems (how do we measure and reinforce the strategy?). Without defining winning, organizations default to imitation and incrementalism.
+
+Example: A mid-size B2B software company defines winning as "becoming the #1 CRM for mid-market manufacturing companies in North America within 3 years." Where to play: manufacturing firms with 200-2000 employees. How to win: deep industry-specific features (inventory forecasting, compliance tracking) that horizontal CRMs lack. Core capabilities: manufacturing domain expertise, a partner network of implementation consultants. Management systems: board reviews scorecards tracking market share in the target segment, not just total revenue.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-winning/

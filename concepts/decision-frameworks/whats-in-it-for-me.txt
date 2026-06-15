@@ -1,0 +1,9 @@
+Name: What's In It For Me
+Category: decision-frameworks
+Tags: persuasion, motivation, communication, stakeholder
+
+WIIFM is the recognition that every stakeholder evaluates a proposal through the lens of their own self-interest. Rather than being cynical, it is a practical communication tool: to persuade, you must articulate not just what the idea is, but what benefit it delivers to each audience. Salespeople, negotiators, and leaders who ignore WIIFM make the mistake of describing features instead of outcomes. The concept applies to customers (why should they buy?), employees (why should they adopt a new process?), and partners (why should they collaborate?).
+
+Example: An engineering lead proposes migrating the team from a monolithic architecture to microservices. Instead of pitching "better separation of concerns and independent deployability," she frames it per audience: To the CEO: "Faster feature delivery — we can ship 3x more experiments per quarter." To the product manager: "Each team can release on their own schedule without blocking others." To the junior engineers: "You own your service end-to-end, which is a career-growth opportunity." Each person hears "what's in it for me" before hearing the technical details.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-whats-in-it-for-me/

@@ -1,0 +1,9 @@
+Name: Scout Mindset
+Category: mental-models
+Tags: reasoning, bias, intellectual-honesty, decision-making
+
+A mindset, popularized by Julia Galef, of approaching the world like a scout seeking truth rather than a soldier defending pre-existing beliefs. The soldier mindset protects your views and attacks threatening ideas, while the scout mindset prizes curiosity, intellectual honesty, and willingness to revise beliefs when new evidence demands it. Adopting a scout mindset means treating your beliefs as hypotheses to test rather than treasures to guard.
+
+Example: A founder convinced their product strategy is correct actively seeks out evidence that contradicts their assumption, and adjusts course when the data points the other way, rather than dismissing criticism and doubling down.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-scout-mindset/

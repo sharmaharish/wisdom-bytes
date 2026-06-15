@@ -1,0 +1,9 @@
+Name: The Five Whys
+Category: heuristics
+Tags: root-cause-analysis, problem-solving, debugging, continuous-improvement
+
+Developed by Sakichi Toyoda at Toyota, the Five Whys is a simple iterative technique that asks "why" repeatedly to drill past symptoms to the root cause of a problem. The number five is a guideline, not a rule—keep asking until the underlying systemic cause emerges. It is most effective when answers are grounded in observable facts rather than speculation, and when used with cross-functional teams who bring different perspectives. The goal is to fix the process, not blame the people.
+
+Example: A manufacturing line stops. Why? A fuse blew. Why? The bearing overheated. Why? Lubrication was insufficient. Why? The pump wasn't delivering oil. Why? The pump shaft was worn. Why? No preventive maintenance schedule existed for the pump—the root cause.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-five-whys/

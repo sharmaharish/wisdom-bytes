@@ -1,0 +1,9 @@
+Name: Roemer's Law
+Category: engineering-laws
+Tags: healthcare, supply-demand, policy, unintended-consequences
+
+The principle that in an insured population, a hospital bed built is a bed filled — supply creates its own demand. Unlike typical markets where demand drives supply, healthcare providers act as both gatekeepers and suppliers, creating a dynamic where available capacity gets utilized regardless of genuine need. When new beds are added, clinicians find reasons to admit patients and extend stays, often driven by incentives to justify the investment rather than by medical necessity.
+
+Example: A hospital opens a new 50-bed wing. Admission rates for conditions previously treated outpatient, such as mild pneumonia or observation cases, increase proportionally. The same population generates more hospitalizations simply because the capacity now exists, inflating costs without measurable improvement in population health outcomes.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-roemers-law/

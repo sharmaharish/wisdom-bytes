@@ -1,0 +1,9 @@
+Name: Chart Junk
+Category: design-principles
+Tags: visualization, data, design, communication
+
+Coined by Edward Tufte, chart junk refers to visual elements in graphs and charts that add no informational value — unnecessary grid lines, 3D perspective effects, excessive color gradients, and decorative flourishes. These elements increase cognitive load and obscure the data. Tufte advocates for maximizing the data-ink ratio: every pixel should convey information. Removing chart junk makes visualizations clearer, more honest, and more persuasive.
+
+Example: A PowerPoint bar chart showing quarterly revenue uses 3D cylinders, a gradient background, and horizontal grid lines every 5 units. Removing the 3D effect, flattening the colors, and using minimal grid lines produces a chart that communicates the same data instantly — and the audience focuses on the trend, not the decoration.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-chart-junk/

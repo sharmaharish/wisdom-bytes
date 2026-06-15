@@ -1,0 +1,9 @@
+Name: Agon Sports vs. Helix Sports
+Category: mental-models
+Tags: competition, play, motivation, psychology
+
+J. B. Jackson distinguished agon sports (from Greek "agon" meaning contest) as direct, zero-sum competition where participants struggle against each other for victory—wrestling, boxing, team sports. Helix sports (from "helix" meaning spiral) focus on personal mastery and self-improvement over time, like archery, rock climbing, or long-distance running. Agon sports reflect cultural values of dominance and individual achievement, while helix sports emphasize the journey, internal competition, and continuous growth. This framework applies beyond athletics to business, education, and personal development, where both competitive drive and mastery orientation play complementary roles.
+
+Example: In a sales organization, an agon approach pits reps against each other in a leaderboard with a single winner, while a helix approach tracks each rep's personal improvement in close rate and customer satisfaction quarter over quarter.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-agon-sports-vs-helix-sports/

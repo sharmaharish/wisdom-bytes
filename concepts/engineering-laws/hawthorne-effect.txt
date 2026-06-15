@@ -1,0 +1,9 @@
+Name: Hawthorne Effect
+Category: engineering-laws
+Tags: observation, productivity, psychology, behavior
+
+A phenomenon where individuals modify their behavior in response to being observed. First identified during 1920s-30s experiments at the Hawthorne Works factory, where productivity rose regardless of whether working conditions improved or worsened. Later research questioned whether the original experiments were well-designed, but the core insight remains: the act of measurement itself can influence outcomes. The effect is stronger in individualistic cultures and when the observer is a supervisor rather than a peer.
+
+Example: An engineering manager introduces a daily standup where each developer reports their progress on Jira tickets. The team's velocity metrics improve by 20% over the next two weeks. However, this does not reflect better planning or execution — developers simply work faster and cut corners because they know their output is being scrutinized. The improvement vanishes once the standup is removed, revealing it was an artifact of observation.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-hawthorne-effect/

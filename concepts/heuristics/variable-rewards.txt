@@ -1,0 +1,9 @@
+Name: Variable Rewards
+Category: heuristics
+Tags: motivation, psychology, engagement, habits
+
+Variable rewards deliver unpredictable outcomes for a repeated action, making the behavior more compelling than if every attempt were rewarded consistently. Originating from B.F. Skinner's experiments with rats, the principle shows that uncertainty amplifies engagement because dopamine release occurs during anticipation, not just upon receiving the reward. This mechanism drives habit formation in social media (notifications), gaming (loot drops), and gambling. The same lever that builds positive habits can also fuel addiction, making responsible design critical.
+
+Example: A pull-to-refresh in a social media app shows different content each time — sometimes a like, sometimes a comment, sometimes nothing. This unpredictability keeps users checking compulsively, far more than a fixed "you have 3 notifications" badge ever would.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-variable-rewards/

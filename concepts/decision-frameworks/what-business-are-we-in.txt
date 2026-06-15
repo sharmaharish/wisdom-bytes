@@ -1,0 +1,9 @@
+Name: What Business Are We In?
+Category: decision-frameworks
+Tags: strategy, positioning, focus, purpose
+
+Popularized by Peter Drucker, this deceptively simple question forces organizations to define themselves by the customer need they fulfill, not the product they sell. Companies that get the answer wrong become obsolete (typewriter makers who thought they were in the "typewriter business" rather than the "written communication business"). Getting it right unlocks new markets, guides innovation, and prevents narrow strategic thinking. It is best revisited regularly, especially during strategic reviews or when market shifts threaten the status quo.
+
+Example: A company selling physical GPS navigation devices realizes they are not in the "GPS hardware business" but in the "helping people reach destinations reliably" business. This reframes their strategy: instead of defending shrinking hardware margins, they invest in a turn-by-turn mobile navigation app with real-time traffic, expand into fleet logistics software, and eventually license their routing engine to automakers. The product changes; the customer need stays the same.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-what-business-are-we-in/

@@ -1,0 +1,9 @@
+Name: Revealed Preference
+Category: economic-principles
+Tags: economics, behavior, choice, decision-making
+
+A theory pioneered by Paul Samuelson that infers what people truly value from their actual choices rather than their stated beliefs. People often claim aspirational preferences — what they think they should value — but their actions reveal their genuine priorities. This insight exposes the gap between intention and behavior, making it a powerful tool for policymakers, marketers, and anyone trying to understand human decision-making. Stated preferences tell you what people want to believe about themselves; revealed preferences tell you what they actually do.
+
+Example: A professional who says career growth is their top priority but spends every evening watching Netflix reveals, through their actions, that entertainment is currently more important than professional development.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-revealed-preference/

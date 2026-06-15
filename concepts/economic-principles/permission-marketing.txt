@@ -1,0 +1,9 @@
+Name: Permission Marketing
+Category: economic-principles
+Tags: marketing, attention, trust, advertising
+
+Seth Godin's framework that flips traditional advertising on its head: instead of interrupting people with unwanted messages, marketers ask for explicit consent before communicating. Permission turns strangers into prospects who anticipate and welcome relevant content, building trust over time rather than eroding it. The approach shifts the marketer's job from capturing attention to maintaining the privilege of being invited back. Permission marketing is the foundation of email newsletters, opt-in alerts, and content marketing strategies.
+
+Example: A consulting firm offers a free industry report in exchange for an email address, then sends a weekly newsletter that readers explicitly opted into — rather than cold-calling executives who never asked to hear from them.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-permission-marketing/

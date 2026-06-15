@@ -1,0 +1,9 @@
+Name: What Am I Avoiding?
+Category: heuristics
+Tags: procrastination, reflection, productivity, mindset
+
+A simple introspective question designed to surface uncomfortable tasks, decisions, or conversations that are being unconsciously delayed. By naming what you're avoiding, you expose the underlying fear — whether it's bad news, difficult feedback, or uncertainty — and turn a vague unease into a concrete action item. The question is a powerful tool for unblocking stalled projects and personal productivity.
+
+Example: A developer keeps postponing a code review. Asking "What am I avoiding?" reveals they're afraid the author will push back on critical feedback. Naming this lets them prepare specific, constructive comments and schedule the review — the anticipation was worse than the event.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-am-i-avoiding/

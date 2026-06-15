@@ -1,0 +1,9 @@
+Name: Subtraction
+Category: mental-models
+Tags: simplicity, improvement, removal, design
+
+Leidy Klotz's concept of Subtraction argues that when faced with a problem, people instinctively add elements rather than remove them, even though removal can be more effective. By deliberately subtracting features, steps, or components, we can achieve simpler, more elegant solutions. Subtraction is central to design thinking and lean methodologies, where minimizing waste and complexity leads to better outcomes. It requires conscious effort because addition feels more productive than removal, yet the most impactful innovations often come from what is taken away.
+
+Example: The original iPhone subtracted the physical keyboard that every smartphone had at the time, replacing it with a touchscreen interface. This removal of complexity defined the product category and reshaped the mobile industry.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-subtraction/

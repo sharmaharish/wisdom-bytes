@@ -1,0 +1,9 @@
+Name: Conquest's Second Law
+Category: engineering-laws
+Tags: organizations, bureaucracy, mission-creep, management
+
+The observation that every organization appears to be run by secret agents of its opponents. This is not about literal espionage but about how organizations drift away from their original purpose over time. Layers of management, internal politics, and risk aversion cause people to prioritize career preservation and departmental interests over the mission. The result is behavior that looks like self-sabotage — defending outdated processes, resisting necessary change, and making decisions that serve internal stability rather than organizational goals.
+
+Example: A startup's engineering team initially ships code fast and iterates on user feedback. As the company grows, it adds release boards, change approval committees, and lengthy QA gates. Engineers spend more time filling out forms than writing features. The organization now appears to be working against its own goal of delivering value to users.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-conquests-second-law/

@@ -1,0 +1,9 @@
+Name: Revolt of the Public
+Category: mental-models
+Tags: politics, technology, populism, disruption
+
+Martin Gurri's framework describes how the digital revolution's information explosion shifted power from traditional gatekeepers—governments, media, academia—to the public. Anyone with a smartphone can expose lies, organize movements, and challenge authority, breaking the old model of scarce, controlled information. The public no longer defers to elites, leading to widespread uprisings from the Arab Spring to Brexit to Occupy. However, these movements excel at tearing down authority but struggle to build lasting alternatives, creating cycles of chaos without stable replacement.
+
+Example: The Arab Spring (2010-2012) saw citizens using social media to coordinate protests, bypass state-controlled media, and topple long-standing regimes, only for many countries to descend into civil war or new authoritarianism rather than stable democracies.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-revolt-of-the-public/

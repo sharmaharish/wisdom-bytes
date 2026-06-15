@@ -1,0 +1,9 @@
+Name: Legibility
+Category: design-principles
+Tags: measurement, visibility, control, systems
+
+From James C. Scott's "Seeing Like a State," legibility describes the drive of large organizations to simplify complex realities into standardized, measurable forms — maps, statistics, IDs, metrics — to enable control and administration. The danger is that simplification erases local knowledge, nuance, and context that resist quantification. Over-optimizing for legibility can lead to brittle systems that fail to account for what cannot be measured.
+
+Example: A company reduces engineering productivity to a single metric — story points completed per sprint. Teams game the system by inflating estimates and splitting stories. The metric is legible to management but obscures code quality, technical debt, and collaboration. The system that was "clear" becomes misleading.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-legibility/

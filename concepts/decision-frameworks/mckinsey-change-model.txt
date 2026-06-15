@@ -1,0 +1,9 @@
+Name: McKinsey Change Model
+Category: decision-frameworks
+Tags: change-management, leadership, transformation, organization
+
+The McKinsey Change Model identifies four conditions that must all be met for behavioral change to stick in an organization: Understanding and commitment (people need to grasp why the change matters and buy into it), Skills (they must be trained to execute the new behavior), Role modeling (leaders and respected peers must visibly practice the change), and Management systems (processes that monitor compliance, reward adoption, and address non-compliance). Missing any one element creates a failure mode—for example, training people (skills) without explaining the rationale (understanding) leads to resistance.
+
+Example: A company mandates a new expense reporting tool. To drive adoption: (1) Leadership explains that the old process costs 200 hours of finance time per month and the new tool automates approvals. (2) All employees receive a 30-minute walkthrough of the tool. (3) The CFO and department heads submit their own expenses through the new system first, visibly. (4) Finance runs a monthly compliance report and the team that adopts fastest gets a team lunch. Without any one of these, adoption stalls.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-mckinsey-change-model/

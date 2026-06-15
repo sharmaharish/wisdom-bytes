@@ -1,0 +1,9 @@
+Name: Tiny Habits
+Category: heuristics
+Tags: behavior-change, productivity, habits, consistency
+
+BJ Fogg's Tiny Habits method argues that lasting behavior change comes from starting so small you can't fail. Instead of committing to an hour of exercise, do one push-up. The core framework is ABC: Anchor (tie the habit to an existing routine), Behavior (make it tiny), Celebration (reinforce with positive emotion). Tiny habits work because they bypass the barriers of motivation and willpower — a habit that takes seconds can be done even when tired or busy. Over time, these micro-behaviors compound into significant change.
+
+Example: To build a writing habit, anchor it to making morning coffee: "After I pour my coffee, I will write one sentence." The tiny behavior removes friction, and over weeks that single sentence naturally grows into paragraphs and pages.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-are-tiny-habits/

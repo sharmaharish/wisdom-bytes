@@ -1,0 +1,9 @@
+Name: Twelve Favorite Problems
+Category: mental-models
+Tags: curiosity, creativity, problem-solving, knowledge
+
+Richard Feynman's practice of keeping a rotating list of twelve open, important questions always top of mind. By carrying these problems everywhere, he could notice when new information encountered in daily life—a conversation, an article, a random observation—shed unexpected light on one of them. This approach transforms passive learning into active pattern-matching: every new idea gets tested against your deepest questions. The number twelve is not rigid; the principle is maintaining a focused set of meaningful unsolved problems as a lens for filtering the world.
+
+Example: A CEO keeps these on her list: "How do we retain top talent?" and "How do we reduce indirect costs?" While reading about a restaurant's unique employee benefits program, she realizes the same approach could reduce turnover at her company—a connection she would have missed without the problem being top of mind.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-twelve-favorite-problems/

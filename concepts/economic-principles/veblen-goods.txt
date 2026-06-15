@@ -1,0 +1,9 @@
+Name: Veblen Goods
+Category: economic-principles
+Tags: economics, luxury, pricing, demand
+
+Products for which demand increases as price rises, violating the standard law of supply and demand. Named after Thorstein Veblen, these goods are purchased primarily for the social status they confer rather than their functional utility. The high price itself is the feature — it signals wealth and exclusivity. Luxury brands carefully manage the tension between exclusivity and accessibility, because if too many people own the product, it loses its cachet.
+
+Example: A $10,000 handbag made from the same materials as a $200 handbag sells more units at the higher price because buyers value what it signals about their status, not just what it carries.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-veblen-goods/

@@ -1,0 +1,9 @@
+Name: 5S
+Category: design-principles
+Tags: organization, lean, efficiency, workplace
+
+A lean methodology originating from Japanese manufacturing, consisting of five phases: Sort (remove unnecessary items), Simplify (organize remaining items), Sweep/Shine (clean and maintain), Standardize (create repeatable procedures), and Sustain (audit and maintain improvements). The goal is a workspace where everything has its place, waste is minimized, and efficiency is built into the physical environment. 5S applies beyond factories to offices, digital workspaces, and even codebases.
+
+Example: A development team applies 5S to a legacy codebase by sorting unused dependencies and dead code (Sort), organizing files into a consistent directory structure (Simplify), running automated linters and formatters (Shine), agreeing on coding standards documented in a contributing guide (Standardize), and enforcing them in code review (Sustain).
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-5s/

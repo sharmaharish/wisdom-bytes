@@ -1,0 +1,9 @@
+Name: Dreyfus Model of Skill Acquisition
+Category: mental-models
+Tags: learning, expertise, skill-development, mastery
+
+The Dreyfus brothers' model describes five stages of skill development: Novice (relies on rigid rules), Advanced Beginner (recognizes patterns but struggles with nuance), Competent (handles complexity with deliberate planning), Proficient (intuitive grasp of the big picture), and Expert (fluid, instinctive performance without conscious rule-following). Each stage requires different teaching approaches—novices need clear instructions, while experts benefit from challenges that push boundaries. The model emphasizes that true expertise comes from experience and reflection, not just formal instruction.
+
+Example: A novice chess player follows opening rules by rote. An expert like Magnus Carlsen recognizes board patterns instantly and makes intuitive moves that seem unconventional to others but flow from thousands of hours of deep pattern recognition.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-the-dreyfus-model-of-skill-acquisition/

@@ -1,0 +1,9 @@
+Name: Givers, Takers, and Matchers
+Category: mental-models
+Tags: reciprocity, collaboration, organizational-behavior, success
+
+Adam Grant's framework divides workplace interactions into three reciprocity styles. Givers help others without expecting immediate return, takers aim to get more than they give, and matchers operate on tit-for-tat, keeping score. Contrary to intuition, givers tend to be the most successful long-term—they build strong networks, trust, and collaboration. However, givers risk burnout if they lack boundaries; strategic giving to fellow givers and using tit-for-tat as a safeguard prevents exploitation.
+
+Example: A colleague who freely shares credit, helps juniors learn, and answers questions without angling for favors is a giver. Over time, that person builds a reputation that attracts opportunities and loyal collaborators, while takers get short-term gains but alienate their network.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-givers-takers-and-matchers/

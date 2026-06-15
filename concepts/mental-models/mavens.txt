@@ -1,0 +1,9 @@
+Name: Mavens
+Category: mental-models
+Tags: expertise, influence, knowledge-sharing, social-dynamics
+
+Malcolm Gladwell's term from The Tipping Point describes people who accumulate deep knowledge in a domain and are driven to share it. Mavens are information brokers—they discover new products, trends, or ideas early and actively recommend them to their wide networks. They are distinguished not just by expertise but by their motivation to help others make better decisions. In business, identifying and engaging mavens can accelerate product adoption and market penetration because their recommendations carry unusual trust and influence.
+
+Example: Grace Hopper, a computer science pioneer, developed COBOL and tirelessly advocated for common technical standards across the industry. Her deep expertise and drive to teach and share made her a maven who shaped modern computing.
+
+Source: https://umbrex.com/resources/tools-for-thinking/what-is-mavens/
