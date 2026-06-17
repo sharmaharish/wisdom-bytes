@@ -120,6 +120,7 @@ These sources are identified but not yet incorporated:
 | [github.com/henu-wang/mental-models-handbook](https://github.com/henu-wang/mental-models-handbook) | Mental models (25+, multidisciplinary) |
 | [github.com/jarmolkowicz/modern-mind-knowledge-base](https://github.com/jarmolkowicz/modern-mind-knowledge-base) | AI-era concepts (55) |
 | [github.com/metaphorex/metaphorex](https://github.com/metaphorex/metaphorex) | Cross-domain conceptual metaphors |
+| [thedecisionlab.com](https://thedecisionlab.com/biases-index) | Cognitive biases & decision science |
 
 ## License
 
